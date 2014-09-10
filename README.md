@@ -63,3 +63,4 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Bryan Garza http://bryangarza.me
 - Azam Abdulkadir http://azamabdul.com
 - Dan Zhang www.danzhang.net
+- Karan Shah www.karanprime.com
