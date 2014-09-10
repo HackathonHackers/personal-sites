@@ -76,3 +76,8 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Terry Piercson http://taehongmin.com/
 - Kevin Payravi http://www.kevinpayravi.com/
 - Srijay Kasturi http://techfilmer.com
+- Athul Atom Vayalinkal http://vayalinkal.com
+- David BasedMathematician Coven http://davidcoven.me
+- Diana Zink http://doerhub.com/of/diana
+- Jonny Krysh http://www.jonnykrysh.com
+- Abody Aljoudi https://chrismatic.io/
