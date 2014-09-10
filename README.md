@@ -82,3 +82,4 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jonny Krysh http://www.jonnykrysh.com
 - Abody Aljoudi https://chrismatic.io/
 - Ian Carroll https://ian.sh
+- Jessica Chang http://jessmchang.com
