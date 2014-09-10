@@ -67,3 +67,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Cary Anderson www.cary.guru
 - Sebastian Merz http://smerz.io
 - Jordan Arnesen www.byjor.com
+- Steve Dean http://about.me/stevenmdean
+- Morgante Pell http://morgante.net
+- Rõhith Varanasi http://rohithvaranasi.com
+- Brian Chu www.brianchu.com
