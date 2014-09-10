@@ -66,3 +66,4 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Karan Shah www.karanprime.com
 - Cary Anderson www.cary.guru
 - Sebastian Merz http://smerz.io
+- Jordan Arnesen www.byjor.com
