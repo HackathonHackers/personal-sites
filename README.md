@@ -73,3 +73,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Brian Chu www.brianchu.com
 - Andy Kamath http://andykamath.com
 - Jennifer Apacible http://japacible.github.io/
+- Terry Piercson http://taehongmin.com/
+- Kevin Payravi http://www.kevinpayravi.com/
+- Srijay Kasturi http://techfilmer.com
