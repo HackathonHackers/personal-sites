@@ -64,3 +64,5 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Azam Abdulkadir http://azamabdul.com
 - Dan Zhang www.danzhang.net
 - Karan Shah www.karanprime.com
+- Cary Anderson www.cary.guru
+- Sebastian Merz http://smerz.io
