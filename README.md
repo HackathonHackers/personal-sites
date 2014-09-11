@@ -86,3 +86,5 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Pranav Chaudhari http://excelworld.eu/
 - Fletcher Richman http://fletcher.io
 - Max Shavrick http://mxms.pw
+- Kaustav Haldar http://kaustavha.github.com
+- Nithi Narayanan http://nithi.io/
