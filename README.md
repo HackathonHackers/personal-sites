@@ -77,6 +77,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nithi Narayanan http://nithi.io/
 - Paweł Szczurko www.pawel.pw
 - Pranav Chaudhari http://excelworld.eu/
+- Rishi Dhanaraj http://rishi.io
 - Roger Zou http://rogergzou.com
 - Ruiqi Mao http://www.ruiqimao.com/
 - Ryhan Hassan http://ryhan.org
