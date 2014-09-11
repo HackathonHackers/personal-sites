@@ -80,6 +80,8 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rishi Dhanaraj http://rishi.io
 - Roger Zou http://rogergzou.com
 - Ruiqi Mao http://www.ruiqimao.com/
+- Ryan Choi http://ryanjchoi.com
+- Ryan Lin http://ryanlin.com
 - Ryhan Hassan http://ryhan.org
 - Rõhith Varanasi http://rohithvaranasi.com
 - Saleh Hamadeh http://shamadeh.com
