@@ -85,3 +85,4 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jessica Chang http://jessmchang.com
 - Pranav Chaudhari http://excelworld.eu/
 - Fletcher Richman http://fletcher.io
+- Max Shavrick http://mxms.pw
