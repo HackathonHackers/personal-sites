@@ -22,6 +22,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
 - Cary Anderson www.cary.guru
+- Cassidy Williams http://cassidoo.co
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
 - Colin Mcillece http://cmacca.github.io
