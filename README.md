@@ -57,6 +57,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jonny Krysh http://www.jonnykrysh.com
 - Jordan Arnesen www.byjor.com
 - Justice Suh http://justicesuh.com
+- Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Payravi http://www.kevinpayravi.com/
