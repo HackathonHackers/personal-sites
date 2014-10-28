@@ -66,6 +66,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Krishn Ramesh http://krishn.me
 - Kyle Johnson http://kylejson.com
 - Li Xuanji http://xuanji.li
+- Mahir Kothary http://mahirk.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
 - Matt Condon http://matt.cond.in
 - Matthew Bentley http://mtbentley.us
