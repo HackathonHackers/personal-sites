@@ -68,6 +68,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Li Xuanji http://xuanji.li
 - Mahir Kothary http://mahirk.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
+- Matt Chan http://themattchan.com/
 - Matt Condon http://matt.cond.in
 - Matthew Bentley http://mtbentley.us
 - Matthew Bucci http://matthewbucci.com
