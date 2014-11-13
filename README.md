@@ -47,6 +47,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jack Korbin www.lykpic.com
 - Jack McGrath http://handsome.rocks
 - Jairam Patel http://jairampatel.com/
+- James Billingham http://jamesbillingham.com
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.lemonainc.com
 - Jay Mo http://unitedjaymo.com/
