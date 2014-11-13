@@ -76,6 +76,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Megan Ruthven http://maruthven.com/
 - Melanie Hsu http://bluemelodia.com/
 - Michael Borohovski http://shanewilton.com
+- Michael Ho Chum http://michaelchum.com
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Neal Shyam http://nealshyam.com
