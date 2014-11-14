@@ -43,6 +43,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Hayden Lee http://haydenlee.io/
 - Hugh Rawlinson http://hughrawlinson.me/
 - Ian Carroll https://ian.sh
+- Ian Jennings http://ianjennin.gs
 - Iheanyi Ekechukwu http://iheanyi.com
 - Jack Korbin www.lykpic.com
 - Jack McGrath http://handsome.rocks
