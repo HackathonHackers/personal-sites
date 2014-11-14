@@ -1,7 +1,7 @@
 Hackathon Hackers' Personal Websites
 ====================================
 
-Sorted alphabetically.
+Sorted alphabetically by first name.
 https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 
 - Aaron Dancer http://aarondancer.com
@@ -79,6 +79,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Melanie Hsu http://bluemelodia.com/
 - Michael Borohovski http://shanewilton.com
 - Michael Ho Chum http://michaelchum.com
+- Michael Zhang http://failedxyz.github.io
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Neal Shyam http://nealshyam.com
