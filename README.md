@@ -99,6 +99,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sebastian Merz http://smerz.io
+- Sean Smith http://seanssmith.me
 - Seer O'Salomon www.christianvermeulen.net
 - Song Zheng http://songz.me/
 - Srijay Kasturi http://techfilmer.com
