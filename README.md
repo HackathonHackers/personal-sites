@@ -24,6 +24,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Bryan Garza http://bryangarza.me
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
+- Chirag Chauhan http://chiragchauhan.com
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
 - Colin Mcillece http://cmacca.github.io
