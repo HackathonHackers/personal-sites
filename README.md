@@ -66,6 +66,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jordan Arnesen www.byjor.com
 - Justice Suh http://justicesuh.com
 - Justin Cano http://jcano.me
+- Justin Chan http://justinthec.me
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
 - Kaustav Haldar http://kaustavha.github.com
