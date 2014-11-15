@@ -54,6 +54,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jaxon Stevens www.lemonainc.com
 - Jay Mo http://unitedjaymo.com/
 - Jennifer Apacible http://japacible.github.io/
+- Jerrick Davis http://jerrick.us
 - Jesse Chand http://jessechand.com
 - Jessica Chang http://jessmchang.com
 - Jing Xiao http://www.notajingoist.com/index.html
