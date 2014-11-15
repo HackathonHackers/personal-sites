@@ -11,6 +11,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andreas Limberopoulos www.limbera.com.au
 - Andrew Q Tran http://andrewqtran.com
 - Andy Kamath http://andykamath.com
+- Anurag Banerjee http://anuragbanerjee.me
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
 - Athul Atom Vayalinkal http://vayalinkal.com
