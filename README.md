@@ -75,6 +75,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kyle Johnson http://kylejson.com
 - Li Xuanji http://xuanji.li
 - Mahir Kothary http://mahirk.me
+- Mark Ormesher http://ormo.me
 - Matheus C. Candido http://cassiano.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
 - Matt Chan http://themattchan.com/
