@@ -91,6 +91,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Neal Shyam http://nealshyam.com
+- Nelson Gomez http://ngomez.me
 - Nicholas Brown http://kompulsa.com
 - Nishanth Shanmugham http://nishanth.io
 - Nithi Narayanan http://nithi.io/
