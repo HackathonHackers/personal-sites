@@ -84,6 +84,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Michael Borohovski http://shanewilton.com
 - Michael Ho Chum http://michaelchum.com
 - Michael Zhang http://failedxyz.github.io
+- Milson Munakami http://milstein.me
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Neal Shyam http://nealshyam.com
