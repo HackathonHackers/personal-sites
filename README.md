@@ -104,6 +104,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
+- Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Song Zheng http://songz.me/
