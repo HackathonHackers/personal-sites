@@ -44,6 +44,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Eugene Cheung www.echeung.me
 - Fletcher Richman http://fletcher.io
 - Frank Cash http://hackerqueue.io
+- Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
 - Grant Timmerman http://grant.cm
 - Guilherme Berger http://gberger.me
