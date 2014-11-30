@@ -108,6 +108,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Pranav Chaudhari http://excelworld.eu/
 - Raghav Sood http://raghavsood.com
 - Rashiq Ahmad http://rashiq.me
+- Richard Chu http://churichard.me/
 - Rishi Dhanaraj http://rishi.io
 - Roger Zou http://rogergzou.com
 - Ruiqi Mao http://www.ruiqimao.com/
