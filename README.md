@@ -26,6 +26,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Brian Lutz www.btlutz.com
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
+- Caitlin McDonald http://www.caitlinamcdonald.com
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
 - Chirag Chauhan http://chiragchauhan.com
