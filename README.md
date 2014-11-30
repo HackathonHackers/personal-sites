@@ -105,6 +105,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Paweł Szczurko www.pawel.pw
 - Pranav Chaudhari http://excelworld.eu/
 - Rashiq Ahmad http://rashiq.me
+- Raghav Sood http://raghavsood.com
 - Rishi Dhanaraj http://rishi.io
 - Roger Zou http://rogergzou.com
 - Ruiqi Mao http://www.ruiqimao.com/
