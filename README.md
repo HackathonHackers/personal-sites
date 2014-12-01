@@ -14,6 +14,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andrew Q Tran http://andrewqtran.com
 - Andy Kamath http://andykamath.com
 - Anurag Banerjee http://anuragbanerjee.me
+- Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
 - Athul Atom Vayalinkal http://vayalinkal.com
