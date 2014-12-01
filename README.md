@@ -54,6 +54,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Hugh Rawlinson http://hughrawlinson.me/
 - Ian Carroll https://ian.sh
 - Ian Jennings http://ianjennin.gs
+- Ignacio Alonso http://ignacioalonso.me
 - Iheanyi Ekechukwu http://iheanyi.com
 - Jack Korbin www.lykpic.com
 - Jack McGrath http://handsome.rocks
