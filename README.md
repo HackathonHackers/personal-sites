@@ -84,6 +84,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Krish Dholakiya http://itskrish.co
 - Krishn Ramesh http://krishn.me
 - Kyle Johnson http://kylejson.com
+- Laurence Welch http://laurencewelch.com
 - Li Xuanji http://xuanji.li
 - Mahir Kothary http://mahirk.me
 - Maria Chavez http://mariachavez.co
