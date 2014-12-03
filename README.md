@@ -121,6 +121,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rishi Dhanaraj http://rishi.io
 - Roger Zou http://rogergzou.com
 - Ruiqi Mao http://www.ruiqimao.com/
+- Rushy Panchal https://panchr.me
 - Ryan Choi http://ryanjchoi.com
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
