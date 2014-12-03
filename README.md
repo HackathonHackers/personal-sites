@@ -25,6 +25,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
 - Brian Chu www.brianchu.com
+- Brian Chuk http://devchuk.github.io/
 - Brian Lutz www.btlutz.com
 - Brijesh Patel https://about.me/brijeshpatel9
 - Bruno B. Ferrari Faviero http://brunofaviero.com
