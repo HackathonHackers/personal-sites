@@ -111,7 +111,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nicholas Brown http://kompulsa.com
 - Nishanth Shanmugham http://nishanth.io
 - Nithi Narayanan http://nithi.io/
-- Ore Aleb http://web.engr.illinois.edu/~alebios2/
+- Ore Aleb http://oreoluwa.me/
 - Parth Mehrotra http://parthmehrotra.com
 - Paweł Szczurko www.pawel.pw
 - Pranav Chaudhari http://excelworld.eu/
