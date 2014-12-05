@@ -13,6 +13,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andrew Hollenbach www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
 - Andy Kamath http://andykamath.com
+- Antonio Marino http://antoniomarino.me
 - Anurag Banerjee http://anuragbanerjee.me
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
