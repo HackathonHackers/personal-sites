@@ -139,6 +139,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Shane DeWael http://shanedewael.com/
 - Song Zheng http://songz.me/
 - Srijay Kasturi http://techfilmer.com
+- Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
 - Steve Dean http://about.me/stevenmdean
 - Terry Piercson http://taehongmin.com/
