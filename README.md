@@ -41,6 +41,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - David BasedMathematician Coven http://davidcoven.me
+- David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
 - Diana Zink http://doerhub.com/of/diana
 - Eli White http://eli-white.com
