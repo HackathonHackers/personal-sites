@@ -82,6 +82,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Karan Shah www.karanprime.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Payravi http://www.kevinpayravi.com/
+- Kevin Yeh http://kyeh.me
 - Kirby Kohlmorgen http://kirbyk.me
 - Krish Dholakiya http://itskrish.co
 - Krishn Ramesh http://krishn.me
