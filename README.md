@@ -137,6 +137,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Shane DeWael http://shanedewael.com/
+- Shy Ruparel http://Ruparel.co
 - Song Zheng http://songz.me/
 - Srijay Kasturi http://techfilmer.com
 - Stephan Boyer http://www.stephanboyer.com
