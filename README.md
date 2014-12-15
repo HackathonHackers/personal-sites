@@ -112,6 +112,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nicholas Brown http://kompulsa.com
 - Nishanth Shanmugham http://nishanth.io
 - Nithi Narayanan http://nithi.io/
+- Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
 - Parth Mehrotra http://parthmehrotra.com
 - Paweł Szczurko www.pawel.pw
