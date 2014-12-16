@@ -44,6 +44,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
 - Diana Zink http://doerhub.com/of/diana
+- Dhruv Arora http://arora.io
 - Eli White http://eli-white.com
 - Elissa Shevinsky http://elissashevinsky.com
 - Eugene Cheung www.echeung.me
