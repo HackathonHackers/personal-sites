@@ -50,6 +50,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
 - Frank Cash http://hackerqueue.io
+- Gautam Mittal http://www.gautam.cc
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
 - Grant Timmerman http://grant.cm
