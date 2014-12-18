@@ -15,6 +15,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andy Kamath http://andykamath.com
 - Antonio Marino http://antoniomarino.me
 - Anurag Banerjee http://anuragbanerjee.me
+- Ari VanIderstine http://ariari.io
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
