@@ -9,6 +9,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Achal Varma http://acha.lv/
 - Akshay Dixit http://akshaydixi.me
 - Alex Vallorosi http://alexx.xxx/new.html
+- Andras Varga http://avarga.me
 - Andreas Limberopoulos www.limbera.com.au
 - Andrew Hollenbach www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
