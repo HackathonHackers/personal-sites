@@ -45,6 +45,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
+- Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
 - Dylan McIntyre http://dmcintyre.net
 - Eli White http://eli-white.com
