@@ -105,6 +105,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Matt Condon http://matt.cond.in
 - Matthew Bentley http://mtbentley.us
 - Matthew Bucci http://matthewbucci.com
+- Matthew Kaiser http://mkaiser.io
 - Max Shavrick http://mxms.pw
 - Megan Ruthven http://maruthven.com/
 - Melanie Hsu http://bluemelodia.com/
