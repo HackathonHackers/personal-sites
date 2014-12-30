@@ -82,6 +82,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jonathan Almeida http://jonalmeida.com
 - Jonny Krysh http://www.jonnykrysh.com
 - Jordan Arnesen www.byjor.com
+- Jordan Matelsky www.jordan.matelsky.com
 - Justice Suh http://justicesuh.com
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
