@@ -188,6 +188,7 @@ Hackathon Hackers' GitHub profiles
 - Ajmal Khan https://github.com/Ajrator
 - Akshay Bakshi https://github.com/agentakki
 - Akshay Dixit https://github.com/akshaydixi
+- Alan Plotko https://github.com/alanplotko
 - Albert Guo https://github.com/guozhaonan
 - Alejo Rivera https://github.com/alejorivera
 - Alek Festekjian https://github.com/alekfestekjian
@@ -224,6 +225,7 @@ Hackathon Hackers' GitHub profiles
 - Basil Siddiqui https://github.com/bsiddiqui
 - Ben Alderfer https://github.com/balderfer
 - Ben Cohen https://github.com/benjamincohen1
+- Benjamin Yin https://github.com/precociouslydigital
 - Ben Rosenberg https://github.com/benrosenberg
 - Ben Stobaugh https://github.com/Legoben
 - Bilawal Hameed https://github.com/bih
@@ -245,12 +247,14 @@ Hackathon Hackers' GitHub profiles
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
 - Charles Shen https://github.com/rarabai
+- Chirag Chauhan https://github.com/crc442
 - Chris Lee https://github.com/chrispmlee
 - Chuby Okafor https://github.com/chubylive
 - Chuck Nweke https://github.com/kidwalom
 - Collin Hartigan https://github.com/cissovereign
 - Colton Anglin https://github.com/colton
 - Conrad Kramer https://github.com/conradev
+- Courtney Gray Tambling https://github.com/tamblc
 - Cristopher Bello https://github.com/cris1133
 - Dag Yeshiwas https://github.com/cozma
 - Daniel Golman https://github.com/dgolman
@@ -268,8 +272,10 @@ Hackathon Hackers' GitHub profiles
 - David Song https://github.com/dstratossong
 - David Zhao https://github.com/dzhxo
 - Deepak Parpyani https://github.com/dparpyani
+- Derrick Duncan https://github.com/coderrick
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
+- Devon Ngo https://github.com/devonngo
 - Dhruv Arora https://github.com/dhruvarora
 - Douglas Bumby https://github.com/istx25
 - Drbyo Mkwi https://github.com/Dirbaio
@@ -287,6 +293,7 @@ Hackathon Hackers' GitHub profiles
 - Eugene Cheung https://github.com/arkon
 - Faiq Raza https://github.com/faiq
 - Farrukh Jadoon https://github.com/fkjadoon94
+- Feifan Zhou https://github.com/feifanzhou
 - Fernando Trujano https://github.com/fertogo
 - Frank Cash https://github.com/frankcash
 - Frederik Riedel https://github.com/quappi
@@ -336,7 +343,9 @@ Hackathon Hackers' GitHub profiles
 - Jawad Nasser https://github.com/jawadmn
 - Jax Reiff https://github.com/jaxuru
 - Jaydeep Singh https://github.com/Jsinghdreams
+- Jay Zalowitz https://github.com/jayzalowitz
 - Jeremy Meyer https://github.com/jjman505
+- Jeroen Goossens https://github.com/penguinologist
 - Jerry Reptak https://github.com/JetFault
 - Jesse https://github.com/jtcollins90
 - Jesse Hu https://github.com/Huyouare
@@ -421,6 +430,7 @@ Hackathon Hackers' GitHub profiles
 - Milan Dasgupta https://github.com/milanocookies93
 - Milind Shah https://github.com/promilo
 - Milstein Munakami https://github.com/Milstein
+- Miquel Llobet https://github.com/mllobet
 - Moksh Jawa https://github.com/mokshjawa
 - Morgante Pell https://github.com/morgante
 - Moshe Berman https://github.com/Mosheberman
@@ -435,6 +445,7 @@ Hackathon Hackers' GitHub profiles
 - Nicholas Kee https://github.com/nkkee
 - Nick Maxwell https://github.com/nickmaxwell10
 - Nicky Semenza https://github.com/nickysemenza
+- Nico Hinderling https://github.com/nicohinderling
 - Nicole Flokos https://github.com/silicarich
 - Nidhin N https://github.com/lithium-03
 - Nikhil Srinivasan https://github.com/nikhilsrinivasan
@@ -449,11 +460,13 @@ Hackathon Hackers' GitHub profiles
 - Panashe Mahachi https://github.com/panashemahachi
 - Pavleen Thukral https://github.com/Thepav
 - Paweł Szczurko https://github.com/ps
+- Payam Ghobadpour https://github.com/payam-g
 - Pierce Stegman https://github.com/pwstegman
 - Prachi Bodas https://github.com/prbodas
 - Prajwal Kedilaya https://github.com/pjIowa
 - Pranay Pareek https://github.com/pranaypareek
 - Prithvi Narasimhan https://github.com/prithvin
+- Purag Moumdjian https://github.com/purmou
 - Rafael Khan https://github.com/rafkhan
 - Rafa Mkrtchyan https://github.com/MicBrain
 - Rafa Moreno https://github.com/ralphie9224
@@ -461,6 +474,7 @@ Hackathon Hackers' GitHub profiles
 - Rakesh Das https://github.com/rakeshdas1
 - Rakshit Pithadia https://github.com/rpithadia25
 - Rameez Remsudeen https://github.com/remzr7
+- Ram Hari Dahal https://github.com/dahalram
 - Randall Hunt https://github.com/ranman
 - Raphael Gontijo Lopes https://github.com/irapha
 - Raphael Kats https://github.com/raphaelrk
@@ -506,10 +520,12 @@ Hackathon Hackers' GitHub profiles
 - Sakib Jalal https://github.com/sakibj
 - Saksham Sachdev https://github.com/sachdevs
 - Sam Agnew https://github.com/sagnew
+- Samarth Sandeep https://github.com/gravityshouldbenaut
 - Sam Couch https://github.com/samuelcouch
 - Sam Redmond https://github.com/sredmond
 - Sarthi Andley https://github.com/theSarthi
 - Sashank Thupukari https://github.com/helloworld
+- Saurav Keshari Aryal https://github.com/Saurav-K-Aryal
 - Sean Fitzgerald https://github.com/mrplants
 - Sean Smith https://github.com/sean-smith
 - Sean Thomas Burke https://github.com/hawaiianchimp
@@ -524,6 +540,7 @@ Hackathon Hackers' GitHub profiles
 - Shreyas Raman https://github.com/anubiann00b
 - Shrey Gupta https://github.com/stormsurfer98
 - Shri Ganeshram https://github.com/shri
+- Shrinithi Narayanan https://github.com/nithinara
 - Shriya Nevatia https://github.com/shriyanevatia
 - Shy Ruparel https://github.com/shy
 - Sid Dange https://github.com/siddhantdange
@@ -550,6 +567,7 @@ Hackathon Hackers' GitHub profiles
 - Thibaut Le Levier https://github.com/tibo
 - Thomas Erdmann https://github.com/tomerdmann
 - Thomas Lam https://github.com/thomaslam
+- Tian-Yuan Zhao https://github.com/tosfan4ever
 - Tiffany Zhong https://github.com/tiffanyzhong
 - Timotius Sitorus https://github.com/timotius02
 - TJ Horner https://github.com/tjhorner
@@ -578,6 +596,7 @@ Hackathon Hackers' GitHub profiles
 - Wilson Mitchell https://github.com/mitchellw
 - Wilson Zhao https://github.com/wilzh40
 - Yasyf Mohamedali https://github.com/yasyf
+- Young Fenimore Lee https://github.com/slinky773
 - Yuya Jeremy Ong https://github.com/yutarochan
 - Zack Maldonado https://github.com/Danubian
 - Zakariyya Mughal https://github.com/zmughal
