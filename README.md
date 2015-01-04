@@ -211,7 +211,7 @@ Hackathon Hackers' GitHub profiles
 - Anish Athalye https://github.com/anishathalye
 - Ankit Etc https://github.com/kodeman14
 - Ankit Ranjan https://github.com/ankitr
-- Ankur Jain https://github.com/AnkurKJain
+- Ankur Jain https://github.com/ankur
 - Anthony Castrio https://github.com/AntCas
 - Anton Gilgur https://github.com/agilgur5
 - Anuraag Yachamaneni https://github.com/hackathoner
@@ -449,6 +449,7 @@ Hackathon Hackers' GitHub profiles
 - Nico Hinderling https://github.com/nicohinderling
 - Nicole Flokos https://github.com/silicarich
 - Nidhin N https://github.com/lithium-03
+- Nikhil Buduma https://github.com/darksigma
 - Nikhil Srinivasan https://github.com/nikhilsrinivasan
 - Nikolay Yuriyevich Feldman https://github.com/codeniko
 - Nimit Kalra https://github.com/qw3rtman
@@ -459,6 +460,7 @@ Hackathon Hackers' GitHub profiles
 - Ore Aleb https://github.com/orealeb
 - Orlando Orlie K https://github.com/orliesaurus
 - Panashe Mahachi https://github.com/panashemahachi
+- Patricia Hanus https://github.com/pxhanus
 - Pavleen Thukral https://github.com/Thepav
 - Paweł Szczurko https://github.com/ps
 - Payam Ghobadpour https://github.com/payam-g
@@ -488,6 +490,7 @@ Hackathon Hackers' GitHub profiles
 - Richard Kraaijenhagen https://github.com/riichard
 - Richard Yang https://github.com/elyrly
 - Rigved Tummala https://github.com/Rigabyte
+- Rishi Dua https://github.com/rishirdua
 - Ritvik Choudhary https://github.com/Ritvik1512
 - Ritvik Upadhyaya https://github.com/ritvikupadhyaya
 - Ritwik Gupta https://github.com/RitwikGupta
