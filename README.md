@@ -220,6 +220,7 @@ Hackathon Hackers' GitHub profiles
 - Ari VanIderstine https://github.com/arirawr
 - Arjun Gopisetty https://github.com/arjungopisetty
 - Arnaud Schenk https://github.com/arnsch
+- Arnold Wey https://github.com/PandaStrawberry
 - Arya Boudaie https://github.com/Misingnoglic
 - Austin Feight https://github.com/Feighter09
 - Basil Siddiqui https://github.com/bsiddiqui
