@@ -198,6 +198,7 @@ Hackathon Hackers' GitHub profiles
 - Albert Guo https://github.com/guozhaonan
 - Alejo Rivera https://github.com/alejorivera
 - Alek Festekjian https://github.com/alekfestekjian
+- Alex Fuhr https://github.com/afuhrtrumpet
 - Alex Vallorosi https://github.com/ca
 - Alex Yeh https://github.com/alexlyeh
 - Alfred Ly https://github.com/lyalfred
@@ -219,6 +220,7 @@ Hackathon Hackers' GitHub profiles
 - Ankit Ranjan https://github.com/ankitr
 - Ankur Jain https://github.com/ankur
 - Anthony Castrio https://github.com/AntCas
+- Anthony Lobko https://github.com/Amelius15
 - Anton Gilgur https://github.com/agilgur5
 - Anuraag Yachamaneni https://github.com/hackathoner
 - Anurag Banerjee https://github.com/anurag-banerjee
@@ -278,6 +280,7 @@ Hackathon Hackers' GitHub profiles
 - David Melvin https://github.com/davidmelvin
 - David Song https://github.com/dstratossong
 - David Zhao https://github.com/dzhxo
+- Dean Cooney https://github.com/deancooney
 - Deepak Parpyani https://github.com/dparpyani
 - Derrick Duncan https://github.com/coderrick
 - Devin Finkel https://github.com/matissesProjects
@@ -333,6 +336,7 @@ Hackathon Hackers' GitHub profiles
 - Ibrahim Ansari https://github.com/Ibrahimansari
 - Iheanyi Ekechukwu https://github.com/iheanyi
 - IHorng Ren Huang https://github.com/horngep
+- Ilan Filondz https://github.com/ifilonenko
 - Issam Bourai https://github.com/Starkiller99
 - Ivan Uvarov https://github.com/uvarovis
 - Jack Cook https://github.com/jackcook
@@ -359,6 +363,7 @@ Hackathon Hackers' GitHub profiles
 - Jhonathan Wyterlin https://github.com/jwyterlin
 - Joe Doyle https://github.com/Ginto8
 - Joe Ferrucci https://github.com/joeferrucci
+- Joe Loser https://github.com/JoeLoser
 - John Li https://github.com/Johnli611
 - John Yeung https://github.com/johnyeung
 - Jonathan Jemson https://github.com/jonjesbuzz
@@ -481,6 +486,7 @@ Hackathon Hackers' GitHub profiles
 - Rafa Mkrtchyan https://github.com/MicBrain
 - Rafa Moreno https://github.com/ralphie9224
 - Rahul Ranjan https://github.com/rahulrrixe
+- Rajat Bhageria https://github.com/RajatBhageria
 - Rakesh Das https://github.com/rakeshdas1
 - Rakshit Pithadia https://github.com/rpithadia25
 - Rameez Remsudeen https://github.com/remzr7
@@ -571,6 +577,7 @@ Hackathon Hackers' GitHub profiles
 - Sujith Vishwajith https://github.com/sujithv28
 - Suyash Srijan https://github.com/theblixguy
 - Syed Raziq Mohideen https://github.com/sandybisaria
+- Talha Qamar https://github.com/tallhaqamar
 - Tarik Onalan https://github.com/QuantumPhi
 - Taylor Blau https://github.com/ttaylorr
 - Tejas Manohar https://github.com/tejas-manohar
@@ -609,6 +616,7 @@ Hackathon Hackers' GitHub profiles
 - Yasyf Mohamedali https://github.com/yasyf
 - Young Fenimore Lee https://github.com/slinky773
 - Yuya Jeremy Ong https://github.com/yutarochan
+- Zachary Shakked https://github.com/shakked
 - Zack Maldonado https://github.com/Danubian
 - Zakariyya Mughal https://github.com/zmughal
 - Zane Blackwell Sterling https://github.com/Shriken
