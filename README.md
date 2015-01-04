@@ -98,6 +98,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Krishn Ramesh http://krishn.me
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
+- Lawrence Lin Murata: http://lawrencemurata.com/
 - Li Xuanji http://xuanji.li
 - Mahir Kothary http://mahirk.me
 - Maria Chavez http://mariachavez.co
@@ -384,6 +385,7 @@ Hackathon Hackers' GitHub profiles
 - Kyle Mulka https://github.com/mulka
 - Kyle Windsor https://github.com/disseminate
 - Larissa Laich https://github.com/larissa95
+- Lawrence Lin Murata: //github.com/lawrencelm
 - Leo Rudberg https://github.com/LOZORD
 - Liam Horne https://github.com/snario
 - Liam Sargent https://github.com/themailman05
