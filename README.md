@@ -75,6 +75,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jaxon Stevens www.lemonainc.com
 - Jay Mo http://unitedjaymo.com/
 - Jennifer Apacible http://apacible.us/
+- Jeremy Meyer http://jeremymeyer.us
 - Jerrick Davis http://jerrick.us
 - Jesse Chand http://jessechand.com
 - Jessica Chang http://jessmchang.com
