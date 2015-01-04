@@ -99,6 +99,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
 - Li Xuanji http://xuanji.li
+- Liam Horne http://lihorne.com
 - Mahir Kothary http://mahirk.me
 - Maria Chavez http://mariachavez.co
 - Mark Ormesher http://ormo.me
