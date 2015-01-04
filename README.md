@@ -135,6 +135,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rashiq Ahmad http://rashiq.me
 - Richard Chu http://churichard.me/
 - Rishi Dhanaraj http://rishi.io
+- Rishi Dua http://www.rishidua.com
 - Roger Zou http://rogergzou.com
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushy Panchal https://panchr.me
