@@ -38,6 +38,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Caitlin McDonald http://www.caitlinamcdonald.com
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
+- Chaoyi Zha http://cydrobolt.com
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
