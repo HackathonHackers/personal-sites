@@ -126,6 +126,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nithi Narayanan http://nithi.io/
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
+- Panashe Mahachi http://pkm.me
 - Parth Mehrotra http://parthmehrotra.com
 - Paweł Szczurko www.pawel.pw
 - Pranav Chaudhari http://excelworld.eu/
@@ -444,6 +445,7 @@ Hackathon Hackers' GitHub profiles
 - Numaer Zaker https://github.com/numaer
 - Ore Aleb https://github.com/orealeb
 - Orlando Orlie K https://github.com/orliesaurus
+- Panashe Mahachi https://github.com/panashemahachi
 - Pavleen Thukral https://github.com/Thepav
 - Paweł Szczurko https://github.com/ps
 - Pierce Stegman https://github.com/pwstegman
