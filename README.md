@@ -64,6 +64,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Gordon Zheng http://gordn.org/
 - Grant Timmerman http://grant.cm
 - Guilherme Berger http://gberger.me
+- Harshay Shah http://harshay.me
 - Hayden Lee http://haydenlee.io/
 - Hugh Rawlinson http://hughrawlinson.me/
 - Ian Carroll https://ian.sh
