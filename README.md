@@ -203,6 +203,7 @@ Hackathon Hackers' GitHub profiles
 - Alex Yeh https://github.com/alexlyeh
 - Alfred Ly https://github.com/lyalfred
 - Al Johri https://github.com/AlJohri
+- Amanda Sullivan https://github.com/amandasullivan
 - Ananya Cleetus https://github.com/ananyacleetus
 - Anat Gilboa https://github.com/anatg
 - Andreas Dittes https://github.com/dittes
@@ -330,10 +331,11 @@ Hackathon Hackers' GitHub profiles
 - 서태웅 https://github.com/justicesuh
 - Hugh Rawlinson https://github.com/hughrawlinson
 - Humdaan Mustafa https://github.com/humishum
-- Ian Carroll https://gitHub.com/iangcarroll or https://git.certly.io/ian
+- Ian Carroll https://github.com/iangcarroll or https://git.certly.io/ian
 - Ian Macalinao https://github.com/simplyianm
 - Ian McNanie https://github.com/imcnanie
 - Ibrahim Ansari https://github.com/Ibrahimansari
+- If'anyi Kalu https://github.com/ikalu
 - Iheanyi Ekechukwu https://github.com/iheanyi
 - IHorng Ren Huang https://github.com/horngep
 - Ilan Filondz https://github.com/ifilonenko
@@ -342,6 +344,7 @@ Hackathon Hackers' GitHub profiles
 - Jack Cook https://github.com/jackcook
 - Jackie Zhang https://github.com/jzjzme
 - Jacob Johnston https://github.com/JacobJohnston15
+- Jacob Mizraji https://github.com/zisko
 - Jacob Stein https://github.com/jacobstein123
 - Jake Schmitz https://github.com/schmitzjake
 - Jamie Davies https://github.com/viralpickaxe
@@ -349,6 +352,7 @@ Hackathon Hackers' GitHub profiles
 - Jared Moskowitz https://github.com/JaredMoskowitz
 - Jared Wright https://github.com/jawerty
 - Jared Zoneraich https://github.com/jzone3
+- Jason Liu https://github.com/jxnl
 - Jason Marmon https://github.com/jtmarmon
 - Jatin Pandey https://github.com/jatinpandey
 - Jawad Nasser https://github.com/jawadmn
@@ -431,6 +435,7 @@ Hackathon Hackers' GitHub profiles
 - Max Wofford https://github.com/MaxWofford
 - Mayank Mahajan https://github.com/mayankmahajan24
 - Megan Chen https://github.com/gauss1181
+- Micah Weitzman https://github.com/mikachoow21
 - Michael Gubbels https://github.com/mokogobo
 - Michael Ho https://github.com/michaelchum
 - Michael Zhang https://github.com/failedxyz
@@ -485,6 +490,7 @@ Hackathon Hackers' GitHub profiles
 - Rafael Khan https://github.com/rafkhan
 - Rafa Mkrtchyan https://github.com/MicBrain
 - Rafa Moreno https://github.com/ralphie9224
+- Raghav Sood https://github.com/RaghavSood
 - Rahul Ranjan https://github.com/rahulrrixe
 - Rajat Bhageria https://github.com/RajatBhageria
 - Rakesh Das https://github.com/rakeshdas1
