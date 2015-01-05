@@ -153,7 +153,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ryhan Hassan http://ryhan.org
 - Rõhith Varanasi http://rohithvaranasi.com
 - Sagar Garg http://sagargarg.github.io/
-- Sai Grandhi http://grandhi.ome
+- Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
