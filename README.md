@@ -27,6 +27,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
+- Brandon Amos http://bamos.github.io
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
 - Brian Chu www.brianchu.com
@@ -244,6 +245,7 @@ Hackathon Hackers' GitHub profiles
 - Brandon Berookhim https://github.com/brandonio
 - Brandon Truong https://github.com/btroo
 - Braun Shedd https://github.com/braunshedd
+- Brandon Amos https://github.com/bamos
 - Brendan Rowan https://github.com/rowanbrendan
 - Brent Bovenzi https://github.com/Bbovenzi
 - Brian Clanton https://github.com/brianclanton
