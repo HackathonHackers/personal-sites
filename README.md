@@ -13,8 +13,9 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Alec Robins http://www.alecrobins.me/
 - Alex Vallorosi http://alexx.xxx/new.html
 - Andras Varga http://avarga.me
-- Andreas Limberopoulos www.limbera.com.au
-- Andrew Hollenbach www.andrewhollenbach.com
+- Andreas Limberopoulos http://www.limbera.com.au
+- Andrew Hoang http://www.andrewhoang.me
+- Andrew Hollenbach http://www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
 - Andy Kamath http://andykamath.com
 - Antonio Marino http://antoniomarino.me
