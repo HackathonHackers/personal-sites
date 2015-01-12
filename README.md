@@ -264,7 +264,6 @@ Hackathon Hackers' GitHub profiles
 - Ben Weinstein-Raun https://github.com/benwr
 - Ben Williams https://github.com/719Ben
 - Bilawal Hameed https://github.com/bih
-- Bobo Krysh https://github.com/jonnykry
 - Bob Timm https://github.com/bajabob
 - Brandon Amos https://github.com/bamos
 - Brandon Berookhim https://github.com/brandonio
@@ -310,7 +309,6 @@ Hackathon Hackers' GitHub profiles
 - David Baldwynn https://github.com/whitef0x0
 - David BasedMathematician Coven https://github.com/mrcoven94
 - David Da Silva Contín https://github.com/dasilvacontin
-- David da Silva https://github.com/dasilvacontin
 - David Kong https://github.com/kiastu
 - David Melvin https://github.com/davidmelvin
 - David Song https://github.com/dstratossong
@@ -488,7 +486,6 @@ Hackathon Hackers' GitHub profiles
 - Madeleyne Vaca https://github.com/Maye-vaca
 - Mahesh Murag https://github.com/mash99
 - Mahir Kothary https://github.com/mahirk
-- Maria Chavez https://github.com/materechm
 - María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
@@ -514,7 +511,6 @@ Hackathon Hackers' GitHub profiles
 - Micah Weitzman https://github.com/mikachoow21
 - Michael Gubbels https://github.com/mokogobo
 - Michael Ho Chum https://github.com/michaelchum
-- Michael Ho https://github.com/michaelchum
 - Michael Zhang https://github.com/failedxyz
 - Michelle Chiu https://github.com/michelle-chiu
 - Michelle Rojas https://github.com/mrojass
@@ -591,7 +587,6 @@ Hackathon Hackers' GitHub profiles
 - Rashiq Ahmad https://github.com/rashiq
 - Raspberry James https://github.com/jamesaanderson
 - Ravin Sardal https://github.com/randomite
-- Rem Lockala https://github.com/Cmacca
 - Riccardo Mutschlechner https://github.com/Ricky54326
 - Richard Chu https://github.com/churichard
 - Richard Higgins https://github.com/relh
@@ -705,7 +700,6 @@ Hackathon Hackers' GitHub profiles
 - Tom Mc https://github.com/tkmcc
 - Tristan Rice https://github.com/d4l3k
 - Tru Narla https://github.com/tnarla
-- Ty Kelley https://github.com/tylucaskelley
 - Ty-Lucas Kelley https://github.com/tylucaskelley
 - Usman Ehtesham https://github.com/ueg1990
 - Usmann Khan https://github.com/usmannk
