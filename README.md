@@ -440,6 +440,7 @@ Hackathon Hackers' GitHub profiles
 - Marius Sebastian Trif https://github.com/coolsebz
 - Marouane Nafaa https://github.com/mnafaa
 - Matan Uchen https://github.com/matan157
+- Matt Chan https://github.com/themattchan
 - Matt Condon https://github.com/Shrugs
 - Matthew Herbst https://github.com/matthewherbst
 - Matthew Kaufer https://github.com/mjkaufer
