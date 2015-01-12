@@ -139,6 +139,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ore Aleb http://oreoluwa.me/
 - Panashe Mahachi http://pkm.me
 - Parth Mehrotra http://parthmehrotra.com
+- Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Pranav Chaudhari http://excelworld.eu/
 - Raghav Sood http://raghavsood.com
@@ -495,6 +496,7 @@ Hackathon Hackers' GitHub profiles
 - Orlando Orlie K https://github.com/orliesaurus
 - Panashe Mahachi https://github.com/panashemahachi
 - Patricia Hanus https://github.com/pxhanus
+- Paul Krishnamurthy https://github.com/paulkr
 - Pavleen Thukral https://github.com/Thepav
 - Paweł Szczurko https://github.com/ps
 - Payam Ghobadpour https://github.com/payam-g
