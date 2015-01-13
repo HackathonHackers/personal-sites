@@ -30,6 +30,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
 - Brandon Amos http://bamos.github.io
+- Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
 - Brett Martin http://brettmart.in
 - Brent Bovenzi http://bbovenzi.com/
