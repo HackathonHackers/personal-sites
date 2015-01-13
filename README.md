@@ -176,6 +176,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - 激怒 サン http://technomakmy.com/
 - Usmann Khan http://usmann.me
+- Victor Danger Lourng http://victorlourng.com
 - Vishnu Ravi http://vishnu.io/
 - Wasim Thabraze http://thabraze.in
 - William Woodruff http://woodruffw.us
