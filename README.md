@@ -99,6 +99,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
 - Kaustav Haldar http://kaustavha.github.com
+- Kevin Frans http://www.kevinfrans.com
 - Kevin Payravi http://www.kevinpayravi.com/
 - Kevin Yeh http://kyeh.me
 - Kirby Kohlmorgen http://kirbyk.me
