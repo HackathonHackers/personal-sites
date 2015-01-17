@@ -58,6 +58,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dylan McIntyre http://dmcintyre.net
 - Eli White http://eli-white.com
 - Elissa Shevinsky http://elissashevinsky.com
+- Emily Tran http://emilytran.org
 - Eugene Cheung www.echeung.me
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
