@@ -116,6 +116,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Mahir Kothary http://mahirk.me
 - Maria Chavez http://mariachavez.co
 - Mark Ormesher http://ormo.me
+- Markan Patel http://markanpatel.me
 - Matheus C. Candido http://cassiano.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
 - Matt Chan http://themattchan.com/
@@ -494,6 +495,7 @@ Hackathon Hackers' GitHub profiles
 - María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
+- Markan Patel https://github.com/cooltoast
 - Marouane Nafaa https://github.com/mnafaa
 - Matan Uchen https://github.com/matan157
 - Matheus C. Candido https://github.com/mcassiano
