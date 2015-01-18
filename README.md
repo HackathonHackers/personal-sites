@@ -119,7 +119,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Matisse B. VerDuyn http://matisseverduyn.com/
 - Matt Chan http://themattchan.com/
 - Matt Condon http://matt.cond.in
-- Matthew Bentley http://mtbentley.us
+- Matthew Bentley https://mtbentley.us
 - Matthew Bucci http://matthewbucci.com
 - Matthew Kaiser http://mkaiser.io
 - Max Shavrick http://mxms.pw
