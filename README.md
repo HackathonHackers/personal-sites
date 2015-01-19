@@ -48,6 +48,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
 - Colin Mcillece http://cmacca.github.io
+- Cyrus Roshan http://cyrusroshan.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - David BasedMathematician Coven http://davidcoven.me
@@ -303,6 +304,7 @@ Hackathon Hackers' GitHub profiles
 - Conrad Kramer https://github.com/conradev
 - Courtney Gray Tambling https://github.com/tamblc
 - Cristopher Bello https://github.com/cris1133
+- Cyrus Roshan https://github.com/CyrusRoshan
 - Dag Yeshiwas https://github.com/cozma
 - Daniel Golman https://github.com/dgolman
 - Daniel Robertson https://github.com/danielrobertson
