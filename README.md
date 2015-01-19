@@ -220,6 +220,7 @@ Hackathon Hackers' GitHub profiles
 - Alejo Rivera https://github.com/alejorivera
 - Alek Festekjian https://github.com/alekfestekjian
 - Alex Fuhr https://github.com/afuhrtrumpet
+- Alex LaFroscia https://github.com/alexlafroscia
 - Alex Vallorosi https://github.com/ca
 - Alex Yeh https://github.com/alexlyeh
 - Alfred Ly https://github.com/lyalfred
@@ -340,6 +341,7 @@ Hackathon Hackers' GitHub profiles
 - Eli White https://github.com/TheSavior
 - Elliot Anderson https://github.com/teendev
 - Emilio Flores https://github.com/EmilioFlores
+- Emily Tran https://github.com/emilytran
 - Erica Douglass https://github.com/ericabiz
 - Eric Kamen https://github.com/wchill
 - Eric Zinnikas https://github.com/ericzinnikas
@@ -466,6 +468,7 @@ Hackathon Hackers' GitHub profiles
 - Keyur Patel https://github.com/kdp8791
 - Khashayar Pourdeilami https://github.com/kpourdeilami
 - Kirby Kohlmorgen https://github.com/kirbyk
+- Kirsten Rauffer https://github.com/kirstenrauffer
 - Koen Vendrik https://github.com/kvendrik
 - Krish Dholakiya https://github.com/krrishd
 - Krishna Parashar https://github.com/parashar
@@ -473,6 +476,7 @@ Hackathon Hackers' GitHub profiles
 - Kumail Jaffer https://github.com/liamuk
 - Kunal Roy https://github.com/kunal365roy
 - Kunal Sharma https://github.com/kunals1994
+- Kyle Holzinger https://github.com/KyleLH
 - Kyle Johnson https://github.com/kylejson
 - Kyle Lucas https://github.com/kylegrantlucas
 - Kyle Mulka https://github.com/mulka
@@ -496,8 +500,8 @@ Hackathon Hackers' GitHub profiles
 - Mahir Kothary https://github.com/mahirk
 - María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
-- Mark Ormesher https://github.com/markormesher
 - Markan Patel https://github.com/cooltoast
+- Mark Ormesher https://github.com/markormesher
 - Marouane Nafaa https://github.com/mnafaa
 - Matan Uchen https://github.com/matan157
 - Matheus C. Candido https://github.com/mcassiano
@@ -540,6 +544,7 @@ Hackathon Hackers' GitHub profiles
 - Nathan Handler https://github.com/nhandler
 - Nathaniel Lewis https://github.com/Teknoman117
 - Nathaniel Symer https://github.com/fhsjaagshs
+- Nathan Moos https://github.com/moosingin3space
 - Neal Shyam https://github.com/nealrs
 - Neel Mouleeswaran https://github.com/neelcm
 - Nelson Gomez https://github.com/nsgomez
@@ -596,6 +601,7 @@ Hackathon Hackers' GitHub profiles
 - Rashiq Ahmad https://github.com/rashiq
 - Raspberry James https://github.com/jamesaanderson
 - Ravin Sardal https://github.com/randomite
+- Remy Goldschmidt https://github.com/taktoa
 - Riccardo Mutschlechner https://github.com/Ricky54326
 - Richard Chu https://github.com/churichard
 - Richard Higgins https://github.com/relh
@@ -716,7 +722,7 @@ Hackathon Hackers' GitHub profiles
 - Varatep Buranintu https://github.com/varatep
 - Varun Arora https://github.com/avarun42
 - Vasudev Bhat https://github.com/vasudev-33
-- Victor Danger Lourng https://github.com/lablayers
+- Victor Danger Lourng https://github.com/LabLayers
 - Victor Jiao https://github.com/VjiaoBlack
 - Victor Szeto https://github.com/VictorVation
 - Vic Vu https://github.com/vicv
