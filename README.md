@@ -178,6 +178,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
 - Steve Dean http://about.me/stevenmdean
+- Tejas Manohar http://tejas.io
 - Terry Piercson http://taehongmin.com/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - 激怒 サン http://technomakmy.com/
