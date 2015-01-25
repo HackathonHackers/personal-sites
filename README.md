@@ -732,6 +732,7 @@ Hackathon Hackers' GitHub profiles
 - Vishnu Ravi https://github.com/vishnuravi
 - Wasim Thabraze https://github.com/waseem18
 - Will Beckman https://github.com/wbeckman9
+- William Cockburn http://syrexide.com
 - William Jagels https://github.com/wijagels
 - William Wnękowicz https://github.com/flysonic10
 - William Woodruff https://github.com/woodruffw
