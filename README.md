@@ -47,6 +47,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
+- Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
 - Cyrus Roshan http://cyrusroshan.me
 - Dan Schlosser http://danrs.ch
@@ -300,6 +301,7 @@ Hackathon Hackers' GitHub profiles
 - Chris Lee https://github.com/chrispmlee
 - Chuby Okafor https://github.com/chubylive
 - Chuck Nweke https://github.com/kidwalom
+- Clayton Brand https://github.com/clay-to-n
 - Colin Mcillece https://github.com/Cmacca
 - Collin Hartigan https://github.com/cissovereign
 - Colton Anglin https://github.com/colton
