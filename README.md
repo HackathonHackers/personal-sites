@@ -188,6 +188,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Wasim Thabraze http://thabraze.in
 - William Woodruff http://woodruffw.us
 - Zach Fogg http://zfo.gg/
+- Zach Price http://zachmprice.com/
 - Zakariyya Mughal http://enetdown.org/
 
 Hackathon Hackers' GitHub profiles
@@ -744,6 +745,7 @@ Hackathon Hackers' GitHub profiles
 - Yuya Jeremy Ong https://github.com/yutarochan
 - Zachary Shakked https://github.com/shakked
 - Zach Fogg https://github.com/zfogg
+- Zach Price https://github.com/zachprice
 - Zack Maldonado https://github.com/Danubian
 - Zakariyya Mughal https://github.com/zmughal
 - Zane Blackwell Sterling https://github.com/Shriken
