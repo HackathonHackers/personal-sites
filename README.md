@@ -74,6 +74,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Grant Timmerman http://grant.cm
 - Guilherme Berger http://gberger.me
 - Harshay Shah http://harshay.me
+- Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
 - Hugh Rawlinson http://hughrawlinson.me/
 - Ian Carroll https://ian.sh
@@ -386,6 +387,7 @@ Hackathon Hackers' GitHub profiles
 - Guilherme Santos https://github.com/guilhermesgb
 - Hansen Chang https://github.com/byteair
 - Harrison Freni https://github.com/HFreni
+- Harvey Chan https://github.com/ch4
 - Harshay Shah https://github.com/harshays
 - Heather Huynh https://github.com/amphy
 - Henry Millison https://github.com/hmillison
