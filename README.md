@@ -161,6 +161,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
+- Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
 - Rõhith Varanasi http://rohithvaranasi.com
 - Ruiqi Mao http://www.ruiqimao.com/
