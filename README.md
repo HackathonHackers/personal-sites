@@ -13,6 +13,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Alec Robins http://www.alecrobins.me/
 - Alex Koshy http://koshy.co/
 - Alex Vallorosi http://alexx.xxx/new.html
+- Alex Wang http://alw231.github.io
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
 - Andrew Hoang http://www.andrewhoang.me
@@ -235,6 +236,7 @@ Hackathon Hackers' GitHub profiles
 - Alex Koshy https://github.com/ajkoshy7
 - Alex LaFroscia https://github.com/alexlafroscia
 - Alex Vallorosi https://github.com/ca
+- Alex Wang https://github.com/alw231
 - Alex Yeh https://github.com/alexlyeh
 - Alfred Ly https://github.com/lyalfred
 - Al Johri https://github.com/AlJohri
