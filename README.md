@@ -191,6 +191,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Tejas Manohar http://tejas.io
 - Terry Piercson http://taehongmin.com/
+- Timotius Sitorus http://timsitorus.com
 - Ty-Lucas Kelley http://tylucaskelley.com
 - 激怒 サン http://technomakmy.com/
 - Usmann Khan http://usmann.me
