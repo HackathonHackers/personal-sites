@@ -88,7 +88,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jairam Patel http://jairampatel.com/
 - James Billingham http://jamesbillingham.com
 - Jason Liu http://jxnl.co
-- Jaxon Stevens www.lemonainc.com
+- Jaxon Stevens www.jaxonstevens.com
 - Jay Mo http://unitedjaymo.com/
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
