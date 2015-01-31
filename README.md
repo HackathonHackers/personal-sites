@@ -163,6 +163,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
+- Rohan Yelsangikar http://royels.me
 - Rõhith Varanasi http://rohithvaranasi.com
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushy Panchal https://panchr.me
