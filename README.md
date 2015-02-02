@@ -268,6 +268,7 @@ Hackathon Hackers' GitHub profiles
 - Annie Gonzales https://github.com/Andrea-3000
 - Anthony Castrio https://github.com/AntCas
 - Anthony Lobko https://github.com/Amelius15
+- Anthony Zhang https://github.com/Uberi
 - Anton Gilgur https://github.com/agilgur5
 - Antonio Marino https://github.com/antonio0
 - Anuraag Yachamaneni https://github.com/hackathoner
@@ -292,6 +293,7 @@ Hackathon Hackers' GitHub profiles
 - Ben Williams https://github.com/719Ben
 - Bilawal Hameed https://github.com/bih
 - Bob Timm https://github.com/bajabob
+- Bogdan Mazoure https://github.com/xXGh0stXx
 - Brandon Amos https://github.com/bamos
 - Brandon Berookhim https://github.com/brandonio
 - Brandon Truong https://github.com/btroo
@@ -309,15 +311,19 @@ Hackathon Hackers' GitHub profiles
 - Caitlin McDonald https://github.com/mcdonaldca
 - Camille Nibungco https://github.com/Cnibungco
 - Canzhi Ye https://github.com/canzhiye
+- Carlos des Montagnes https://github.com/cadesalaberry
 - Cary Anderson https://github.com/CaryAndo
 - Cassidy Williams https://github.com/cassidoo
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
 - Charles Shen https://github.com/rarabai
+- Charlie Li https://github.com/vishwin
 - Chirag Chauhan https://github.com/crc442
 - Chris Lee https://github.com/chrispmlee
+- Christopher Dorick https://github.com/topher23
 - Chuby Okafor https://github.com/chubylive
 - Chuck Nweke https://github.com/kidwalom
+- Cindy Yu https://github.com/cindyyu
 - Clayton Brand https://github.com/clay-to-n
 - Colin Mcillece https://github.com/Cmacca
 - Collin Hartigan https://github.com/cissovereign
@@ -344,6 +350,7 @@ Hackathon Hackers' GitHub profiles
 - David Zhao https://github.com/dzhxo
 - Dean Cooney https://github.com/deancooney
 - Deepak Parpyani https://github.com/dparpyani
+- Derek Argueta https://github.com/derekargueta
 - Derrick Duncan https://github.com/coderrick
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
@@ -353,6 +360,7 @@ Hackathon Hackers' GitHub profiles
 - Douglas Bumby https://github.com/istx25
 - Drbyo Mkwi https://github.com/Dirbaio
 - Dvid Silva https://github.com/dvidsilva
+- Dwijesh Bhageerutty https://github.com/dbhage
 - Dylan McIntyre https://github.com/dylanmcintyre
 - Eduardo Zapata https://github.com/eduardoZapata
 - Edward McEnrue https://github.com/emcenrue
@@ -368,6 +376,7 @@ Hackathon Hackers' GitHub profiles
 - Ethan Arnold https://github.com/masonsbro
 - Eugene Cheung https://github.com/arkon
 - Faiq Raza https://github.com/faiq
+- Faiz Ahmed Khan https://github.com/dridon
 - Farrukh Jadoon https://github.com/fkjadoon94
 - Feifan Zhou https://github.com/feifanzhou
 - Fernando Trujano https://github.com/fertogo
@@ -391,10 +400,11 @@ Hackathon Hackers' GitHub profiles
 - Guilherme Berger https://github.com/gberger
 - Guilherme Rodrigues https://github.com/gadr
 - Guilherme Santos https://github.com/guilhermesgb
+- Gulshan Singh https://github.com/gsingh93
 - Hansen Chang https://github.com/byteair
 - Harrison Freni https://github.com/HFreni
-- Harvey Chan https://github.com/ch4
 - Harshay Shah https://github.com/harshays
+- Harvey Chan https://github.com/ch4
 - Heather Huynh https://github.com/amphy
 - Henry Millison https://github.com/hmillison
 - Herin Kim https://github.com/herinkc
@@ -462,11 +472,14 @@ Hackathon Hackers' GitHub profiles
 - Jonny Krysh https://github.com/jonnykry
 - Jordan Arnesen https://github.com/extrajordanary
 - Jordan Matelsky https://github.com/j6k4m8
+- Jorge Armando Valdez https://github.com/jorgeavaldez
 - Joseph Pecoraro https://github.com/jpecoraro342
+- Josh Curl https://github.com/joshuacurl
 - Josh Matthews https://github.com/jmatth
 - Joshua Drubin https://github.com/jdrub
 - Josh Vega https://github.com/jsvcycling
 - Joyce Yan https://github.com/joyceyan
+- Juan Chomali https://github.com/jchomali
 - Julien L https://github.com/26medias
 - 서태웅 (Justice Suh) https://github.com/justicesuh
 - Justin Cano https://github.com/bumrush
@@ -545,8 +558,10 @@ Hackathon Hackers' GitHub profiles
 - Megan Chen https://github.com/gauss1181
 - Megan Ruthven https://github.com/maruthven
 - Micah Weitzman https://github.com/mikachoow21
+- Michael Cai https://github.com/caimichael
 - Michael Gubbels https://github.com/mokogobo
 - Michael Ho Chum https://github.com/michaelchum
+- Michael Williams https://github.com/draringi
 - Michael Zhang https://github.com/failedxyz
 - Michelle Chiu https://github.com/michelle-chiu
 - Michelle Rojas https://github.com/mrojass
@@ -574,6 +589,7 @@ Hackathon Hackers' GitHub profiles
 - Neville Jos https://github.com/josneville
 - Nicholas Kee https://github.com/nkkee
 - Nick Maxwell https://github.com/nickmaxwell10
+- Nick Poelma https://github.com/nwplayer123
 - Nick Sahler https://github.com/nicksahler
 - Nicky Semenza https://github.com/nickysemenza
 - Nico Hinderling https://github.com/nicohinderling
@@ -729,6 +745,7 @@ Hackathon Hackers' GitHub profiles
 - Taylor Blau https://github.com/ttaylorr
 - Tejas Manohar https://github.com/tejasmanohar
 - Tejas Nikumbh https://github.com/tejasnikumbh
+- Thai Nguyen https://github.com/thaingnguyen
 - Thibaut Le Levier https://github.com/tibo
 - Thomas Erdmann https://github.com/tomerdmann
 - Thomas Lam https://github.com/thomaslam
