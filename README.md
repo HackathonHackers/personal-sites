@@ -492,6 +492,7 @@ Hackathon Hackers' GitHub profiles
 - Kamesh Vedula https://github.com/kvedula
 - Karan Goel https://github.com/karan
 - Karl Coelho https://github.com/karlcoelho
+- Karthikeyan NG http://github.com/intrepidkarthi
 - Kaushal Parikh https://github.com/kaushal
 - Kaustav Haldar https://github.com/kaustavha
 - Keith Ryu https://github.com/kibaekr
