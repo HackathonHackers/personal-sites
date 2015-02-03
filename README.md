@@ -107,6 +107,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Justin Chan http://justinthec.me
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
+- Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Path http://kevinpath.net/
