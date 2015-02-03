@@ -201,6 +201,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Vishnu Ravi http://vishnu.io/
 - Wasim Thabraze http://thabraze.in
 - William Cockburn http://syrexide.com
+- Will Field-Thompson http://willft.io
 - William Woodruff http://woodruffw.us
 - Zach Fogg http://zfo.gg/
 - Zach Price http://zachmprice.com/
@@ -775,6 +776,7 @@ Hackathon Hackers' GitHub profiles
 - Wasim Thabraze https://github.com/waseem18
 - Will Beckman https://github.com/wbeckman9
 - William Cockburn https://github.com/Syrexide
+- Will Field-Thompson https://github.com/wft
 - William Jagels https://github.com/wijagels
 - William Wnękowicz https://github.com/flysonic10
 - William Woodruff https://github.com/woodruffw
