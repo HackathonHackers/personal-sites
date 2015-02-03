@@ -107,6 +107,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Justin Chan http://justinthec.me
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
+- Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Path http://kevinpath.net/
@@ -492,6 +493,7 @@ Hackathon Hackers' GitHub profiles
 - Kamesh Vedula https://github.com/kvedula
 - Karan Goel https://github.com/karan
 - Karl Coelho https://github.com/karlcoelho
+- Karthikeyan NG http://github.com/intrepidkarthi
 - Kaushal Parikh https://github.com/kaushal
 - Kaustav Haldar https://github.com/kaustavha
 - Keith Ryu https://github.com/kibaekr
