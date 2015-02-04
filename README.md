@@ -536,6 +536,7 @@ Hackathon Hackers' GitHub profiles
 - Li Xuanji https://github.com/zodiac
 - Lucas Mullens https://github.com/lucasmullens
 - Lucy Guo https://github.com/loopyz
+- Luka Marr http://github.com/lukamarr
 - Luke Cycon https://github.com/lcycon
 - Luke Wright https://github.com/Simplyluke
 - Maciej Lis https://github.com/mlisbit
