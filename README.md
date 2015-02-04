@@ -31,6 +31,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
+- Berwin Xie http://berwin.io
 - Brandon Amos http://bamos.github.io
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
@@ -293,6 +294,7 @@ Hackathon Hackers' GitHub profiles
 - Ben Stobaugh https://github.com/Legoben
 - Ben Weinstein-Raun https://github.com/benwr
 - Ben Williams https://github.com/719Ben
+- Berwin Xie https://github.com/berwin7996
 - Bilawal Hameed https://github.com/bih
 - Bob Timm https://github.com/bajabob
 - Bogdan Mazoure https://github.com/xXGh0stXx
