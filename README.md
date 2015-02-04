@@ -191,6 +191,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
 - Stephen Chen http://stephenc.me/
+- Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Tejas Manohar http://tejas.io
