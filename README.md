@@ -148,6 +148,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nelson Gomez http://ngomez.me
 - Nicholas Brown http://kompulsa.com
 - Nimit Kalra http://nimitkalra.com
+- Niraj Pant http://niraj.io
 - Nishanth Shanmugham http://nishanth.io
 - Nithi Narayanan http://nithi.io/
 - Oindril Dutta http://odutta.com
