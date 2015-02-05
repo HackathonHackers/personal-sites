@@ -55,6 +55,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
 - Cyrus Roshan http://cyrusroshan.me
+- Dakota St. Laurent http://stdako.com
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - David BasedMathematician Coven http://davidcoven.me
