@@ -123,6 +123,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Lawrence Lin Murata http://lawrencemurata.com/
 - Liam Horne http://lihorne.com
 - Li Xuanji http://xuanji.li
+- Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.me
 - Maria Chavez http://mariachavez.co
 - Markan Patel http://markanpatel.me
@@ -535,6 +536,7 @@ Hackathon Hackers' GitHub profiles
 - Li Xuanji https://github.com/zodiac
 - Lucas Mullens https://github.com/lucasmullens
 - Lucy Guo https://github.com/loopyz
+- Luka Marr http://github.com/lukamarr
 - Luke Cycon https://github.com/lcycon
 - Luke Wright https://github.com/Simplyluke
 - Maciej Lis https://github.com/mlisbit
