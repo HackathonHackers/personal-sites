@@ -97,6 +97,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jerrick Davis http://jerrick.us
 - Jesse Chand http://jessechand.com
 - Jessica Chang http://jessmchang.com
+- Jian Wei Chuah http://jianweichuah.com
 - Jing Xiao http://www.notajingoist.com/index.html
 - Joe Duncko http://joeduncko.com/
 - Jonathan Almeida http://jonalmeida.com
@@ -465,6 +466,7 @@ Hackathon Hackers' GitHub profiles
 - Jesse Hu https://github.com/Huyouare
 - Jessica Chang https://github.com/jessmchang
 - Jhonathan Wyterlin https://github.com/jwyterlin
+- Jian Wei Chuah https://github.com/jianweichuah
 - Jing Xiao https://github.com/notajingoist
 - Joe Doyle https://github.com/Ginto8
 - Joe Duncko https://github.com/dotContent
