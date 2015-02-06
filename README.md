@@ -173,6 +173,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
+- Rohan Likhite http://rohanlikhite.com
 - Rohan Yelsangikar http://royels.me
 - Rõhith Varanasi http://rohithvaranasi.com
 - Ruiqi Mao http://www.ruiqimao.com/
@@ -676,6 +677,7 @@ Hackathon Hackers' GitHub profiles
 - Roel Castaño https://github.com/RoelCastano
 - Roger Zou https://github.com/rogergzou
 - Roger Zurawicki https://github.com/rzurawicki
+- Rohan Likhite https://github.com/imRohan
 - Rohan Mathur https://github.com/mathur
 - Rohan Mishra https://github.com/Meeshbhoombah
 - Rohan Shah https://github.com/rohan4
