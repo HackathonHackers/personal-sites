@@ -118,6 +118,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kevin Path http://kevinpath.net/
 - Kevin Payravi http://www.kevinpayravi.com/
 - Kevin Yeh http://kyeh.me
+- Kilim Choi http://kilimchoi.com
 - Kirby Kohlmorgen http://kirbyk.me
 - Kirsten Rauffer http://www.kirstenrauffer.com
 - Krish Dholakiya http://itskrish.co
@@ -516,6 +517,7 @@ Hackathon Hackers' GitHub profiles
 - Kevin Zhu https://github.com/Bazhunga
 - Keyur Patel https://github.com/kdp8791
 - Khashayar Pourdeilami https://github.com/kpourdeilami
+- Kilim Choi https://github.com/kilimchoi
 - Kirby Kohlmorgen https://github.com/kirbyk
 - Kirsten Rauffer https://github.com/kirstenrauffer
 - Koen Vendrik https://github.com/kvendrik
