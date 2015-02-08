@@ -248,6 +248,7 @@ Hackathon Hackers' GitHub profiles
 - Alec Robins https://github.com/alecrobins
 - Alejo Rivera https://github.com/alejorivera
 - Alek Festekjian https://github.com/alekfestekjian
+- Alexander Maru https://github.com/marua7665
 - Alex Fuhr https://github.com/afuhrtrumpet
 - Alex Koshy https://github.com/ajkoshy7
 - Alex LaFroscia https://github.com/alexlafroscia
