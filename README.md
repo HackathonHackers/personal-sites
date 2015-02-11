@@ -110,6 +110,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Justice Suh http://justicesuh.com
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
+- Kamesh Vedula http://kameshvedula.com
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
 - Karthikeyan NG http://www.intrepidkarthi.com
