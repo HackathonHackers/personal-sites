@@ -153,6 +153,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Moshe Berman Http://mosheberman.com
 - Neal Shyam http://nealshyam.com
 - Nelson Gomez http://ngomez.me
+- Nelson Liu http://nelsonliu.me
 - Nicholas Brown http://kompulsa.com
 - Nimit Kalra http://nimitkalra.com
 - Niraj Pant http://niraj.io
