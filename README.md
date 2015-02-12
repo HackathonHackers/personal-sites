@@ -81,6 +81,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
+- Henry Millison http://henrymillison.com
 - Hugh Rawlinson http://hughrawlinson.me/
 - Ian Carroll https://ian.sh
 - Ian Jennings http://ianjennin.gs
