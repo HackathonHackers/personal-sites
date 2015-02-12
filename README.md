@@ -124,6 +124,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kirsten Rauffer http://www.kirstenrauffer.com
 - Krish Dholakiya http://itskrish.co
 - Krishn Ramesh http://krishn.me
+- Kyle Frost http://kylefrost.me
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
 - Lawrence Lin Murata http://lawrencemurata.com/
@@ -531,6 +532,7 @@ Hackathon Hackers' GitHub profiles
 - Kumail Jaffer https://github.com/liamuk
 - Kunal Roy https://github.com/kunal365roy
 - Kunal Sharma https://github.com/kunals1994
+- Kyle Frost https://github.com/kylefrost
 - Kyle Holzinger https://github.com/KyleLH
 - Kyle Johnson https://github.com/kylejson
 - Kyle Lucas https://github.com/kylegrantlucas
