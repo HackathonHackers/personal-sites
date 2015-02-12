@@ -277,6 +277,7 @@ Hackathon Hackers' GitHub profiles
 - Angel Say https://github.com/sayangel
 - Angie Wang https://github.com/angiewang
 - Anish Athalye https://github.com/anishathalye
+- Ankit Agrawal https://github.com/ankit-maverick
 - Ankit Etc https://github.com/kodeman14
 - Ankit Ranjan https://github.com/ankitr
 - Ankur Jain https://github.com/ankur
