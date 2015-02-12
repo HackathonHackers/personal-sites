@@ -144,6 +144,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Matthew Bentley https://mtbentley.us
 - Matthew Bucci http://matthewbucci.com
 - Matthew Kaiser http://mkaiser.io
+- Matthew Kaufer http://kaufer.org
 - Max Shavrick http://mxms.pw
 - Megan Ruthven http://maruthven.com/
 - Melanie Hsu http://bluemelodia.com/
