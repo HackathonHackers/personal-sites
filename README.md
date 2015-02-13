@@ -182,6 +182,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Rohan Yelsangikar http://royels.me
 - Rõhith Varanasi http://rohithvaranasi.com
 - Ruiqi Mao http://www.ruiqimao.com/
+- Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
 - Ryan Choi http://ryanjchoi.com
 - Ryan D'souza http://dsouzarc.github.io
@@ -695,6 +696,7 @@ Hackathon Hackers' GitHub profiles
 - Ronak Patel https://github.com/ronakp
 - Ron Bhatta https://github.com/aranibatta
 - Ruiqi Mao https://github.com/ruiqimao
+- Rushi Shah https://github.com/2016rshah
 - Rushy Panchal https://github.com/panchr
 - Russell Smith https://github.com/ukd1
 - Ryan Choi https://github.com/choiRyan
