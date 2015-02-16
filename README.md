@@ -27,6 +27,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
+- Asheer Tanveer http://asheertanveer.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Azam Abdulkadir http://azamabdul.com
@@ -301,6 +302,7 @@ Hackathon Hackers' GitHub profiles
 - Arnold Wey https://github.com/PandaStrawberry
 - Arush Shankar https://github.com/arushs
 - Arya Boudaie https://github.com/Misingnoglic
+- Asheer Tanveer https://github.com/Asheer
 - Austin Feight https://github.com/Feighter09
 - Azam Abdulkadir https://github.com/AzamAbdul
 - Basil Siddiqui https://github.com/bsiddiqui
