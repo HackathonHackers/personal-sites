@@ -174,6 +174,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Raghav Sood http://raghavsood.com
 - Rashiq Ahmad http://rashiq.me
 - Richard Chu http://churichard.me/
+- Rikin Katyal http://rikinkatyal.me
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
@@ -675,6 +676,7 @@ Hackathon Hackers' GitHub profiles
 - Richard Higgins https://github.com/relh
 - Richard Kraaijenhagen https://github.com/riichard
 - Richard Yang https://github.com/elyrly
+- Rikin Katyal https://github.com/rikinkatyal
 - Rigved Tummala https://github.com/Rigabyte
 - Rishi Dhanaraj https://github.com/rdhanaraj
 - Rishi Dua https://github.com/rishirdua
