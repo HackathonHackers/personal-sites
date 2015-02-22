@@ -199,6 +199,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
+- Selynna Sun http://selynnasun.me
 - Shail Shetye http://www.shailshetye.com/
 - Shane DeWael http://shanedewael.com/
 - Shy Ruparel http://ruparel.co
