@@ -35,6 +35,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
 - Berwin Xie http://berwin.io
+- Bogdan Mazoure http://xoreaxeax.me
 - Brandon Amos http://bamos.github.io
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
