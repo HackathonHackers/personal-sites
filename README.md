@@ -17,6 +17,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
+- Andrew Dai http://www.andrewdai.co
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
@@ -274,6 +275,7 @@ Hackathon Hackers' GitHub profiles
 - Andras Varga https://github.com/andrassv
 - Andreas Dittes https://github.com/dittes
 - Andreas Limberopoulos https://github.com/limbera
+- Andrew Dai https://github.com/BunsenMcDubbs
 - Andrew Hoang https://github.com/a--hoang
 - Andrew Hollenbach https://github.com/ahollenbach
 - Andrew Jaeger https://github.com/mrjaeger
