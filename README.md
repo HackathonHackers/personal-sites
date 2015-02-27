@@ -14,6 +14,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Alex Koshy http://koshy.co/
 - Alex Vallorosi http://alexx.xxx/new.html
 - Alex Wang http://alw231.github.io
+- Alvin Deng http://alvinqdeng.me/
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
@@ -270,6 +271,7 @@ Hackathon Hackers' GitHub profiles
 - Alex Yeh https://github.com/alexlyeh
 - Alfred Ly https://github.com/lyalfred
 - Al Johri https://github.com/AlJohri
+- Alvin Deng https://github.com/alvin319
 - Amanda Sullivan https://github.com/amandasullivan
 - Ananya Cleetus https://github.com/ananyacleetus
 - Anat Gilboa https://github.com/anatg
