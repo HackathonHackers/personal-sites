@@ -81,6 +81,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
 - Grant Timmerman http://grant.cm
+- Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
@@ -429,6 +430,7 @@ Hackathon Hackers' GitHub profiles
 - Grant Timmerman https://github.com/grant
 - Greg Carlin https://github.com/gregthegeek
 - Gregory Koberger https://github.com/gkoberger
+- Greyson Parrelli https://github.com/greysonp
 - Guilherme Berger https://github.com/gberger
 - Guilherme Rodrigues https://github.com/gadr
 - Guilherme Santos https://github.com/guilhermesgb
