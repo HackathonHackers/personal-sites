@@ -174,6 +174,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Parth Mehrotra http://parthmehrotra.com
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
+- Phil Efstathiou http://phil.ws/
 - Pranav Chaudhari http://excelworld.eu/
 - Raghav Sood http://raghavsood.com
 - Rashiq Ahmad http://rashiq.me
