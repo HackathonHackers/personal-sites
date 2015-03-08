@@ -27,6 +27,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Antonio Marino http://antoniomarino.me
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
+- Arjun Bhatnagar http://arjunb.com
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
@@ -314,6 +315,7 @@ Hackathon Hackers' GitHub profiles
 - Anurag Banerjee https://github.com/anurag-banerjee
 - Areeb Khan https://github.com/ask616
 - Ari VanIderstine https://github.com/arirawr
+- Arjun Bhatnagar https://github.com/acenario
 - Arjun Gopisetty https://github.com/arjungopisetty
 - Arjun Sarode https://github.com/asarode
 - Arnaud Schenk https://github.com/arnsch
