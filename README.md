@@ -99,6 +99,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - James Billingham http://jamesbillingham.com
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.jaxonstevens.com
+- Jay Kamat http://jgkamat.github.io
 - Jay Mo http://unitedjaymo.com/
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
