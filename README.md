@@ -104,6 +104,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerrick Davis http://jerrick.us
+- Jesse Collins http://jtcollins.me
 - Jesse Chand http://jessechand.com
 - Jessica Chang http://jessmchang.com
 - Jian Wei Chuah http://jianweichuah.com
@@ -492,7 +493,7 @@ Hackathon Hackers' GitHub profiles
 - Jerrick Davis https://github.com/clevrpwn
 - Jerry Reptak https://github.com/JetFault
 - Jesse Chand https://github.com/jchand
-- Jesse https://github.com/jtcollins90
+- Jesse http://github.com/jtcollins90
 - Jesse Hu https://github.com/Huyouare
 - Jessica Chang https://github.com/jessmchang
 - Jhonathan Wyterlin https://github.com/jwyterlin
