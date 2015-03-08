@@ -217,6 +217,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Stephen Chen http://stephenc.me/
 - Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
+- Sudarshan Muralidhar http://smuralidhar.com
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Tejas Manohar http://tejas.io
 - Terry Piercson http://taehongmin.com/
@@ -780,6 +781,7 @@ Hackathon Hackers' GitHub profiles
 - Stephen Song https://github.com/songstephen
 - Steve Dean https://github.com/stevenmdean
 - Steve Noonan https://github.com/airmanopus
+- Sudarshan Muralidhar https://github.com/sudssm
 - Sujith Vishwajith https://github.com/sujithv28
 - Suril Shah https://github.com/Suril-Shah
 - Suyash Srijan https://github.com/theblixguy
