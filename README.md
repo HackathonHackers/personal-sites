@@ -160,6 +160,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Milson Munakami http://milstein.me
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
+- Nate Levesque http://thenaterhood.com
 - Neal Shyam http://nealshyam.com
 - Nelson Gomez http://ngomez.me
 - Nelson Liu http://nelsonliu.me
