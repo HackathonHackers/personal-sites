@@ -41,6 +41,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Berwin Xie http://berwin.io
 - Bogdan Mazoure http://xoreaxeax.me
 - Brandon Amos http://bamos.github.io
+- Brandon Davis http://redspin.net
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
@@ -339,6 +340,7 @@ Hackathon Hackers' GitHub profiles
 - Bogdan Mazoure https://github.com/xXGh0stXx
 - Brandon Amos https://github.com/bamos
 - Brandon Berookhim https://github.com/brandonio
+- Brandon Davis https://github.com/subdavis
 - Brandon Truong https://github.com/btroo
 - Braun Shedd https://github.com/braunshedd
 - Brendan Rowan https://github.com/rowanbrendan
