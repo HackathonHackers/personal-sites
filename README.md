@@ -489,7 +489,7 @@ Hackathon Hackers' GitHub profiles
 - Jerrick Davis https://github.com/clevrpwn
 - Jerry Reptak https://github.com/JetFault
 - Jesse Chand https://github.com/jchand
-- Jesse https://github.com/jtcollins90
+- Jesse http://jtcollins.me
 - Jesse Hu https://github.com/Huyouare
 - Jessica Chang https://github.com/jessmchang
 - Jhonathan Wyterlin https://github.com/jwyterlin
