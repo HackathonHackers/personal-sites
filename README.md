@@ -385,6 +385,7 @@ Hackathon Hackers' GitHub profiles
 - Dan Silver https://github.com/dan-silver
 - Dan Stepanov https://github.com/danstepanov
 - Dan Zhang https://github.com/dzhang50
+- Dave Ankin https://github.com/alexanderankin
 - Dave Fontenot https://github.com/hellyeah
 - David Baldwynn https://github.com/whitef0x0
 - David BasedMathematician Coven https://github.com/mrcoven94
