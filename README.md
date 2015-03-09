@@ -50,6 +50,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Brian Chu www.brianchu.com
 - Brian Lutz www.btlutz.com
 - Brijesh Patel https://about.me/brijeshpatel9
+- Britt Mathis http://bmuk.io
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
 - Caitlin McDonald http://www.caitlinamcdonald.com
@@ -350,6 +351,7 @@ Hackathon Hackers' GitHub profiles
 - Brian Clanton https://github.com/brianclanton
 - Brian Lai https://github.com/1337
 - Brijesh Patel https://github.com/Brijeshrpatel9
+- Britt Mathis https://github.com/bmuk
 - Bruno B. Ferrari Faviero https://github.com/bfaviero
 - Bryan Garza https://github.com/bryangarza
 - Burak Içel https://github.com/burakicel
