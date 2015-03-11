@@ -77,6 +77,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Emily Tran http://emilytran.org
 - Eric Zinnikas https://ericz.com
 - Eugene Cheung www.echeung.me
+- Faiz Ahmad http://faiz.io
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
 - Fox Wilson http://fwilson.me/
@@ -424,6 +425,7 @@ Hackathon Hackers' GitHub profiles
 - Ethan Arnold https://github.com/masonsbro
 - Eugene Cheung https://github.com/arkon
 - Faiq Raza https://github.com/faiq
+- Faiz Ahmad https://github.com/Faiz7412/
 - Faiz Ahmed Khan https://github.com/dridon
 - Farrukh Jadoon https://github.com/fkjadoon94
 - Feifan Zhou https://github.com/feifanzhou
