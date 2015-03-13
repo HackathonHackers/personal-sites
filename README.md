@@ -229,6 +229,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Sudarshan Muralidhar http://smuralidhar.com
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Tejas Manohar http://tejas.io
+- Tejas Nikumbh http://tejasnikumbh.github.io
 - Terry Piercson http://taehongmin.com/
 - Timotius Sitorus http://timsitorus.com
 - Ty-Lucas Kelley http://tylucaskelley.com
