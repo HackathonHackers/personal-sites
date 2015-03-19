@@ -25,6 +25,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andrew Q Tran http://andrewqtran.com
 - Andy Kamath http://andykamath.com
 - Ankit Agrawal http://ankitmaverick.com
+- Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
@@ -316,6 +317,7 @@ Hackathon Hackers' GitHub profiles
 - Anthony Lobko https://github.com/Amelius15
 - Anthony Zhang https://github.com/Uberi
 - Anton Gilgur https://github.com/agilgur5
+- Anton Relin https://github.com/relisher
 - Antonio Marino https://github.com/antonio0
 - Anuraag Yachamaneni https://github.com/hackathoner
 - Anurag Banerjee https://github.com/anurag-banerjee
