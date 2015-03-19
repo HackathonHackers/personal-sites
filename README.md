@@ -79,6 +79,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Eric Zinnikas https://ericz.com
 - Eugene Cheung www.echeung.me
 - Faiz Ahmad http://faiz.io
+- Fan Zhang http://thefanzhang.com
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
 - Fox Wilson http://fwilson.me/
@@ -430,6 +431,7 @@ Hackathon Hackers' GitHub profiles
 - Faiq Raza https://github.com/faiq
 - Faiz Ahmad https://github.com/Faiz7412/
 - Faiz Ahmed Khan https://github.com/dridon
+- Fan Zhang https://github.com/fanwashere
 - Farrukh Jadoon https://github.com/fkjadoon94
 - Feifan Zhou https://github.com/feifanzhou
 - Fernando Trujano https://github.com/fertogo
