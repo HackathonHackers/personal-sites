@@ -132,6 +132,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Path http://kevinpath.net/
 - Kevin Payravi http://www.kevinpayravi.com/
+- Kevin Pei http://kevinpei.com
 - Kevin Yeh http://kyeh.me
 - Kilim Choi http://kilimchoi.com
 - Kirby Kohlmorgen http://kirbyk.me
