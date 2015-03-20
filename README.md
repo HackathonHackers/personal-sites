@@ -237,6 +237,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - 激怒 サン http://technomakmy.com/
 - Usmann Khan http://usmann.me
 - Victor Danger Lourng http://victorlourng.com
+- Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
 - Vishnu Ravi http://vishnu.io/
 - Wasim Thabraze http://thabraze.in
@@ -834,6 +835,7 @@ Hackathon Hackers' GitHub profiles
 - Victor Szeto https://github.com/VictorVation
 - Vic Vu https://github.com/vicv
 - Vikrem https://github.com/vikrem
+- Vinay Hiremath https://github.com/vinay427
 - Vishnu Ks https://github.com/hackerkid
 - Vishnu Ravi https://github.com/vishnuravi
 - Wasim Thabraze https://github.com/waseem18
