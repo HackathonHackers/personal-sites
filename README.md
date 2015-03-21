@@ -32,6 +32,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
+- Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
