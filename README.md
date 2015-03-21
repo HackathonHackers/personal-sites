@@ -9,6 +9,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Adil Virani http://aspv.pw/
+- Afonso Praça http://afonsopraca.com.br/
 - AJ Norton http://ajnorton.com/
 - Akshay Dixit http://akshaydixi.me
 - Alec Robins http://www.alecrobins.me/
