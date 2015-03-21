@@ -71,6 +71,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dakota St. Laurent http://stdako.com
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
+- Darion Cassel http://darioncassel.me
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
