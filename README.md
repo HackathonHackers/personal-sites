@@ -60,6 +60,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Cassidy Williams http://cassidoo.co
 - Chaoyi Zha http://cydrobolt.com
 - Chirag Chauhan http://chiragchauhan.com
+- Chris Lai http://chrislai.info
 - Chris Lee http://collegefill.com
 - Christina Platt http://christinaplatt.weebly.com
 - Clayton Brand http://claytonbrand.com
@@ -372,6 +373,7 @@ Hackathon Hackers' GitHub profiles
 - Charles Shen https://github.com/rarabai
 - Charlie Li https://github.com/vishwin
 - Chirag Chauhan https://github.com/crc442
+- Chris Lai https://github.com/chrislai
 - Chris Lee https://github.com/chrispmlee
 - Christopher Dorick https://github.com/topher23
 - Chuby Okafor https://github.com/chubylive
