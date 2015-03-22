@@ -92,6 +92,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Gautam Mittal http://www.gautam.cc
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
+- Grant Park http://www.granthpark.me
 - Grant Timmerman http://grant.cm
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
@@ -459,6 +460,7 @@ Hackathon Hackers' GitHub profiles
 - Georgi D. Georgiev https://github.com/gessha
 - Gibran Garcia https://github.com/owlsketch
 - Grant Mulitz https://github.com/gmulz
+- Grant Park https://github.com/sungjp
 - Grant Timmerman https://github.com/grant
 - Greg Carlin https://github.com/gregthegeek
 - Gregory Koberger https://github.com/gkoberger
