@@ -10,6 +10,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Achal Varma http://acha.lv/
 - Adil Virani http://aspv.pw/
 - Afonso Praça http://afonsopraca.com.br/
+- Ai Onda http://aicecream.com
 - AJ Norton http://ajnorton.com/
 - Akshay Dixit http://akshaydixi.me
 - Alec Robins http://www.alecrobins.me/
@@ -277,6 +278,7 @@ Hackathon Hackers' GitHub profiles
 - Adway Dhillon https://github.com/adwaydhillon
 - Ahmed Fathi https://github.com/AFathi
 - Ahsan Zahid https://github.com/zerova
+- Ai Onda https://github.com/aionda
 - Ajay L Kutnikar https://github.com/alkutnikar
 - Ajmal Khan https://github.com/Ajrator
 - AJ Norton https://github.com/ajn123
