@@ -108,6 +108,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Iheanyi Ekechukwu http://iheanyi.com
 - Jack Korbin www.lykpic.com
 - Jack McGrath http://handsome.rocks
+- Jack Wearden https://www.jackwearden.co.uk
 - Jairam Patel http://jairampatel.com/
 - James Billingham http://jamesbillingham.com
 - Jason Liu http://jxnl.co
