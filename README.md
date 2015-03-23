@@ -196,6 +196,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Phil Efstathiou http://phil.ws/
 - Pranav Chaudhari http://excelworld.eu/
 - Raghav Sood http://raghavsood.com
+- Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
 - Ravin Sardal http://ravinsardal.me
 - Richard Chu http://churichard.me/
