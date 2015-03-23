@@ -497,6 +497,7 @@ Hackathon Hackers' GitHub profiles
 - Jack Cook https://github.com/jackcook
 - Jackie Zhang https://github.com/jzjzme
 - Jack Korbin https://github.com/jackkorbin
+- Jack Wearden https://github.com/NotBobTheBuilder
 - Jacob Johnston https://github.com/JacobJohnston15
 - Jacob Mizraji https://github.com/zisko
 - Jacob Stein https://github.com/jacobstein123
