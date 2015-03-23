@@ -108,6 +108,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Iheanyi Ekechukwu http://iheanyi.com
 - Jack Korbin www.lykpic.com
 - Jack McGrath http://handsome.rocks
+- Jack Wearden https://www.jackwearden.co.uk
 - Jairam Patel http://jairampatel.com/
 - James Billingham http://jamesbillingham.com
 - Jason Liu http://jxnl.co
@@ -496,6 +497,7 @@ Hackathon Hackers' GitHub profiles
 - Jack Cook https://github.com/jackcook
 - Jackie Zhang https://github.com/jzjzme
 - Jack Korbin https://github.com/jackkorbin
+- Jack Wearden https://github.com/NotBobTheBuilder
 - Jacob Johnston https://github.com/JacobJohnston15
 - Jacob Mizraji https://github.com/zisko
 - Jacob Stein https://github.com/jacobstein123
