@@ -642,7 +642,6 @@ Hackathon Hackers' GitHub profiles
 - Liban Mohamed https://github.com/Libanthedev
 - Lucas Mullens https://github.com/lucasmullens
 - Lucy Guo https://github.com/loopyz
-- Luka Marr https://github.com/lukamarr
 - Luka Marčec https://github.com/LukaMarr
 - Luke Cycon https://github.com/lcycon
 - Luke Wright https://github.com/Simplyluke
@@ -650,11 +649,11 @@ Hackathon Hackers' GitHub profiles
 - Madeleyne Vaca https://github.com/Maye-vaca
 - Mahesh Murag https://github.com/mash99
 - Mahir Kothary https://github.com/mahirk
+- María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
 - Markan Patel https://github.com/cooltoast
 - Marouane Nafaa https://github.com/mnafaa
-- María Teresa Chávez https://github.com/materechm
 - Matan Uchen https://github.com/matan157
 - Matheus C. Candido https://github.com/mcassiano
 - Matisse B. VerDuyn https://github.com/matisseverduyn
@@ -796,6 +795,7 @@ Hackathon Hackers' GitHub profiles
 - Rohan Shah https://github.com/rohan4
 - Rohan Shah https://github.com/Rohanyshah
 - Rohan Yelsangikar https://github.com/royels
+- Rõhith Varanasi https://github.com/Rohfosho
 - Ron Bhatta https://github.com/aranibatta
 - Ronak Patel https://github.com/ronakp
 - Ross Semenov https://github.com/rossem
@@ -810,7 +810,6 @@ Hackathon Hackers' GitHub profiles
 - Ryan Lin https://github.com/ryansl
 - Ryan Senanayake https://github.com/RSenApps
 - Ryhan Hassan https://github.com/ryhan
-- Rõhith Varanasi https://github.com/Rohfosho
 - Sachan Ganesh https://github.com/sachanganesh
 - Sacheth Chandramouli https://github.com/Sapchan
 - Sagar Garg https://github.com/sagargarg
