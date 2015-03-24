@@ -144,6 +144,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kevin Payravi http://www.kevinpayravi.com/
 - Kevin Pei http://kevinpei.com
 - Kevin Yeh http://kyeh.me
+- Kevin Zhang https://blog.kevinzhang.me
 - Kilim Choi http://kilimchoi.com
 - Kirby Kohlmorgen http://kirbyk.me
 - Kirsten Rauffer http://www.kirstenrauffer.com
