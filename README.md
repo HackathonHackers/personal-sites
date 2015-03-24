@@ -65,6 +65,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Lai http://chrislai.info
 - Chris Lee http://collegefill.com
+- Christian Barcenas http://www.cbarcenas.com/
 - Christina Platt http://christinaplatt.weebly.com
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
@@ -388,6 +389,7 @@ Hackathon Hackers' GitHub profiles
 - Chirag Chauhan https://github.com/crc442
 - Chris Lai https://github.com/chrislai
 - Chris Lee https://github.com/chrispmlee
+- Christian Barcenas https://github.com/cbarcenas
 - Christopher Dorick https://github.com/topher23
 - Chuby Okafor https://github.com/chubylive
 - Chuck Nweke https://github.com/kidwalom
