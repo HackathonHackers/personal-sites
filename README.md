@@ -170,6 +170,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Matthew Bucci http://matthewbucci.com
 - Matthew Kaiser http://mkaiser.io
 - Matthew Kaufer http://kaufer.org
+- Max Maybury http://maxjmay.co.uk
 - Max Shavrick http://mxms.pw
 - Megan Ruthven http://maruthven.com/
 - Melanie Hsu http://bluemelodia.com/
@@ -669,6 +670,7 @@ Hackathon Hackers' GitHub profiles
 - Max Bernstein https://github.com/tekknolagi
 - Max Kanwal https://github.com/mkanwal
 - Max Kolysh https://github.com/maxko87
+- Max Maybury https://github.com/maxjmay
 - Max Rais https://github.com/letsgitit
 - Max Shavrick https://github.com/Maximus-
 - Max Wofford https://github.com/MaxWofford
