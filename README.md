@@ -74,6 +74,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - Darion Cassel http://darioncassel.me
+- Darren Gilbert http://darrengilbert.rocks
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
@@ -426,6 +427,7 @@ Hackathon Hackers' GitHub profiles
 - Daniel Robertson https://github.com/danielrobertson
 - Danny Wolf https://github.com/wolfd
 - Darion Cassel https://github.com/darioncassel
+- Darren Gilbert http://github.com/darrengilbert
 - Dave Ankin https://github.com/alexanderankin
 - Dave Fontenot https://github.com/hellyeah
 - David Baldwynn https://github.com/whitef0x0
