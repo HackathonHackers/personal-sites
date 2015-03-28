@@ -200,6 +200,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Phil Efstathiou http://phil.ws/
+- Pradyuman Vig http://www.pradyumanvig.com
 - Pranav Chaudhari http://excelworld.eu/
 - Raghav Sood http://raghavsood.com
 - Raphael Rouvinov-Kats http://raphaelrk.com
@@ -751,6 +752,7 @@ Hackathon Hackers' GitHub profiles
 - Phil Efstathiou https://github.com/philefstat
 - Pierce Stegman https://github.com/pwstegman
 - Prachi Bodas https://github.com/prbodas
+- Pradyuman Vig https://github.com/scyphi
 - Prajwal Kedilaya https://github.com/pjIowa
 - Pranav Chaudhari https://github.com/hahjoker
 - Pranay Pareek https://github.com/pranaypareek
