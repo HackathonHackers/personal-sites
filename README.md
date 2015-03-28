@@ -15,7 +15,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Akshay Dixit http://akshaydixi.me
 - Alec Robins http://www.alecrobins.me/
 - Alex Koshy http://koshy.co/
-- Alex Vallorosi http://alexx.xxx/new.html
 - Alex Wang http://alw231.github.io
 - Alvin Deng http://alvinqdeng.me/
 - Anat Gilboa http://anat.me
@@ -50,10 +49,8 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
-- Brett Martin http://brettmart.in
 - Brian Chuk http://devchuk.github.io/
 - Brian Chu www.brianchu.com
-- Brian Lutz www.btlutz.com
 - Brijesh Patel https://about.me/brijeshpatel9
 - Britt Mathis http://bmuk.io
 - Bruno B. Ferrari Faviero http://brunofaviero.com
