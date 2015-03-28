@@ -29,6 +29,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ankit Agrawal http://ankitmaverick.com
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
+- Anuraag Yachamaneni http://anuraag.me
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
 - Arjun Bhatnagar http://arjunb.com
