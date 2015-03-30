@@ -252,6 +252,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - 激怒 サン http://technomakmy.com/
 - Usmann Khan http://usmann.me
+- Varun Sridharan http://varunsridharan.in
 - Victor Danger Lourng http://victorlourng.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
@@ -907,6 +908,7 @@ Hackathon Hackers' GitHub profiles
 - Usman Ehtesham https://github.com/ueg1990
 - Usman Majeed https://github.com/majeedus
 - Usmann Khan https://github.com/usmannk
+- Varun Sridharan https://github.com/technofreaky
 - Vaidas Mykolaitis https://github.com/codepreneur
 - Vansh Gandhi https://github.com/vanshg
 - Varatep Buranintu https://github.com/varatep
