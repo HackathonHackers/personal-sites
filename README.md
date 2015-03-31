@@ -512,7 +512,7 @@ Hackathon Hackers' GitHub profiles
 - Herin Kim https://github.com/herinkc
 - Hilal Habashi https://github.com/hilalh
 - Hima Tammineedi https://github.com/himat
-- Hugh Rawlinson https://github.com/hughrawlinson
+- Hugh Rawlinson http://hraw.me
 - Humdaan Mustafa https://github.com/humishum
 - Ian Carroll https://github.com/iangcarroll or https://git.certly.io/ian
 - Ian Jennings https://github.com/ianjennings
