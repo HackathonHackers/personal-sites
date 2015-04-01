@@ -82,6 +82,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Elissa Shevinsky http://elissashevinsky.com
 - Eli White http://eli-white.com
 - Emily Tran http://emilytran.org
+- Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
 - Eugene Cheung www.echeung.me
 - Faiz Ahmad http://faiz.io
@@ -463,6 +464,7 @@ Hackathon Hackers' GitHub profiles
 - Emilio Flores https://github.com/EmilioFlores
 - Emily Tran https://github.com/emilytran
 - Eric Kamen https://github.com/wchill
+- Eric Song https://github.com/ericsong
 - Eric Zinnikas https://github.com/ericzinnikas
 - Erica Douglass https://github.com/ericabiz
 - Ethan Arnold https://github.com/masonsbro
