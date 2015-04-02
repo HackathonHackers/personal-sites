@@ -256,6 +256,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - 激怒 サン http://technomakmy.com/
 - Usmann Khan http://usmann.me
+- Vaidas Mykolaitis http://www.codepreneur.io/
 - Victor Danger Lourng http://victorlourng.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
