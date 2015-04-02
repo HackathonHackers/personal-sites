@@ -85,6 +85,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Emily Tran http://emilytran.org
 - Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
+- Ethan Richardson http://richardsonethan.me
 - Eugene Cheung www.echeung.me
 - Faiz Ahmad http://faiz.io
 - Fan Zhang http://thefanzhang.com
@@ -472,6 +473,7 @@ Hackathon Hackers' GitHub profiles
 - Eric Zinnikas https://github.com/ericzinnikas
 - Erica Douglass https://github.com/ericabiz
 - Ethan Arnold https://github.com/masonsbro
+- Ethan Richardson http://github.com/ethanx94
 - Eugene Cheung https://github.com/arkon
 - Faiq Raza https://github.com/faiq
 - Faiz Ahmad https://github.com/Faiz7412
