@@ -74,6 +74,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dan Zhang www.danzhang.net
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
+- David Awad http://davidawad.github.io
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
