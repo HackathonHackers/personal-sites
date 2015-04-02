@@ -156,6 +156,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Laurence Welch http://laurencewelch.com
 - Lawrence Lin Murata http://lawrencemurata.com/
 - Liam Horne http://lihorne.com
+- Liang Gao http://liang.gao.nyc
 - Li Xuanji http://xuanji.li
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.me
