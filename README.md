@@ -40,6 +40,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Asheer Tanveer http://asheertanveer.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
+- Austin L. Chang http://www.austinlchang.com
 - Azam Abdulkadir http://azamabdul.com
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
@@ -363,6 +364,7 @@ Hackathon Hackers' GitHub profiles
 - Asheer Tanveer https://github.com/Asheer
 - Ashwin Kachhara https://github.com/ashwinkachhara
 - Austin Feight https://github.com/Feighter09
+- Austin L. Chang https://github.com/austinlchang
 - Azam Abdulkadir https://github.com/AzamAbdul
 - Basil Siddiqui https://github.com/bsiddiqui
 - Batu Aytemiz https://github.com/batu
