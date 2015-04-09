@@ -145,6 +145,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Frans http://www.kevinfrans.com
+- Kevin Ji http://kevinji.com
 - Kevin Path http://kevinpath.net/
 - Kevin Payravi http://www.kevinpayravi.com/
 - Kevin Pei http://kevinpei.com
@@ -622,6 +623,7 @@ Hackathon Hackers' GitHub profiles
 - Kendrick Ledet https://github.com/kennyledet
 - Kenny Song https://github.com/kennysong
 - Kevin Frans https://github.com/bobthechicken
+- Kevin Ji https://github.com/mc10
 - Kevin Path https://github.com/kpath001
 - Kevin Payravi https://github.com/KevinPayravi
 - Kevin Pei https://github.com/kpsuperplane
