@@ -847,7 +847,7 @@ Hackathon Hackers' GitHub profiles
 - Saleh Kaddoura https://github.com/salehkaddoura
 - Sam Agnew https://github.com/sagnew
 - Sam Couch https://github.com/samuelcouch
-- Sam Daitzman https://github.com/sdaitzman
+- Sam Daitzman https://sdaitzman.github.io
 - Sam Redmond https://github.com/sredmond
 - Samarth Sandeep https://github.com/gravityshouldbenaut
 - Sankarshan Vidyadhar Mudkavi https://github.com/Sankarshan-Mudkavi
