@@ -41,12 +41,10 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Austin L. Chang http://www.austinlchang.com
-- Azam Abdulkadir http://azamabdul.com
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
 - Berwin Xie http://berwin.io
-- Bogdan Mazoure http://xoreaxeax.me
 - Brandon Amos http://bamos.github.io
 - Brandon Davis http://redspin.net
 - Brandon Truong http://hello.brandontruong.com
@@ -93,7 +91,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Fan Zhang http://thefanzhang.com
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
-- Fox Wilson http://fwilson.me/
 - Frank Cash http://hackerqueue.io
 - Gautam Mittal http://www.gautam.cc
 - Gibran Garcia http://gibrangarcia.me
@@ -134,7 +131,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jonathan Almeida http://jonalmeida.com
 - Jonny Krysh http://www.jonnykrysh.com
 - Jordan Arnesen www.byjor.com
-- Jordan Matelsky www.jordan.matelsky.com
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
 - Justin Cano http://jcano.me
@@ -168,7 +164,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Maria Chavez http://mariachavez.co
 - Markan Patel http://markanpatel.me
 - Mark Diez http://markediez.com/
-- Mark Ormesher http://ormo.me
+- Mark Ormesher https://www.markormesher.co.uk/
 - Matheus C. Candido http://cassiano.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
 - Matt Chan http://themattchan.com/
@@ -180,13 +176,11 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Max Maybury http://maxjmay.co.uk
 - Max Shavrick http://mxms.pw
 - Megan Ruthven http://maruthven.com/
-- Melanie Hsu http://bluemelodia.com/
 - Michael Borohovski http://shanewilton.com
 - Michael Ho Chum http://michaelchum.com
 - Michael Zhang http://failedxyz.github.io
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
-- Minh Nguyen http://wwww.minh.io
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
@@ -198,7 +192,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nimit Kalra http://nimitkalra.com
 - Niraj Pant http://niraj.io
 - Nishanth Shanmugham http://nishanth.io
-- Nithi Narayanan http://nithi.io/
 - Noah Hradek   http://noahhradek.me/
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
@@ -208,7 +201,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Paweł Szczurko www.pawel.pw
 - Phil Efstathiou http://phil.ws/
 - Pradyuman Vig http://www.pradyumanvig.com
-- Pranav Chaudhari http://excelworld.eu/
 - Raghav Sood http://raghavsood.com
 - Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
@@ -244,7 +236,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Shail Shetye http://www.shailshetye.com/
 - Shane DeWael http://shanedewael.com/
 - Shy Ruparel http://ruparel.co
-- Song Zheng http://songz.me/
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
@@ -259,7 +250,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Timotius Sitorus http://timsitorus.com
 - TJ Horner http://horner.tj/hello
 - Ty-Lucas Kelley http://tylucaskelley.com
-- 激怒 サン http://technomakmy.com/
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Victor Danger Lourng http://victorlourng.com
@@ -331,7 +321,6 @@ Hackathon Hackers' GitHub profiles
 - Andrew Hollenbach https://github.com/ahollenbach
 - Andrew Jaeger https://github.com/mrjaeger
 - Andrew Li https://github.com/southrop
-- Andrew Page https://github.com/pageandrew
 - Andrew Schreiber https://github.com/andrewschreiber
 - Andy Fang https://github.com/AndyF
 - Andy Kamath https://github.com/andykamath
@@ -408,7 +397,6 @@ Hackathon Hackers' GitHub profiles
 - Cassidy Williams https://github.com/cassidoo
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
-- Charles Shen https://github.com/rarabai
 - Charlie Li https://github.com/vishwin
 - Chirag Chauhan https://github.com/crc442
 - Chris Lai https://github.com/chrislai
@@ -510,7 +498,6 @@ Hackathon Hackers' GitHub profiles
 - Gregory Koberger https://github.com/gkoberger
 - Greyson Parrelli https://github.com/greysonp
 - Guilherme Berger https://github.com/gberger
-- Guilherme Rodrigues https://github.com/gadr
 - Guilherme Santos https://github.com/guilhermesgb
 - Gulshan Singh https://github.com/gsingh93
 - Haider Khan https://github.com/ZkHaider
@@ -567,7 +554,6 @@ Hackathon Hackers' GitHub profiles
 - Jay Kamat https://github.com/jgkamat
 - Jay Mo https://github.com/unitedjaymo
 - Jay Zalowitz https://github.com/jayzalowitz
-- Jaydeep Singh https://github.com/Jsinghdreams
 - Jennifer Apacible https://github.com/japacible
 - Jeremy Meyer https://github.com/jjman505
 - Jeroen Goossens https://github.com/penguinologist
@@ -811,7 +797,6 @@ Hackathon Hackers' GitHub profiles
 - Rodrigo Argumedo https://github.com/rodrigoargumedo
 - Roel Castaño https://github.com/RoelCastano
 - Roger Zou https://github.com/rogergzou
-- Roger Zurawicki https://github.com/rzurawicki
 - Rohan Likhite https://github.com/imRohan
 - Rohan Mathur https://github.com/mathur
 - Rohan Mishra https://github.com/Meeshbhoombah
@@ -837,7 +822,6 @@ Hackathon Hackers' GitHub profiles
 - Sacheth Chandramouli https://github.com/Sapchan
 - Sagar Garg https://github.com/sagargarg
 - Sagar Laud https://github.com/Sagarsaurus
-- Sagar Rambhia https://github.com/shr42
 - Sagnik Saha https://github.com/sagniksaha
 - Sai Grandhi https://github.com/saigrandhi
 - Sakib Jalal https://github.com/sakibj
@@ -878,7 +862,6 @@ Hackathon Hackers' GitHub profiles
 - Shriya Nevatia https://github.com/shriyanevatia
 - Shy Ruparel https://github.com/shy
 - Sid Dange https://github.com/siddhantdange
-- Sidney https://github.com/sdurant12
 - Simon Anatole Orlovsky https://github.com/simonorlovsky
 - Simran Preet Singh https://github.com/simransdsu
 - Sohaib Syed https://github.com/sohaibsyed95
@@ -900,7 +883,6 @@ Hackathon Hackers' GitHub profiles
 - Suril Shah https://github.com/Suril-Shah
 - Suyash Srijan https://github.com/theblixguy
 - Syed Raziq Mohideen https://github.com/sandybisaria
-- Talha Qamar https://github.com/tallhaqamar
 - Tarik Onalan https://github.com/QuantumPhi
 - Taylor Blau https://github.com/ttaylorr
 - Tejas Manohar https://github.com/tejasmanohar
@@ -942,7 +924,6 @@ Hackathon Hackers' GitHub profiles
 - Will Beckman https://github.com/wbeckman9
 - Will Field-Thompson https://github.com/WFT
 - Will Strimling https://github.com/willium
-- Will Yoo https://github.com/ArchAngelWill
 - William Cockburn https://github.com/Syrexide
 - William Jagels https://github.com/wijagels
 - William Wnękowicz https://github.com/flysonic10
@@ -950,7 +931,6 @@ Hackathon Hackers' GitHub profiles
 - Wilson Mitchell https://github.com/mitchellw
 - Wilson Zhao https://github.com/wilzh40
 - Yasyf Mohamedali https://github.com/yasyf
-- Young Fenimore Lee https://github.com/slinky773
 - Yuya Jeremy Ong https://github.com/yutarochan
 - Zach Fogg https://github.com/zfogg
 - Zach Price https://github.com/zachprice
