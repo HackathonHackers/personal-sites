@@ -181,6 +181,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Michael Zhang http://failedxyz.github.io
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
+- Mitchell Gordon http://mitchgordon.me
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
