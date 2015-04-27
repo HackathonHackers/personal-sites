@@ -253,6 +253,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
+- Varun Rajendra Rajamane http://varunrajamane.me
 - Victor Danger Lourng http://victorlourng.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
@@ -910,6 +911,7 @@ Hackathon Hackers' GitHub profiles
 - Vansh Gandhi https://github.com/vanshg
 - Varatep Buranintu https://github.com/varatep
 - Varun Arora https://github.com/avarun42
+- Varun Rajamane https://github.com/zuron7
 - Vasudev Bhat https://github.com/vasudev-33
 - Vic Vu https://github.com/vicv
 - Victor Danger Lourng https://github.com/LabLayers
