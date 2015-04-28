@@ -26,7 +26,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
-- Andy Kamath http://andykamath.com
+- Andy Kamath http://baesed.me
 - Ankit Agrawal http://ankitmaverick.com
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
