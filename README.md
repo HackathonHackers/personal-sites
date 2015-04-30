@@ -117,6 +117,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jairam Patel http://jairampatel.com/
 - James Billingham http://jamesbillingham.com
 - James Kao http://jameskao.me
+- Jamone Kelly http://jamonek.com/
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
@@ -546,6 +547,7 @@ Hackathon Hackers' GitHub profiles
 - James Billingham https://github.com/BillinghamJ
 - James Kao https://github.com/bestkao
 - Jamie Davies https://github.com/viralpickaxe
+- Jamone Kelly https://github.com/JamoneK
 - Janelle Hinds https://github.com/mobileappqueen
 - Jared Moskowitz https://github.com/JaredMoskowitz
 - Jared Wright https://github.com/jawerty
