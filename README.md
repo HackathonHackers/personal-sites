@@ -581,6 +581,7 @@ Hackathon Hackers' GitHub profiles
 - John Yeung https://github.com/johnyeung
 - Jon Khaykin https://github.com/jkhaykin
 - Jonathan Almeida https://github.com/jonalmeida
+- Jonathan Barronville https://github.com/jonathanmarvens
 - Jonathan Jemson https://github.com/jonjesbuzz
 - Jonathan Kau https://github.com/jonathankau
 - Jonathan Kingsley https://github.com/jfkingsley
