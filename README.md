@@ -158,6 +158,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
 - Lawrence Lin Murata http://lawrencemurata.com/
+- Lex Alexander http://coderlex.com
 - Liam Horne http://lihorne.com
 - Liang Gao http://liang.gao.nyc
 - Li Xuanji http://xuanji.li
