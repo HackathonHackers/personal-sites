@@ -227,6 +227,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
+- Sang Han http://sanghan.me
 - Sagar Garg http://sagargarg.github.io/
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
@@ -828,6 +829,7 @@ Hackathon Hackers' GitHub profiles
 - Sagar Garg https://github.com/sagargarg
 - Sagar Laud https://github.com/Sagarsaurus
 - Sagnik Saha https://github.com/sagniksaha
+- Sang Han https://github.com/jjangsangy
 - Sai Grandhi https://github.com/saigrandhi
 - Sakib Jalal https://github.com/sakibj
 - Sakib Rasul https://www.github.com/rhythms06
