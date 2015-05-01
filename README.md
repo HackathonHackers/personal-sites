@@ -233,6 +233,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
+- Sang Han http://sanghan.me
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
@@ -843,6 +844,7 @@ Hackathon Hackers' GitHub profiles
 - Sam Daitzman https://sdaitzman.github.io
 - Sam Redmond https://github.com/sredmond
 - Samarth Sandeep https://github.com/gravityshouldbenaut
+- Sang Han https://github.com/jjangsangy
 - Sankarshan Vidyadhar Mudkavi https://github.com/Sankarshan-Mudkavi
 - Sarthi Andley https://github.com/theSarthi
 - Sashank Thupukari https://github.com/helloworld
