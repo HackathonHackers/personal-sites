@@ -190,6 +190,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Moshe Berman Http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
 - Neal Shyam http://nealshyam.com
+- Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
 - Nelson Liu http://nelsonliu.me
 - Nicholas Brown http://kompulsa.com
@@ -725,6 +726,7 @@ Hackathon Hackers' GitHub profiles
 - Nazim Amin https://github.com/NazimAmin
 - Neal Shyam https://github.com/nealrs
 - Neel Mouleeswaran https://github.com/neelcm
+- Neil Patel https://github.com/neil1023
 - Nelson Gomez https://github.com/nsgomez
 - Nelson Liu https://github.com/nelson-liu
 - Neville Jos https://github.com/josneville
