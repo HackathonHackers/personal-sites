@@ -155,6 +155,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kirsten Rauffer http://www.kirstenrauffer.com
 - Krish Dholakiya http://itskrish.co
 - Krishn Ramesh http://krishn.me
+- Krysh Jonny http://jonnykrysh.me
 - Kyle Frost http://kylefrost.me
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
