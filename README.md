@@ -9,6 +9,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
+- Adam Hamot http://zamn.net
 - Adil Virani http://aspv.pw/
 - Adrienne Tran http://www.adriennetran.com
 - Afonso Praça http://afonsopraca.com.br/
@@ -288,6 +289,7 @@ Hackathon Hackers' GitHub profiles
 - Abhishek Mukherjee https://github.com/Abhimint
 - Abody Aljoudi https://github.com/ChrisAljoudi
 - Achal Varma https://github.com/achalv
+- Adam Hamot https://github.com/zamN
 - Adelain Aaron Ounn https://github.com/aaronwinter
 - Adil Virani https://github.com/AdilVirani
 - Adway Dhillon https://github.com/adwaydhillon
