@@ -132,7 +132,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jing Xiao http://www.notajingoist.com/index.html
 - Joe Duncko http://joeduncko.com/
 - Jonathan Almeida http://jonalmeida.com
-- Jonny Krysh http://www.jonnykrysh.com
+- Jonny Krysh http://www.jonnykrysh.me
 - Jordan Arnesen www.byjor.com
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
@@ -155,7 +155,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Kirsten Rauffer http://www.kirstenrauffer.com
 - Krish Dholakiya http://itskrish.co
 - Krishn Ramesh http://krishn.me
-- Krysh Jonny http://jonnykrysh.me
 - Kyle Frost http://kylefrost.me
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
