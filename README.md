@@ -4,6 +4,7 @@ Hackathon Hackers' Personal Websites
 Sorted alphabetically by first name.
 https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 
+- Alex Cory http://alexcory.com
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
 - Abody Aljoudi https://chrismatic.io/
