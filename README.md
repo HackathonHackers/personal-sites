@@ -66,6 +66,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Chris Lee http://collegefill.com
 - Christian Barcenas http://www.cbarcenas.com/
 - Christina Platt http://christinaplatt.weebly.com
+- Christopher Scott http://scottdchris.com
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
 - Cyrus Roshan http://cyrusroshan.me
