@@ -17,6 +17,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - AJ Norton http://ajnorton.com/
 - Akshay Dixit http://akshaydixi.me
 - Alec Robins http://www.alecrobins.me/
+- Alex Cory http://alexcory.com
 - Alex Koshy http://koshy.co/
 - Alex Wang http://alw231.github.io
 - Alvin Deng http://alvinqdeng.me/
