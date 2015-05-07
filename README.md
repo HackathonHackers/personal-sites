@@ -167,6 +167,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Li Xuanji http://xuanji.li
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.me
+- Marco Bettiolo http://bettiolo.it
 - Maria Chavez http://mariachavez.co
 - Markan Patel http://markanpatel.me
 - Mark Diez http://markediez.com/
@@ -669,6 +670,7 @@ Hackathon Hackers' GitHub profiles
 - Madeleyne Vaca https://github.com/Maye-vaca
 - Mahesh Murag https://github.com/mash99
 - Mahir Kothary https://github.com/mahirk
+- Marco Bettiolo https://github.com/bettiolo
 - María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
