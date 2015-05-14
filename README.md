@@ -63,6 +63,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
 - Chaoyi Zha http://cydrobolt.com
+- Chirag Aggarwal http://www.chi6rag.net
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Lai http://chrislai.info
 - Chris Lee http://collegefill.com
