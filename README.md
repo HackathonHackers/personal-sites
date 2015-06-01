@@ -98,6 +98,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
 - Frank Cash http://hackerqueue.io
+- Freddie Vargus http://fjv4.com
 - Gagik Movsisyan http://gagikm.com
 - Gautam Mittal http://www.gautam.cc
 - Gibran Garcia http://gibrangarcia.me
@@ -497,6 +498,7 @@ Hackathon Hackers' GitHub profiles
 - Fox Wilson https://github.com/fwilson42
 - Francesco Gramano https://github.com/g2graman
 - Frank Cash https://github.com/frankcash
+- Freddie Vargus http://github.com/FreddieV4
 - Frederick Brunn https://github.com/clotifoth
 - Frederik Riedel https://github.com/quappi
 - Gagik Movsisyan https://github.com/gagikm
