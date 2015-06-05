@@ -568,6 +568,7 @@ Hackathon Hackers' GitHub profiles
 - Jared Zoneraich https://github.com/jzone3
 - Jason Liu https://github.com/jxnl
 - Jason Marmon https://github.com/jtmarmon
+- Jason Stillerman https://github.com/jstillerman
 - Jatin Pandey https://github.com/jatinpandey
 - Jawad Nasser https://github.com/jawadmn
 - Jax Reiff https://github.com/jaxuru
