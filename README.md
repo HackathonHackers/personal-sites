@@ -784,9 +784,9 @@ Hackathon Hackers' GitHub profiles
 - Pranay Pareek https://github.com/pranaypareek
 - Prithvi Narasimhan https://github.com/prithvin
 - Purag Moumdjian https://github.com/purmou
-- Rafa Mkrtchyan https://github.com/MicBrain
 - Rafa Moreno https://github.com/ralphie9224
 - Rafael Khan https://github.com/rafkhan
+- Rafayel Mkrtchyan https://github.com/MicBrain
 - Raghav Sood https://github.com/RaghavSood
 - Rahul Chaudhary https://github.com/rahulch95
 - Rahul Ranjan https://github.com/rahulrrixe
