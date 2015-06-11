@@ -554,6 +554,7 @@ Hackathon Hackers' GitHub profiles
 - Jacob Johnston https://github.com/JacobJohnston15
 - Jacob Mizraji https://github.com/zisko
 - Jacob Stein https://github.com/jacobstein123
+- Jake Sylvestre https://github.com/jakesyl
 - Jairam Patel https://github.com/jairampatel
 - Jake Bernstein https://github.com/JakeBernstein65
 - Jake Schmitz https://github.com/schmitzjake
