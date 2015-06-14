@@ -25,6 +25,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
 - Andrew Dai http://www.andrewdai.co
+- Andrew Drozdov http://www.mrdrozdov.com
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
