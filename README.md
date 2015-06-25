@@ -436,6 +436,7 @@ Hackathon Hackers' GitHub profiles
 - Cyrus Roshan https://github.com/CyrusRoshan
 - Dag Yeshiwas https://github.com/cozma
 - Dakota St. Laurent https://github.com/StDako
+- Dan Appel https://github.com/Danappelxx
 - Dan Marcoux https://github.com/dandroiddeveloper
 - Dan Schlosser https://github.com/danrschlosser
 - Dan Silver https://github.com/dan-silver
