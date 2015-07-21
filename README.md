@@ -443,6 +443,7 @@ Hackathon Hackers' GitHub profiles
 - Dan Silver https://github.com/dan-silver
 - Dan Stepanov https://github.com/danstepanov
 - Dan Zhang https://github.com/dzhang50
+- Daniel C. Eckert https://github.com/drakontas
 - Daniel Golman https://github.com/dgolman
 - Daniel Robertson https://github.com/danielrobertson
 - Danny Wolf https://github.com/wolfd
