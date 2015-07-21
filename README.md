@@ -79,6 +79,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dan Appel https://dvappel.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
+- Daniel C. Eckert http://drakontas.org
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
 - David Awad http://davidawad.github.io
