@@ -79,6 +79,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Dan Appel https://dvappel.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
+- Dana Lee http://danagilliann.me/
 - Daniel C. Eckert http://drakontas.org
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
@@ -443,6 +444,7 @@ Hackathon Hackers' GitHub profiles
 - Dan Silver https://github.com/dan-silver
 - Dan Stepanov https://github.com/danstepanov
 - Dan Zhang https://github.com/dzhang50
+- Dana Lee https://github.com/danagilliann
 - Daniel C. Eckert https://github.com/drakontas
 - Daniel Golman https://github.com/dgolman
 - Daniel Robertson https://github.com/danielrobertson
