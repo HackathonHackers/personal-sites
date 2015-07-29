@@ -266,6 +266,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Tejas Manohar http://tejas.io
 - Tejas Nikumbh http://tejasnikumbh.github.io
 - Terry Piercson http://taehongmin.com/
+- Thomas Lam http://thomaslam.github.io
 - Timotius Sitorus http://timsitorus.com
 - TJ Horner http://horner.tj/hello
 - Ty-Lucas Kelley http://tylucaskelley.com
