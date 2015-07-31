@@ -135,6 +135,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
 - Jay Mo http://unitedjaymo.com/
+- Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerrick Davis http://jerrick.us
