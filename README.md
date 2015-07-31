@@ -111,6 +111,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Grant Timmerman http://grant.cm
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
+- Hamza Khan https://hamzakhan.org
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
@@ -528,6 +529,7 @@ Hackathon Hackers' GitHub profiles
 - Guilherme Santos https://github.com/guilhermesgb
 - Gulshan Singh https://github.com/gsingh93
 - Haider Khan https://github.com/ZkHaider
+- Hamza Khan https://github.com/hamza765
 - Hansen Chang https://github.com/byteair
 - Haris Iqbal https://github.com/hiqbal01
 - Harrison Freni https://github.com/HFreni
