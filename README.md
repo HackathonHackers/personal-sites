@@ -77,6 +77,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Cyrus Roshan http://cyrusroshan.me
 - Dakota St. Laurent http://stdako.com
 - Dan Appel https://dvappel.me
+- Dan Ni http://danielni.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - Dana Lee http://danagilliann.me/
@@ -111,11 +112,13 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Grant Timmerman http://grant.cm
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
+- Hamza Khan https://hamzakhan.org
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
 - Henry Millison http://henrymillison.com
 - Hugh Rawlinson http://hughrawlinson.me/
+- Hunter Larco http://larcolabs.com
 - Ian Carroll https://ian.sh
 - Ian Jennings http://ianjennin.gs
 - Ian Macalinao http://ian.pw
@@ -134,6 +137,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jay Kamat http://jgkamat.github.io
 - Jay Mo http://unitedjaymo.com/
 - Jeffrey Lin http://linjeffrey.me
+- Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerrick Davis http://jerrick.us
@@ -198,6 +202,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Michael Zhang http://failedxyz.github.io
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
+- Ming Luo http://Ming-Luo.com
 - Mitchell Gordon http://mitchgordon.me
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
@@ -253,6 +258,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
+- Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
 - Shane DeWael http://shanedewael.com/
 - Shy Ruparel http://ruparel.co
@@ -442,6 +448,7 @@ Hackathon Hackers' GitHub profiles
 - Dakota St. Laurent https://github.com/StDako
 - Dan Appel https://github.com/Danappelxx
 - Dan Marcoux https://github.com/dandroiddeveloper
+- Dan Ni https://github.com/danielni
 - Dan Schlosser https://github.com/danrschlosser
 - Dan Silver https://github.com/dan-silver
 - Dan Stepanov https://github.com/danstepanov
@@ -494,6 +501,7 @@ Hackathon Hackers' GitHub profiles
 - Ethan Arnold https://github.com/masonsbro
 - Ethan Richardson http://github.com/ethanx94
 - Eugene Cheung https://github.com/arkon
+- Faisal Aldilaijan https://github.com/aldilaff
 - Faiq Raza https://github.com/faiq
 - Faiz Ahmad https://github.com/Faiz7412
 - Faiz Ahmed Khan https://github.com/dridon
@@ -528,6 +536,7 @@ Hackathon Hackers' GitHub profiles
 - Guilherme Santos https://github.com/guilhermesgb
 - Gulshan Singh https://github.com/gsingh93
 - Haider Khan https://github.com/ZkHaider
+- Hamza Khan https://github.com/hamza765
 - Hansen Chang https://github.com/byteair
 - Haris Iqbal https://github.com/hiqbal01
 - Harrison Freni https://github.com/HFreni
@@ -541,6 +550,7 @@ Hackathon Hackers' GitHub profiles
 - Hima Tammineedi https://github.com/himat
 - Hugh Rawlinson http://hraw.me
 - Humdaan Mustafa https://github.com/humishum
+- Hunter Larco https://github.com/hunterlarco
 - Ian Carroll https://github.com/iangcarroll or https://git.certly.io/ian
 - Ian Jennings https://github.com/ianjennings
 - Ian Macalinao https://github.com/simplyianm
@@ -732,6 +742,7 @@ Hackathon Hackers' GitHub profiles
 - Milind Shah https://github.com/promilo
 - Milstein Munakami https://github.com/Milstein
 - Minh Nguyen https://github.com/minhongrails
+- Ming Luo https://github.com/Mingling94
 - Miquel Llobet https://github.com/mllobet
 - Moez Bhatti https://github.com/moezbhatti
 - Moksh Jawa https://github.com/mokshjawa
@@ -883,10 +894,12 @@ Hackathon Hackers' GitHub profiles
 - Selynna Sun https://github.com/ssun098
 - Shaan Chawla https://github.com/shaantamchawla
 - Shadab Zafar https://github.com/dufferzafar
+- Shafqat Dulal https://github.com/sdulal
 - Shail Shetye https://github.com/shetyeshail
 - Shana Azria https://github.com/shazria
 - Shane DeWael https://github.com/shanedewael
 - Shane Wilton https://github.com/shanewilton
+- Sharon Lin https://github.com/sharon-lin
 - Shashank Agarwal https://github.com/imshashank
 - Shashank Bhargava https://github.com/Shashankredemption
 - Shiv Patel https://github.com/shivu , https://github.com/shivum
