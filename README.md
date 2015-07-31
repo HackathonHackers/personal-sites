@@ -214,7 +214,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Nico Hindering http://nicohinderling.me
 - Nimit Kalra http://nimitkalra.com
 - Niraj Pant http://niraj.io
-- Nishanth Shanmugham http://nishanth.io
 - Noah Hradek   http://noahhradek.me/
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
