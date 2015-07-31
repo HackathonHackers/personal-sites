@@ -137,6 +137,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
 - Jay Mo http://unitedjaymo.com/
+- Jeffrey Lin http://linjeffrey.me
 - Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
@@ -595,6 +596,7 @@ Hackathon Hackers' GitHub profiles
 - Jay Kamat https://github.com/jgkamat
 - Jay Mo https://github.com/unitedjaymo
 - Jay Zalowitz https://github.com/jayzalowitz
+- Jeffrey Lin https://github.com/linjeffrey
 - Jennifer Apacible https://github.com/japacible
 - Jeremy Meyer https://github.com/jjman505
 - Jeroen Goossens https://github.com/penguinologist
