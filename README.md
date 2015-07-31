@@ -77,7 +77,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Cyrus Roshan http://cyrusroshan.me
 - Dakota St. Laurent http://stdako.com
 - Dan Appel https://dvappel.me
-- Dan Ni http://danielni.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - Dana Lee http://danagilliann.me/
@@ -106,6 +105,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Freddie Vargus http://fjv4.com
 - Gagik Movsisyan http://gagikm.com
 - Gautam Mittal http://www.gautam.cc
+- George Lee http://georgel.ee
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
 - Grant Park http://www.granthpark.me
@@ -136,7 +136,6 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
 - Jay Mo http://unitedjaymo.com/
-- Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerrick Davis http://jerrick.us
@@ -447,7 +446,6 @@ Hackathon Hackers' GitHub profiles
 - Dakota St. Laurent https://github.com/StDako
 - Dan Appel https://github.com/Danappelxx
 - Dan Marcoux https://github.com/dandroiddeveloper
-- Dan Ni https://github.com/danielni
 - Dan Schlosser https://github.com/danrschlosser
 - Dan Silver https://github.com/dan-silver
 - Dan Stepanov https://github.com/danstepanov
@@ -522,6 +520,7 @@ Hackathon Hackers' GitHub profiles
 - Gaurav Ragtah https://github.com/gragtah
 - Gautam Mittal https://github.com/gmittal
 - Gene Lewis https://github.com/glewis17
+- George Lee https://github.com/georgelee96
 - George Sivulka https://github.com/sivulka
 - Georgi D. Georgiev https://github.com/gessha
 - Gibran Garcia https://github.com/owlsketch
