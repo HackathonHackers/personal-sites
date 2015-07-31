@@ -252,6 +252,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
+- Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
 - Shane DeWael http://shanedewael.com/
 - Shy Ruparel http://ruparel.co
@@ -881,6 +882,7 @@ Hackathon Hackers' GitHub profiles
 - Selynna Sun https://github.com/ssun098
 - Shaan Chawla https://github.com/shaantamchawla
 - Shadab Zafar https://github.com/dufferzafar
+- Shafqat Dulal https://github.com/sdulal
 - Shail Shetye https://github.com/shetyeshail
 - Shana Azria https://github.com/shazria
 - Shane DeWael https://github.com/shanedewael
