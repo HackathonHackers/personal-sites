@@ -199,6 +199,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Michael Zhang http://failedxyz.github.io
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
+- Ming Luo http://Ming-Luo.com
 - Mitchell Gordon http://mitchgordon.me
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
@@ -736,6 +737,7 @@ Hackathon Hackers' GitHub profiles
 - Milind Shah https://github.com/promilo
 - Milstein Munakami https://github.com/Milstein
 - Minh Nguyen https://github.com/minhongrails
+- Ming Luo https://github.com/Mingling94
 - Miquel Llobet https://github.com/mllobet
 - Moez Bhatti https://github.com/moezbhatti
 - Moksh Jawa https://github.com/mokshjawa
