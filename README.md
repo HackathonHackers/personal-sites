@@ -891,6 +891,7 @@ Hackathon Hackers' GitHub profiles
 - Shana Azria https://github.com/shazria
 - Shane DeWael https://github.com/shanedewael
 - Shane Wilton https://github.com/shanewilton
+- Sharon Lin https://github.com/sharon-lin
 - Shashank Agarwal https://github.com/imshashank
 - Shashank Bhargava https://github.com/Shashankredemption
 - Shiv Patel https://github.com/shivu , https://github.com/shivum
