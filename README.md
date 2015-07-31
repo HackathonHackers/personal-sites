@@ -116,6 +116,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Hayden Lee http://haydenlee.io/
 - Henry Millison http://henrymillison.com
 - Hugh Rawlinson http://hughrawlinson.me/
+- Hunter Larco http://larcolabs.com
 - Ian Carroll https://ian.sh
 - Ian Jennings http://ianjennin.gs
 - Ian Macalinao http://ian.pw
@@ -540,6 +541,7 @@ Hackathon Hackers' GitHub profiles
 - Hima Tammineedi https://github.com/himat
 - Hugh Rawlinson http://hraw.me
 - Humdaan Mustafa https://github.com/humishum
+- Hunter Larco https://github.com/hunterlarco
 - Ian Carroll https://github.com/iangcarroll or https://git.certly.io/ian
 - Ian Jennings https://github.com/ianjennings
 - Ian Macalinao https://github.com/simplyianm
