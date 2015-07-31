@@ -88,6 +88,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
+- Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
 - Dylan McIntyre http://dmcintyre.net
@@ -477,6 +478,7 @@ Hackathon Hackers' GitHub profiles
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
 - Devon Ngo https://github.com/devonngo
+- Dhiraj Bodicherla https://github.com/dhirajbodicherla
 - Dhruv Arora https://github.com/dhruvarora
 - Diana Zink https://github.com/deftworker
 - Douglas Bumby https://github.com/istx25
