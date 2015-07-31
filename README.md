@@ -77,6 +77,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Cyrus Roshan http://cyrusroshan.me
 - Dakota St. Laurent http://stdako.com
 - Dan Appel https://dvappel.me
+- Dan Ni http://danielni.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - Dana Lee http://danagilliann.me/
@@ -446,6 +447,7 @@ Hackathon Hackers' GitHub profiles
 - Dakota St. Laurent https://github.com/StDako
 - Dan Appel https://github.com/Danappelxx
 - Dan Marcoux https://github.com/dandroiddeveloper
+- Dan Ni https://github.com/danielni
 - Dan Schlosser https://github.com/danrschlosser
 - Dan Silver https://github.com/dan-silver
 - Dan Stepanov https://github.com/danstepanov
