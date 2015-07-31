@@ -107,6 +107,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Freddie Vargus http://fjv4.com
 - Gagik Movsisyan http://gagikm.com
 - Gautam Mittal http://www.gautam.cc
+- George Lee http://georgel.ee
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
 - Grant Park http://www.granthpark.me
@@ -524,6 +525,7 @@ Hackathon Hackers' GitHub profiles
 - Gaurav Ragtah https://github.com/gragtah
 - Gautam Mittal https://github.com/gmittal
 - Gene Lewis https://github.com/glewis17
+- George Lee https://github.com/georgelee96
 - George Sivulka https://github.com/sivulka
 - Georgi D. Georgiev https://github.com/gessha
 - Gibran Garcia https://github.com/owlsketch
