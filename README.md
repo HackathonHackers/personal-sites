@@ -231,6 +231,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
 - Ravin Sardal http://ravinsardal.me
+- Raviteja Lingineni http://rlingineni.me
 - Richard Chu http://churichard.me/
 - Rikin Katyal http://rikinkatyal.me
 - Rishi Dhanaraj http://rishi.io
