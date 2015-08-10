@@ -260,6 +260,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
+- Sergio Puleri http://spuleri.com/
 - Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
 - Shane DeWael http://shanedewael.com/
