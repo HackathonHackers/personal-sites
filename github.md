@@ -128,6 +128,7 @@ Hackathon Hackers' GitHub profiles
 - Camille Nibungco https://github.com/Cnibungco
 - Canzhi Ye https://github.com/canzhiye
 - Carlos des Montagnes https://github.com/cadesalaberry
+- Caroline Hermans https://github.com/carolinehermans
 - Cary Anderson https://github.com/CaryAndo
 - Cassidy Williams https://github.com/cassidoo
 - Chandler Creech https://github.com/chanman
