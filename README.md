@@ -283,7 +283,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ty-Lucas Kelley http://tylucaskelley.com
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
-- Varun Rajendra Rajamane http://varunrajamane.me
+- Varun Rajendra Rajamane http://rajamane.io
 - Victor Danger Lourng http://victorlourng.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
