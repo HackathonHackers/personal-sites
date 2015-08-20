@@ -20,6 +20,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alec Robins http://www.alecrobins.me/
 - Alex Cory http://alexcory.com
 - Alex Koshy http://koshy.co/
+- Alex Strong http://alexfortis.github.io/
 - Alex Wang http://alw231.github.io
 - Alvin Deng http://alvinqdeng.me/
 - Anat Gilboa http://anat.me
