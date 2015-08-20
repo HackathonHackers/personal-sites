@@ -257,6 +257,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sang Han http://sanghan.me
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
+- Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
