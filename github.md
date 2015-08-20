@@ -577,6 +577,7 @@ Hackathon Hackers' GitHub profiles
 - Sagar Garg https://github.com/sagargarg
 - Sagar Laud https://github.com/Sagarsaurus
 - Sagnik Saha https://github.com/sagniksaha
+- Sahil Dua https://github.com/sahildua2305
 - Sai Grandhi https://github.com/saigrandhi
 - Sakib Jalal https://github.com/sakibj
 - Sakib Rasul https://www.github.com/rhythms06
