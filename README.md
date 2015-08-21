@@ -251,6 +251,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
+- Sahibjot Saggu http://www.sahibjot.me/
 - Sagar Garg http://sagargarg.github.io/
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
