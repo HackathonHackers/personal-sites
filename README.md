@@ -46,6 +46,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Austin L. Chang http://www.austinlchang.com
+- Bilal Majeed http://bilalmajeed.com
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
