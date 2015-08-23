@@ -8,6 +8,7 @@ Hackathon Hackers' GitHub profiles
 - Aaron Landy https://github.com/aaln
 - Aashni Shah https://github.com/aashnisshah
 - Aasiruddin Walajahi https://github.com/Aasir
+- Aayush Ranaut https://github.com/aayushranaut
 - Abdullah Hashmi https://github.com/rtahir
 - Abhi Agarwal https://github.com/abhiagarwal
 - Abhinav Raghunathan https://github.com/abhir1212
