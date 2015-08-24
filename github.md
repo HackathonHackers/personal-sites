@@ -302,6 +302,7 @@ Hackathon Hackers' GitHub profiles
 - Jaxon Stevens https://github.com/LemonaInc
 - Jay Kamat https://github.com/jgkamat
 - Jay Mo https://github.com/unitedjaymo
+- Jaylen Wimbish https://github.com/jaylenw
 - Jay Zalowitz https://github.com/jayzalowitz
 - Jeffrey Lin https://github.com/linjeffrey
 - Jennifer Apacible https://github.com/japacible

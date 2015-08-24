@@ -140,6 +140,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
 - Jay Mo http://unitedjaymo.com/
+- Jaylen Wimbish http://www.jaylenwimbish.com/
 - Jeffrey Lin http://linjeffrey.me
 - Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
