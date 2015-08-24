@@ -76,6 +76,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Christopher Smith http://cvsmith.me
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
+- Cosi Leone http://cosileone.com/
 - Cyrus Roshan http://cyrusroshan.me
 - Dakota St. Laurent http://stdako.com
 - Dan Appel https://dvappel.me
