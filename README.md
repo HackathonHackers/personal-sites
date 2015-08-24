@@ -9,6 +9,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
 - Aayush Ranaut http://aayush.net
+- Abhinav Rajaseshan http://abhiseshan.me
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
