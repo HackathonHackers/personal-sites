@@ -548,6 +548,7 @@ Hackathon Hackers' GitHub profiles
 - Ritwik Gupta https://github.com/RitwikGupta
 - Robert Kim https://github.com/rkty13
 - Robert O'Connor https://github.com/robbyoconnor
+- Robert Olsthoorn https://github.com/rolstenhouse
 - Robert Rouhani https://github.com/Robmaister
 - Robert Xu https://github.com/robxu9
 - Robin van Wijngaarden https://github.com/robinvw1
