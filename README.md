@@ -8,6 +8,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aakash Japi http://aakashjapi.com/
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
+- Aayush Ranaut http://aayush.net
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
