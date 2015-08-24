@@ -92,6 +92,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Daniel C. Eckert http://drakontas.org
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
+- Dave Fontenot http://davefont.com
 - David Awad http://davidawad.github.io
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
