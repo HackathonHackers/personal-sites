@@ -57,6 +57,7 @@ Hackathon Hackers' GitHub profiles
 - Andrew Jaeger https://github.com/mrjaeger
 - Andrew Li https://github.com/southrop
 - Andrew Schreiber https://github.com/andrewschreiber
+- Andrew Yang https://github.com/andrewyang96
 - Andy Fang https://github.com/AndyF
 - Andy Kamath https://github.com/andykamath
 - Angel Say https://github.com/sayangel
