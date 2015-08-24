@@ -184,6 +184,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Liam Horne http://lihorne.com
 - Liang Gao http://liang.gao.nyc
 - Li Xuanji http://xuanji.li
+- Long Tran http://ltran.co
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.me
 - Marco Bettiolo http://bettiolo.it
