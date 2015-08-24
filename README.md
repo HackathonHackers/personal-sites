@@ -281,6 +281,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
 - Sudarshan Muralidhar http://smuralidhar.com
+- Su Min Kim http://suminkim.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Tejas Manohar http://tejas.io
 - Tejas Nikumbh http://tejasnikumbh.github.io
