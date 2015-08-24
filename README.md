@@ -174,6 +174,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Frans http://www.kevinfrans.com
+- Kevin Guh http://kevinguh.me
 - Kevin Ji http://kevinji.com
 - Kevin Path http://kevinpath.net/
 - Kevin Payravi http://www.kevinpayravi.com/
