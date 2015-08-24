@@ -345,6 +345,7 @@ Hackathon Hackers' GitHub profiles
 - Juan Chomali https://github.com/jchomali
 - Julien L https://github.com/26medias
 - 서태웅 (Justice Suh) https://github.com/justicesuh
+- Justin Bleuel http://www.columbia.edu/~jmb2372/
 - Justin Cano https://github.com/bumrush
 - Justin Chan https://github.com/justinthec
 - Justin Krup https://github.com/mazlix
