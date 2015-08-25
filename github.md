@@ -377,6 +377,7 @@ Hackathon Hackers' GitHub profiles
 - Kirsten Rauffer https://github.com/kirstenrauffer
 - Koen Vendrik https://github.com/kvendrik
 - Krish Dholakiya https://github.com/krrishd
+- Krish Munot https://github.com/KrishMunot
 - Krishn Ramesh https://github.com/krishnr
 - Krishna Parashar https://github.com/parashar
 - Kristofer Rye https://github.com/rye
