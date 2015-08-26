@@ -184,6 +184,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Kirby Kohlmorgen http://kirbyk.me
 - Kirsten Rauffer http://www.kirstenrauffer.com
 - Krish Dholakiya http://itskrish.co
+- Krish Munot http://krishmunot.github.io/
 - Krishn Ramesh http://krishn.me
 - Kyle Frost http://kylefrost.me
 - Kyle Johnson http://kylejson.com
