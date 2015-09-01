@@ -136,6 +136,7 @@ Hackathon Hackers' GitHub profiles
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
 - Charlie Li https://github.com/vishwin
+- Chashmeet Singh https://github.com/chashmeetsingh
 - Chirag Chauhan https://github.com/crc442
 - Chris Lai https://github.com/chrislai
 - Chris Lee https://github.com/chrispmlee
