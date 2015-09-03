@@ -235,6 +235,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ore Aleb http://oreoluwa.me/
 - Panashe Mahachi http://pkm.me
 - Parth Mehrotra http://parthmehrotra.com
+- Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Phil Efstathiou http://phil.ws/
