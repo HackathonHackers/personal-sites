@@ -166,6 +166,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joseph Milla https://josephmilla.com/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
+- Justin Bleuel http://justinbleuel.github.io
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
 - Kamesh Vedula http://kameshvedula.com
