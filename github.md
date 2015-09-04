@@ -505,6 +505,7 @@ Hackathon Hackers' GitHub profiles
 - Parth Mehrotra https://github.com/Parth-Mehrotra
 - Patricia Hanus https://github.com/pxhanus
 - Patricia Kwamboka Okwena https://github.com/PatriciaOkwena
+- Patricio Córdova https://github.com/patriciocordova
 - Paul Krishnamurthy https://github.com/paulkr
 - Pavleen Thukral https://github.com/Thepav
 - Paweł Szczurko https://github.com/ps
