@@ -29,6 +29,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
+- Andrew Breckenridge http://andrewsb.me
 - Andrew Dai http://www.andrewdai.co
 - Andrew Drozdov http://www.mrdrozdov.com
 - Andrew Hoang http://www.andrewhoang.me
