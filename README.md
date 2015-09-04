@@ -220,6 +220,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Milson Munakami http://milstein.me
 - Ming Luo http://Ming-Luo.com
 - Mitchell Gordon http://mitchgordon.me
+- Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
