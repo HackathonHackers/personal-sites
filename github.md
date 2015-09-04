@@ -317,6 +317,7 @@ Hackathon Hackers' GitHub profiles
 - Jesse https://github.com/jtcollins90
 - Jesse Hu https://github.com/Huyouare
 - Jessica Chang https://github.com/jessmchang
+- Jessica Ouyang https://github.com/ouyangatang
 - Jhonathan Wyterlin https://github.com/jwyterlin
 - Jian Wei Chuah https://github.com/jianweichuah
 - Jing Xiao https://github.com/notajingoist
