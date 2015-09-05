@@ -304,7 +304,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Victor Danger Lourng http://victorlourng.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
-- Vishnu Narag http://vishnun.github.io
+- Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
 - Wasim Thabraze http://thabraze.in
 - William Cockburn http://syrexide.com
@@ -314,4 +314,3 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Zach Fogg http://zfo.gg/
 - Zach Price http://zachmprice.com/
 - Zakariyya Mughal http://enetdown.org/
-
