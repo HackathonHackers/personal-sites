@@ -266,6 +266,7 @@ Hackathon Hackers' GitHub profiles
 - Ian Jennings https://github.com/ianjennings
 - Ian Macalinao https://github.com/simplyianm
 - Ian McNanie https://github.com/imcnanie
+- Ian Webster https://github.com/typpo
 - Ibrahim Ansari https://github.com/Ibrahimansari
 - If'anyi Kalu https://github.com/ikalu
 - Ignacio Alonso https://github.com/nachoal
