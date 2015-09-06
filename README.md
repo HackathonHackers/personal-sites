@@ -29,6 +29,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
+- Andrew Breckenridge http://andrewsb.me
 - Andrew Dai http://www.andrewdai.co
 - Andrew Drozdov http://www.mrdrozdov.com
 - Andrew Hoang http://www.andrewhoang.me
@@ -166,14 +167,17 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joseph Milla https://josephmilla.com/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
+- Justin Bleuel http://justinbleuel.github.io
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
 - Kamesh Vedula http://kameshvedula.com
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
+- Karel Vuong http://karel.ca
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Kevin Frans http://www.kevinfrans.com
+- Kevin Guh http://kevinguh.me
 - Kevin Ji http://kevinji.com
 - Kevin Path http://kevinpath.net/
 - Kevin Payravi http://www.kevinpayravi.com/
@@ -220,6 +224,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Milson Munakami http://milstein.me
 - Ming Luo http://Ming-Luo.com
 - Mitchell Gordon http://mitchgordon.me
+- Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
@@ -236,6 +241,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ore Aleb http://oreoluwa.me/
 - Panashe Mahachi http://pkm.me
 - Parth Mehrotra http://parthmehrotra.com
+- Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Phil Efstathiou http://phil.ws/
@@ -303,6 +309,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Varun Rajendra Rajamane http://rajamane.io
 - Victor Danger Lourng http://victorlourng.com
+- Victor Zhou http://victorzhou.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
 - Vishnu Ravi http://vishnu.io/

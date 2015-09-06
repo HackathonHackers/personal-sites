@@ -317,6 +317,7 @@ Hackathon Hackers' GitHub profiles
 - Jesse https://github.com/jtcollins90
 - Jesse Hu https://github.com/Huyouare
 - Jessica Chang https://github.com/jessmchang
+- Jessica Ouyang https://github.com/ouyangatang
 - Jhonathan Wyterlin https://github.com/jwyterlin
 - Jian Wei Chuah https://github.com/jianweichuah
 - Jing Xiao https://github.com/notajingoist
@@ -505,6 +506,7 @@ Hackathon Hackers' GitHub profiles
 - Parth Mehrotra https://github.com/Parth-Mehrotra
 - Patricia Hanus https://github.com/pxhanus
 - Patricia Kwamboka Okwena https://github.com/PatriciaOkwena
+- Patricio Córdova https://github.com/patriciocordova
 - Paul Krishnamurthy https://github.com/paulkr
 - Pavleen Thukral https://github.com/Thepav
 - Paweł Szczurko https://github.com/ps
