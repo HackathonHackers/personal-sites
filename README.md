@@ -311,6 +311,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Victor Zhou http://victorzhou.com
 - Vinay Hiremath http://vhiremath.com
 - Vishnu Ks http://vishnuks.com
+- Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
 - Wasim Thabraze http://thabraze.in
 - William Cockburn http://syrexide.com
