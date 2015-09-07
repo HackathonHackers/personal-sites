@@ -318,6 +318,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Wasim Thabraze http://thabraze.in
 - William Cockburn http://syrexide.com
 - Will Field-Thompson http://willft.io
+- William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
 - Yefim Vedernikoff http://yef.im
 - Zach Fogg http://zfo.gg/
