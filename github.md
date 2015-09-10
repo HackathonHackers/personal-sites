@@ -704,6 +704,7 @@ Hackathon Hackers' GitHub profiles
 - Yasyf Mohamedali https://github.com/yasyf
 - Yuya Jeremy Ong https://github.com/yutarochan
 - Zach Fogg https://github.com/zfogg
+- Zach Jaffee https://github.com/zjaffee
 - Zach Panzarino https://github.com/zachpanz88
 - Zach Price https://github.com/zachprice
 - Zachary Shakked https://github.com/shakked
