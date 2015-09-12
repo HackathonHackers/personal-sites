@@ -149,7 +149,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
-- Jay Mo http://unitedjaymo.com/
+- Jay Mo http://jaymo.me/
 - Jaylen Wimbish http://www.jaylenwimbish.com/
 - Jeffrey Lin http://linjeffrey.me
 - Jevin Sidhu http://jevinsidhu.com
