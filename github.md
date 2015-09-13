@@ -305,7 +305,7 @@ Hackathon Hackers' GitHub profiles
 - Jax Reiff https://github.com/jaxuru
 - Jaxon Stevens https://github.com/LemonaInc
 - Jay Kamat https://github.com/jgkamat
-- Jay Mo https://github.com/unitedjaymo
+- Jay Mo https://github.com/jayhxmo
 - Jaylen Wimbish https://github.com/jaylenw
 - Jay Zalowitz https://github.com/jayzalowitz
 - Jeffrey Lin https://github.com/linjeffrey
