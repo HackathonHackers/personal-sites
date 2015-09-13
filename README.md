@@ -323,5 +323,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - William Woodruff http://woodruffw.us
 - Yefim Vedernikoff http://yef.im
 - Zach Fogg http://zfo.gg/
+- Zach Jaffee http://zjaffee.com
 - Zach Price http://zachmprice.com/
 - Zakariyya Mughal http://enetdown.org/
