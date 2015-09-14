@@ -307,6 +307,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Timotius Sitorus http://timsitorus.com
 - TJ Horner http://horner.tj/hello
 - Ty-Lucas Kelley http://tylucaskelley.com
+- Tyler Adams http://dare.io
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Varun Rajendra Rajamane http://rajamane.io
