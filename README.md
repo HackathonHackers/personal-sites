@@ -201,7 +201,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Li Xuanji http://xuanji.li
 - Long Tran http://ltran.co
 - Luka Marr http://lukamarr.github.io
-- Mahir Kothary http://mahirk.me
+- Mahir Kothary http://mahirk.com
 - Manoj Pandey http://manojp.co
 - Marco Bettiolo http://bettiolo.it
 - Maria Chavez http://mariachavez.co
