@@ -255,7 +255,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ravin Sardal http://ravinsardal.me
 - Raviteja Lingineni http://rlingineni.me
 - Richard Chu http://churichard.me/
-- Rikin Katyal http://rikinkatyal.me
+- Rikin Katyal http://sirvar.com
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
 - Robert O'Connor http://robbyoconnor.us/
