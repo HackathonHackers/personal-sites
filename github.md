@@ -142,6 +142,7 @@ Hackathon Hackers' GitHub profiles
 - Chris Lee https://github.com/chrispmlee
 - Christian Barcenas https://github.com/cbarcenas
 - Christopher Dorick https://github.com/topher23
+- Christopher Su https://github.com/csu
 - Chuby Okafor https://github.com/chubylive
 - Chuck Nweke https://github.com/kidwalom
 - Cindy Yu https://github.com/cindyyu
