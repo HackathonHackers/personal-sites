@@ -166,6 +166,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jonathan Almeida http://jonalmeida.com
 - Jonny Krysh http://www.jonnykrysh.me
 - Jordan Arnesen www.byjor.com
+- Joseph Khawly http://josephkhawly.com/
 - Joseph Milla https://josephmilla.com/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com

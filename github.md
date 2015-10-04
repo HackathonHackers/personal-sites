@@ -342,6 +342,7 @@ Hackathon Hackers' GitHub profiles
 - Jordan Arnesen https://github.com/extrajordanary
 - Jordan Matelsky https://github.com/j6k4m8
 - Jorge Armando Valdez https://github.com/jorgeavaldez
+- Joseph Khawly https://github.com/josephkhawly
 - Joseph Pecoraro https://github.com/jpecoraro342
 - Josh Curl https://github.com/joshuacurl
 - Josh Matthews https://github.com/jmatth
