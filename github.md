@@ -709,6 +709,7 @@ Hackathon Hackers' GitHub profiles
 - Zach Jaffee https://github.com/zjaffee
 - Zach Panzarino https://github.com/zachpanz88
 - Zach Price https://github.com/zachprice
+- Zachary Espiritu https://github.com/ZacharyEspiritu
 - Zachary Shakked https://github.com/shakked
 - Zack Maldonado https://github.com/Danubian
 - Zakariyya Mughal https://github.com/zmughal
