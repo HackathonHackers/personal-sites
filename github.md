@@ -356,6 +356,7 @@ Hackathon Hackers' GitHub profiles
 - Justin Cano https://github.com/bumrush
 - Justin Chan https://github.com/justinthec
 - Justin Krup https://github.com/mazlix
+- Justin Paulin https://github.com/interwho
 - Justin Yang https://github.com/justinyangusa
 - Justine De Caires https://github.com/jdecked
 - Juvoni Beckford https://github.com/juvoni
