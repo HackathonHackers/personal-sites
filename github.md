@@ -312,6 +312,7 @@ Hackathon Hackers' GitHub profiles
 - Jeffrey Lin https://github.com/linjeffrey
 - Jennifer Apacible https://github.com/japacible
 - Jeremy Meyer https://github.com/jjman505
+- Jerica Huang https://github.com/jericahuang
 - Jeroen Goossens https://github.com/penguinologist
 - Jerrick Davis https://github.com/clevrpwn
 - Jerry Reptak https://github.com/JetFault
