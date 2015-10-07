@@ -156,6 +156,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
+- Jerica Huang http://jericahuang.com
 - Jerrick Davis http://jerrick.us
 - Jesse Collins http://jtcollins.me
 - Jesse Chand http://jessechand.com
