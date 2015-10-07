@@ -24,7 +24,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Brent Bovenzi http://bbovenzi.com/
 - Brian Chu www.brianchu.com
 - Brian Lutz www.btlutz.com
-- Brijesh Patel https://about.me/brijeshpatel9
+- Brijesh Patel http://brijeshrpatel9.github.io/
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
 - Caitlin McDonald http://www.caitlinamcdonald.com
