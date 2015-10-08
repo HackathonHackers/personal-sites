@@ -73,6 +73,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
 - Chaoyi Zha http://cydrobolt.com
+- Cheng Peng http://www.chengpeng.ca
 - Chirag Aggarwal http://www.chi6rag.net
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Lai http://chrislai.info
