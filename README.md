@@ -319,6 +319,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Victor Danger Lourng http://victorlourng.com
 - Victor Zhou http://victorzhou.com
 - Vinay Hiremath http://vhiremath.com
+- Vinayak Mehta http://vortex-ape.github.io
 - Vishnu Ks http://vishnuks.com
 - Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
