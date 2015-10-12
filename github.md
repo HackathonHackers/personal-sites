@@ -425,6 +425,7 @@ Hackathon Hackers' GitHub profiles
 - Mark Ormesher https://github.com/markormesher
 - Markan Patel https://github.com/cooltoast
 - Marouane Nafaa https://github.com/mnafaa
+- Masoud Harati https://github.com/MasoudH
 - Matan Uchen https://github.com/matan157
 - Matheus C. Candido https://github.com/mcassiano
 - Matisse B. VerDuyn https://github.com/matisseverduyn
