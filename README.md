@@ -327,6 +327,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Will Field-Thompson http://willft.io
 - William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
+- Yask Srivastava http://iyask.me
 - Yefim Vedernikoff http://yef.im
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
