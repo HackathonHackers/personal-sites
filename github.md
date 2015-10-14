@@ -658,6 +658,7 @@ Hackathon Hackers' GitHub profiles
 - Suril Shah https://github.com/Suril-Shah
 - Suyash Srijan https://github.com/theblixguy
 - Syed Raziq Mohideen https://github.com/sandybisaria
+- Taher Dhilawala https://github.com/taher435
 - Tarik Onalan https://github.com/QuantumPhi
 - Taylor Blau https://github.com/ttaylorr
 - Tejas Manohar https://github.com/tejasmanohar

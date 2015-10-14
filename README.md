@@ -305,6 +305,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sudarshan Muralidhar http://smuralidhar.com
 - Su Min Kim http://suminkim.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
+- Taher Dhilawala http://taher.me
 - Tejas Manohar http://tejas.io
 - Tejas Nikumbh http://tejasnikumbh.github.io
 - Terry Piercson http://taehongmin.com/
