@@ -313,6 +313,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - TJ Horner http://horner.tj/hello
 - Ty-Lucas Kelley http://tylucaskelley.com
 - Tyler Adams http://dare.io
+- Ulises Giacoman http://udiscover.me
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Varun Rajendra Rajamane http://rajamane.io
