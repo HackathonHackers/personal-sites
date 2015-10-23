@@ -193,6 +193,7 @@ Hackathon Hackers' GitHub profiles
 - Dhiraj Bodicherla https://github.com/dhirajbodicherla
 - Dhruv Arora https://github.com/dhruvarora
 - Diana Zink https://github.com/deftworker
+- Dilpreet Chana https://github.com/DSchana
 - Douglas Bumby https://github.com/istx25
 - Drbyo Mkwi https://github.com/Dirbaio
 - Dvid Silva https://github.com/dvidsilva
