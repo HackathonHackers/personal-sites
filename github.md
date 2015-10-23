@@ -696,6 +696,7 @@ Hackathon Hackers' GitHub profiles
 - Victor Danger Lourng https://github.com/LabLayers
 - Victor Jiao https://github.com/VjiaoBlack
 - Victor Szeto https://github.com/VictorVation
+- Vikas Parashar https://github.com/vikas-parashar
 - Vikrem https://github.com/vikrem
 - Vinay Hiremath https://github.com/vinay427
 - Vinayak Mehta https://github.com/vortex-ape
