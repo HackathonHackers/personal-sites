@@ -181,6 +181,7 @@ Hackathon Hackers' GitHub profiles
 - David Justo Rodriguez https://github.com/davidmrdavid
 - David Kong https://github.com/kiastu
 - David Melvin https://github.com/davidmelvin
+- David Meza https://github.com/david-meza
 - David Song https://github.com/dstratossong
 - David Zhao https://github.com/dzhxo
 - Dean Cooney https://github.com/deancooney

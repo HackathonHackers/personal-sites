@@ -101,6 +101,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David BasedMathematician Coven http://davidcoven.me
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
+- David Meza http://www.davidmeza.us
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
