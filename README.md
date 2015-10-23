@@ -322,6 +322,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Varun Rajendra Rajamane http://rajamane.io
 - Victor Danger Lourng http://victorlourng.com
 - Victor Zhou http://victorzhou.com
+- Vikas Parashar http://vikasparashar.in/
 - Vinay Hiremath http://vhiremath.com
 - Vinayak Mehta http://vortex-ape.github.io
 - Vishnu Ks http://vishnuks.com
