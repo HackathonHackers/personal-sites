@@ -715,6 +715,7 @@ Hackathon Hackers' GitHub profiles
 - William Woodruff https://github.com/woodruffw
 - Wilson Mitchell https://github.com/mitchellw
 - Wilson Zhao https://github.com/wilzh40
+- Yasmeen Roumie https://github.com/y4smeen
 - Yasyf Mohamedali https://github.com/yasyf
 - Yuya Jeremy Ong https://github.com/yutarochan
 - Zach Fogg https://github.com/zfogg
