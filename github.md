@@ -478,6 +478,7 @@ Hackathon Hackers' GitHub profiles
 - Najm Sheikh https://github.com/najubhai
 - Nakul Pathak https://github.com/nakulpathak3
 - Naman Patwari https://github.com/thenamanpat
+- Nathan Chapman https://github.com/nathanchapman
 - Nathan Handler https://github.com/nhandler
 - Nathan Moos https://github.com/moosingin3space
 - Nathaniel Lewis https://github.com/Teknoman117

@@ -238,6 +238,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Morgante Pell http://morgante.net
 - Moshe Berman Http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
+- Nathan Chapman http://nathanchapman.net
 - Neal Shyam http://nealshyam.com
 - Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
