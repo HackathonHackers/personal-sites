@@ -336,6 +336,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
 - Yask Srivastava http://iyask.me
+- Yasmeen Roumie https://y4smeen.github.io
 - Yefim Vedernikoff http://yef.im
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
