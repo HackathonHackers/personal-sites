@@ -298,6 +298,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shaban Samani http://shabansamani.github.io
 - Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
+- Shakti Goap http://shaktigoap.in
 - Shane DeWael http://shanedewael.com/
 - Shy Ruparel http://ruparel.co
 - Srijay Kasturi http://techfilmer.com
