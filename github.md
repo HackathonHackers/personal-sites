@@ -627,6 +627,7 @@ Hackathon Hackers' GitHub profiles
 - Shadab Zafar https://github.com/dufferzafar
 - Shafqat Dulal https://github.com/sdulal
 - Shail Shetye https://github.com/shetyeshail
+- Shakti Goap https://github.com/shaktigoap
 - Shana Azria https://github.com/shazria
 - Shane DeWael https://github.com/shanedewael
 - Shane Wilton https://github.com/shanewilton
