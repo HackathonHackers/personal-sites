@@ -427,6 +427,7 @@ Hackathon Hackers' GitHub profiles
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
 - Markan Patel https://github.com/cooltoast
+- Martin Petkov https://github.com/MartinPetkov
 - Marouane Nafaa https://github.com/mnafaa
 - Masoud Harati https://github.com/MasoudH
 - Matan Uchen https://github.com/matan157
