@@ -53,18 +53,18 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Austin L. Chang http://www.austinlchang.com
-- Bilal Majeed http://bilalmajeed.com
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
 - Berwin Xie http://berwin.io
+- Bilal Majeed http://bilalmajeed.com
 - Brandon Amos http://bamos.github.io
 - Brandon Davis http://redspin.net
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
-- Brian Chuk http://devchuk.github.io/
 - Brian Chu www.brianchu.com
+- Brian Chuk http://devchuk.github.io/
 - Brijesh Patel https://about.me/brijeshpatel9
 - Britt Mathis http://bmuk.io
 - Bruno B. Ferrari Faviero http://brunofaviero.com
@@ -107,8 +107,8 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
 - Dylan McIntyre http://dmcintyre.net
-- Elissa Shevinsky http://elissashevinsky.com
 - Eli White http://eli-white.com
+- Elissa Shevinsky http://elissashevinsky.com
 - Emily Tran http://emilytran.org
 - Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
@@ -156,14 +156,14 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jay Mo http://jaymo.me/
 - Jaylen Wimbish http://www.jaylenwimbish.com/
 - Jeffrey Lin http://linjeffrey.me
-- Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerica Huang http://jericahuang.com
 - Jerrick Davis http://jerrick.us
-- Jesse Collins http://jtcollins.me
 - Jesse Chand http://jessechand.com
+- Jesse Collins http://jtcollins.me
 - Jessica Chang http://jessmchang.com
+- Jevin Sidhu http://jevinsidhu.com
 - Jian Wei Chuah http://jianweichuah.com
 - Jing Xiao http://www.notajingoist.com/index.html
 - Joe Duncko http://joeduncko.com/
@@ -203,18 +203,18 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Laurence Welch http://laurencewelch.com
 - Lawrence Lin Murata http://lawrencemurata.com/
 - Lex Alexander http://coderlex.com
+- Li Xuanji http://xuanji.li
 - Liam Horne http://lihorne.com
 - Liang Gao http://liang.gao.nyc
-- Li Xuanji http://xuanji.li
 - Long Tran http://ltran.co
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.com
 - Manoj Pandey http://manojp.co
 - Marco Bettiolo http://bettiolo.it
 - Maria Chavez http://mariachavez.co
-- Markan Patel http://markanpatel.me
 - Mark Diez http://markediez.com/
 - Mark Ormesher https://www.markormesher.co.uk/
+- Markan Patel http://markanpatel.me
 - Masoud Harati https://masoudh.ml
 - Matheus C. Candido http://cassiano.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
@@ -273,7 +273,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
 - Rohan Yelsangikar http://royels.me
-- Rõhith Varanasi http://rohithvaranasi.com
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
@@ -282,8 +281,9 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
-- Sahibjot Saggu http://www.sahibjot.me/
+- Rõhith Varanasi http://rohithvaranasi.com
 - Sagar Garg http://sagargarg.github.io/
+- Sahibjot Saggu http://www.sahibjot.me/
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
@@ -306,8 +306,8 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Stephen Chen http://stephenc.me/
 - Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
-- Sudarshan Muralidhar http://smuralidhar.com
 - Su Min Kim http://suminkim.me/
+- Sudarshan Muralidhar http://smuralidhar.com
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Taher Dhilawala http://taher.me
 - Tejas Manohar http://tejas.io
@@ -331,8 +331,8 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
 - Wasim Thabraze http://thabraze.in
-- William Cockburn http://syrexide.com
 - Will Field-Thompson http://willft.io
+- William Cockburn http://syrexide.com
 - William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
 - Yask Srivastava http://iyask.me
