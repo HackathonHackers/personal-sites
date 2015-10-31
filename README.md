@@ -143,6 +143,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ignacio Alonso http://ignacioalonso.me
 - Iheanyi Ekechukwu http://iheanyi.com
 - Jack Korbin www.lykpic.com
+- Jack Lamberti http://jacklamberti.com
 - Jack McGrath http://handsome.rocks
 - Jack Wearden https://www.jackwearden.co.uk
 - Jacob Jenkins http://jacobejenkins.com
