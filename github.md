@@ -535,6 +535,7 @@ Hackathon Hackers' GitHub profiles
 - Preston Mueller https://github.com/mathcolo
 - Prithvi Narasimhan https://github.com/prithvin
 - Purag Moumdjian https://github.com/purmou
+- Quim Llimona https://github.com/lemonzi
 - Rafa Moreno https://github.com/ralphie9224
 - Rafael Khan https://github.com/rafkhan
 - Rafayel Mkrtchyan https://github.com/MicBrain

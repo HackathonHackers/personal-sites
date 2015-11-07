@@ -265,6 +265,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Phil Efstathiou http://phil.ws/
 - Pradyuman Vig http://www.pradyumanvig.com
 - Preston Mueller http://prestonmueller.com
+- Quim Llimona http://lemonzi.me
 - Raghav Sood http://raghavsood.com
 - Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
