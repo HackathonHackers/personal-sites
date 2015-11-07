@@ -306,6 +306,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Stephen Chen http://stephenc.me/
 - Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
+- Steven Bock http://stevenbock.me
 - Sudarshan Muralidhar http://smuralidhar.com
 - Su Min Kim http://suminkim.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
