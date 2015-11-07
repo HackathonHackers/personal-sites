@@ -183,6 +183,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
 - Justin Paulin http://justinpaulin.com
+- Justin Yang http://y4ng.com
 - Kamesh Vedula http://kameshvedula.com
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
