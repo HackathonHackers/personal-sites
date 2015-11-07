@@ -190,6 +190,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Karel Vuong http://karel.ca
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
+- Keon Kim http://keon.io
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Guh http://kevinguh.me
 - Kevin Ji http://kevinji.com
