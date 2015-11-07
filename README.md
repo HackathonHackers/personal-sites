@@ -216,6 +216,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Markan Patel http://markanpatel.me
 - Mark Diez http://markediez.com/
 - Mark Ormesher https://www.markormesher.co.uk/
+- Martin Petkov http://www.martinpetkov.me/
 - Masoud Harati https://masoudh.ml
 - Matheus C. Candido http://cassiano.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
