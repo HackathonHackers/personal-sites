@@ -424,6 +424,7 @@ Hackathon Hackers' GitHub profiles
 - Madeleyne Vaca https://github.com/Maye-vaca
 - Mahesh Murag https://github.com/mash99
 - Mahir Kothary https://github.com/mahirk
+- Manash Mandal https://github.com/manashmndl
 - Marco Bettiolo https://github.com/bettiolo
 - María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
