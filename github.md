@@ -195,8 +195,8 @@ Hackathon Hackers' GitHub profiles
 - Dhiraj Bodicherla https://github.com/dhirajbodicherla
 - Dhruv Arora https://github.com/dhruvarora
 - Diana Zink https://github.com/deftworker
-- Dima Konev https://github.com/silverezhik
 - Dilpreet Chana https://github.com/DSchana
+- Dima Konev https://github.com/silverezhik
 - Douglas Bumby https://github.com/istx25
 - Drbyo Mkwi https://github.com/Dirbaio
 - Dvid Silva https://github.com/dvidsilva
@@ -218,8 +218,8 @@ Hackathon Hackers' GitHub profiles
 - Ethan Arnold https://github.com/masonsbro
 - Ethan Richardson http://github.com/ethanx94
 - Eugene Cheung https://github.com/arkon
-- Faisal Aldilaijan https://github.com/aldilaff
 - Faiq Raza https://github.com/faiq
+- Faisal Aldilaijan https://github.com/aldilaff
 - Faiz Ahmad https://github.com/Faiz7412
 - Faiz Ahmed Khan https://github.com/dridon
 - Fan Zhang https://github.com/fanwashere
@@ -313,8 +313,8 @@ Hackathon Hackers' GitHub profiles
 - Jaxon Stevens https://github.com/LemonaInc
 - Jay Kamat https://github.com/jgkamat
 - Jay Mo https://github.com/jayhxmo
-- Jaylen Wimbish https://github.com/jaylenw
 - Jay Zalowitz https://github.com/jayzalowitz
+- Jaylen Wimbish https://github.com/jaylenw
 - Jeffrey Lin https://github.com/linjeffrey
 - Jennifer Apacible https://github.com/japacible
 - Jeremy Meyer https://github.com/jjman505
@@ -358,7 +358,6 @@ Hackathon Hackers' GitHub profiles
 - Joyce Yan https://github.com/joyceyan
 - Juan Chomali https://github.com/jchomali
 - Julien L https://github.com/26medias
-- 서태웅 (Justice Suh) https://github.com/justicesuh
 - Justin Bleuel http://www.columbia.edu/~jmb2372/
 - Justin Cano https://github.com/bumrush
 - Justin Chan https://github.com/justinthec
@@ -426,12 +425,12 @@ Hackathon Hackers' GitHub profiles
 - Mahir Kothary https://github.com/mahirk
 - Manash Mandal https://github.com/manashmndl
 - Marco Bettiolo https://github.com/bettiolo
-- María Teresa Chávez https://github.com/materechm
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
 - Markan Patel https://github.com/cooltoast
-- Martin Petkov https://github.com/MartinPetkov
 - Marouane Nafaa https://github.com/mnafaa
+- Martin Petkov https://github.com/MartinPetkov
+- María Teresa Chávez https://github.com/materechm
 - Masoud Harati https://github.com/MasoudH
 - Matan Uchen https://github.com/matan157
 - Matheus C. Candido https://github.com/mcassiano
@@ -471,8 +470,8 @@ Hackathon Hackers' GitHub profiles
 - Milan Dasgupta https://github.com/milanocookies93
 - Milind Shah https://github.com/promilo
 - Milstein Munakami https://github.com/Milstein
-- Minh Nguyen https://github.com/minhongrails
 - Ming Luo https://github.com/Mingling94
+- Minh Nguyen https://github.com/minhongrails
 - Miquel Llobet https://github.com/mllobet
 - Moez Bhatti https://github.com/moezbhatti
 - Moksh Jawa https://github.com/mokshjawa
@@ -583,7 +582,6 @@ Hackathon Hackers' GitHub profiles
 - Rohan Shah https://github.com/rohan4
 - Rohan Shah https://github.com/Rohanyshah
 - Rohan Yelsangikar https://github.com/royels
-- Rõhith Varanasi https://github.com/Rohfosho
 - Ron Bhatta https://github.com/aranibatta
 - Ronak Patel https://github.com/ronakp
 - Ross Semenov https://github.com/rossem
@@ -598,6 +596,7 @@ Hackathon Hackers' GitHub profiles
 - Ryan Lin https://github.com/ryansl
 - Ryan Senanayake https://github.com/RSenApps
 - Ryhan Hassan https://github.com/ryhan
+- Rõhith Varanasi https://github.com/Rohfosho
 - Sachan Ganesh https://github.com/sachanganesh
 - Sacheth Chandramouli https://github.com/Sapchan
 - Sagar Garg https://github.com/sagargarg
@@ -734,3 +733,4 @@ Hackathon Hackers' GitHub profiles
 - Zakariyya Mughal https://github.com/zmughal
 - Zane Blackwell Sterling https://github.com/Shriken
 - Zhou Yi https://github.com/ZhouYii
+- 서태웅 (Justice Suh) https://github.com/justicesuh
