@@ -27,6 +27,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alex Koshy http://koshy.co/
 - Alex Strong http://alexfortis.github.io/
 - Alex Wang http://alw231.github.io
+- Alexander Maru http://alexandermaru.com
 - Alvin Deng http://alvinqdeng.me/
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
