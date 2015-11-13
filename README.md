@@ -310,6 +310,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shail Shetye http://www.shailshetye.com/
 - Shakti Goap http://shaktigoap.in
 - Shane DeWael http://shanedewael.com/
+- Sharon Lin http://sharonlin.me
 - Shy Ruparel http://ruparel.co
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
