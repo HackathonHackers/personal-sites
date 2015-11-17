@@ -245,8 +245,9 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Mitchell Gordon http://mitchgordon.me
 - Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
-- Moshe Berman Http://mosheberman.com
+- Moshe Berman http://mosheberman.com
 - Nate Levesque http://thenaterhood.com
+- Nate Owen http://nateo.co
 - Neal Shyam http://nealshyam.com
 - Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
