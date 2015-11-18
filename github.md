@@ -648,6 +648,7 @@ Hackathon Hackers' GitHub profiles
 - Shriya Nevatia https://github.com/shriyanevatia
 - Shy Ruparel https://github.com/shy
 - Sid Dange https://github.com/siddhantdange
+- Simeon Videnov https://github.com/simeon
 - Simon Anatole Orlovsky https://github.com/simonorlovsky
 - Simran Preet Singh https://github.com/simransdsu
 - Sohaib Syed https://github.com/sohaibsyed95
