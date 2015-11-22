@@ -315,6 +315,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
 - Shy Ruparel http://ruparel.co
+- Simeon Videnov http://simeon.io
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
