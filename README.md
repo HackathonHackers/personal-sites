@@ -304,6 +304,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sang Han http://sanghan.me
+- Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
