@@ -112,6 +112,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
+- Dilpreet Chana http://dschana.com/
 - Dima Konev http://ezhik.me
 - Dylan McIntyre http://dmcintyre.net
 - Eli White http://eli-white.com
