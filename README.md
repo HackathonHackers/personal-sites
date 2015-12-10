@@ -8,6 +8,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aakash Japi http://aakashjapi.com/
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
+- Bob Dylan https://ian.sh
 - Aayush Ranaut http://aayush.net
 - Abhinav Rajaseshan http://abhiseshan.me
 - Abhinav Sharma http://excode.me
