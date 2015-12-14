@@ -269,6 +269,7 @@ Hackathon Hackers' GitHub profiles
 - Hugh Rawlinson http://hraw.me
 - Humdaan Mustafa https://github.com/humishum
 - Hunter Larco https://github.com/hunterlarco
+- Hussain Abbas https://github.com/superhussain
 - Ian Carroll https://github.com/iangcarroll or https://git.certly.io/ian
 - Ian Jennings https://github.com/ianjennings
 - Ian Macalinao https://github.com/simplyianm
