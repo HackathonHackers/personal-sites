@@ -144,6 +144,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Henry Millison http://henrymillison.com
 - Hugh Rawlinson http://hughrawlinson.me/
 - Hunter Larco http://larcolabs.com
+- Hussain Abbas http://hussainabbas.com
 - Ian Carroll https://ian.sh
 - Ian Jennings http://ianjennin.gs
 - Ian Macalinao http://ian.pw
