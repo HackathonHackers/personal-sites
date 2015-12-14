@@ -38,7 +38,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
 - Andrew Q Tran http://andrewqtran.com
-- Andrew Yang http://yangmaster.com/
+- Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://baesed.me
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sultana http://bk2dcradle.github.io/
