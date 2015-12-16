@@ -51,6 +51,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ari VanIderstine http://ariari.io
 - Arjun Bhatnagar http://arjunb.com
 - Arjun Sarode http://asarode.github.io/
+- Arka Ganguli http://arkaganguli.ca/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
 - Asaph Yuan http://asaphyuan.com
