@@ -150,6 +150,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - James Billingham http://jamesbillingham.com
 - James Kao http://jameskao.me
 - Jamone Kelly http://jamonek.com/
+- Jaskamal Kainth https://sites.google.com/site/jaskamalkainth95/
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
