@@ -91,6 +91,7 @@ Hackathon Hackers' GitHub profiles
 - Arya Boudaie https://github.com/Misingnoglic
 - Asaph Yuan https://github.com/asaphy
 - Asheer Tanveer https://github.com/Asheer
+- Ashish Kedia https://github.com/ashish1294
 - Ashwin Kachhara https://github.com/ashwinkachhara
 - Austin Feight https://github.com/Feighter09
 - Austin L. Chang https://github.com/austinlchang
