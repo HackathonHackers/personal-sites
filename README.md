@@ -289,6 +289,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Rishi Dua http://www.rishidua.com
 - Robert O'Connor http://robbyoconnor.us/
 - Robert Olsthoorn  http://robertolsthoorn.com
+- Robert Reinold http://www.robreinold.com
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
