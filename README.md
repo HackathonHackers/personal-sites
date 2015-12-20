@@ -323,6 +323,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shakti Goap http://shaktigoap.in
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
+- Sheikh Araf http://sheikharaf.me/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
 - Srijay Kasturi http://techfilmer.com
