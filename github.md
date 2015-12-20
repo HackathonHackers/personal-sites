@@ -643,6 +643,7 @@ Hackathon Hackers' GitHub profiles
 - Sharon Lin https://github.com/sharon-lin
 - Shashank Agarwal https://github.com/imshashank
 - Shashank Bhargava https://github.com/Shashankredemption
+- Sheikh Araf https://github.com/arafsheikh
 - Shiv Patel https://github.com/shivu , https://github.com/shivum
 - Shrey Gupta https://github.com/stormsurfer98
 - Shreyas Raman https://github.com/anubiann00b
