@@ -37,6 +37,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Drozdov http://www.mrdrozdov.com
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
+- Andrew Page https://www.andrewpage.me
 - Andrew Q Tran http://andrewqtran.com
 - Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://baesed.me
