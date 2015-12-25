@@ -8,7 +8,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
 - Abody Aljoudi https://chrismatic.io/
-- Achal Varma http://acha.lv/
+- Achal Varma http://acha.lv/sah
 - Acho Arnold http://acho.arnold.cf/
 - Adam Hamot http://zamn.net
 - Adil Virani http://aspv.pw/
@@ -252,7 +252,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
 - Sagar Garg http://sagargarg.github.io/
-- Sahil Dua http://sahildua.com
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
