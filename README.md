@@ -8,7 +8,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
 - Abody Aljoudi https://chrismatic.io/
-- Achal Varma http://acha.lv/sah
+- Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
 - Adam Hamot http://zamn.net
 - Adil Virani http://aspv.pw/
