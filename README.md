@@ -307,6 +307,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Rõhith Varanasi http://rohithvaranasi.com
 - Sagar Garg http://sagargarg.github.io/
 - Sahibjot Saggu http://www.sahibjot.me/
+- Sahil Dua http://sahildua.com
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
