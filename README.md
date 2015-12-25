@@ -28,7 +28,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alex Strong http://alexfortis.github.io/
 - Alex Wang http://alw231.github.io
 - Alexander Maru http://alexandermaru.com
-- Alvin Deng http://alvinqdeng.me/
+- Alvin Deng http://alvindeng.com/
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
