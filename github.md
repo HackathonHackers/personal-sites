@@ -531,6 +531,7 @@ Hackathon Hackers' GitHub profiles
 - Payam Ghobadpour https://github.com/payam-g
 - Phil Efstathiou https://github.com/philefstat
 - Pierce Stegman https://github.com/pwstegman
+- Prabhakar Gupta https://github.com/prabhakar267
 - Prachi Bodas https://github.com/prbodas
 - Pradyuman Vig https://github.com/scyphi
 - Prajwal Kedilaya https://github.com/pjIowa
