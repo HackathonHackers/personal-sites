@@ -274,6 +274,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Phil Efstathiou http://phil.ws/
+- Prabhakar Gupta http://www.prabhakargupta.com
 - Pradyuman Vig http://www.pradyumanvig.com
 - Preston Mueller http://prestonmueller.com
 - Qile Wang http://aroundthelines.com/
