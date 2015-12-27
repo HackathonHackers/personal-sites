@@ -11,6 +11,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aayush Ranaut http://aayush.net
 - Abhinav Rajaseshan http://abhiseshan.me
 - Abhinav Sharma http://excode.me
+- Bad PR http://example.com
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
