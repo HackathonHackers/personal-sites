@@ -78,6 +78,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
 - Caitlin McDonald http://www.caitlinamcdonald.com
+- Camille Considine http://www.camilleconsidine.com
 - Caroline Hermans http://carolinehermans.com
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
