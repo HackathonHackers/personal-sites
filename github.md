@@ -26,6 +26,7 @@ Hackathon Hackers' GitHub profiles
 - AJ Norton https://github.com/ajn123
 - Ajay L Kutnikar https://github.com/alkutnikar
 - Ajmal Khan https://github.com/ajrator
+- Akash Patel https://github.com/StartParadox
 - Akshay Bakshi https://github.com/agentakki
 - Akshay Dixit https://github.com/akshaydixi
 - Akul Mehra https://github.com/akul08
