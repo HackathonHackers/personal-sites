@@ -157,6 +157,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ian Webster http://www.ianww.com
 - Ignacio Alonso http://ignacioalonso.me
 - Iheanyi Ekechukwu http://iheanyi.com
+- Isaac Gluck http://isaacgluck.com
 - Jack Korbin www.lykpic.com
 - Jack Lamberti http://jacklamberti.com
 - Jack McGrath http://handsome.rocks
