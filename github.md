@@ -695,6 +695,7 @@ Hackathon Hackers' GitHub profiles
 - Tolga Beser https://github.com/tolgab
 - Tom Mc https://github.com/tkmcc
 - Tristan Rice https://github.com/d4l3k
+- Tristan Wiley https://github.com/TristanWiley
 - Tru Narla https://github.com/tnarla
 - Ty-Lucas Kelley https://github.com/tylucaskelley
 - Tyler Adams https://github.com/tjadams
