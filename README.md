@@ -258,6 +258,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
 - Moshe Berman http://mosheberman.com
+- Mykayla Fernandes http://mfcecilia.co
 - Nate Levesque http://thenaterhood.com
 - Nate Owen http://nateo.co
 - Neal Shyam http://nealshyam.com
