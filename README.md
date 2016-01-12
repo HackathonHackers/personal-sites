@@ -350,6 +350,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Thomas Lam http://thomaslam.github.io
 - Timotius Sitorus http://timsitorus.com
 - TJ Horner http://horner.tj/hello
+- Tristan Wiley http://tristanwiley.com/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - Tyler Adams http://dare.io
 - Ulises Giacoman http://udiscover.me
