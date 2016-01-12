@@ -482,6 +482,7 @@ Hackathon Hackers' GitHub profiles
 - Morgante Pell https://github.com/morgante
 - Moshe Berman https://github.com/Mosheberman
 - Murtaza Kainan Ibrahim https://github.com/Merctron
+- Mykayla Fernandes https://github.com/mfcecilia
 - Najm Sheikh https://github.com/najubhai
 - Nakul Pathak https://github.com/nakulpathak3
 - Naman Patwari https://github.com/thenamanpat
