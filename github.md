@@ -620,6 +620,7 @@ Hackathon Hackers' GitHub profiles
 - Sam Agnew https://github.com/sagnew
 - Sam Couch https://github.com/samuelcouch
 - Sam Daitzman https://sdaitzman.github.io
+- Sam Kantor https://github.com/S-Kantor
 - Sam Redmond https://github.com/sredmond
 - Samarth Sandeep https://github.com/gravityshouldbenaut
 - Sang Han https://github.com/jjangsangy
