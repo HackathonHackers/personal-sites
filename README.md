@@ -30,6 +30,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alex Wang http://alw231.github.io
 - Alexander Maru http://alexandermaru.com
 - Alvin Deng http://alvindeng.com/
+- Amar Prakash Pandey http://amarpandey.ml
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
