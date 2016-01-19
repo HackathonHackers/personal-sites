@@ -292,6 +292,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Rikin Katyal http://sirvar.com
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
+- Ritvik Choudhary http://ritvik1512.xyz
 - Robert O'Connor http://robbyoconnor.us/
 - Robert Olsthoorn  http://robertolsthoorn.com
 - Robert Reinold http://www.robreinold.com
