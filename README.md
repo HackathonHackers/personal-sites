@@ -296,6 +296,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
 - Rohan Yelsangikar http://royels.me
+- Rosy Gupta http://rosygupta.github.io
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
