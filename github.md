@@ -625,6 +625,7 @@ Hackathon Hackers' GitHub profiles
 - Samarth Sandeep https://github.com/gravityshouldbenaut
 - Sang Han https://github.com/jjangsangy
 - Sankarshan Vidyadhar Mudkavi https://github.com/Sankarshan-Mudkavi
+- Sarthak Munshi http://sarthakm.com/
 - Sarthi Andley https://github.com/theSarthi
 - Sashank Thupukari https://github.com/helloworld
 - Saurav Keshari Aryal https://github.com/Saurav-K-Aryal
