@@ -301,6 +301,7 @@ Hackathon Hackers' GitHub profiles
 - Jake Sylvestre https://github.com/jakesyl
 - James Billingham https://github.com/BillinghamJ
 - James Kao https://github.com/bestkao
+- James Vyas https://github.com/jimivyas
 - Jamie Davies https://github.com/viralpickaxe
 - Jamone Kelly https://github.com/JamoneK
 - Janelle Hinds https://github.com/mobileappqueen
