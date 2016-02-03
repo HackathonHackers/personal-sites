@@ -21,6 +21,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ai Onda http://aicecream.com
 - AJ Norton http://ajnorton.com/
 - Akash Patel http://akashp.co
+- Akhilesh Yarabarla http://yarabarla.com
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akulmehra.me/
 - Alec Robins http://www.alecrobins.me/
