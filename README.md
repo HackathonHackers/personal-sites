@@ -157,6 +157,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ian Jennings http://ianjennin.gs
 - Ian Macalinao http://ian.pw
 - Ian Webster http://www.ianww.com
+- Ibrahim Ahmed http://iahmed.me
 - Ignacio Alonso http://ignacioalonso.me
 - Iheanyi Ekechukwu http://iheanyi.com
 - Isaac Gluck http://isaacgluck.com
