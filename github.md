@@ -747,6 +747,7 @@ Hackathon Hackers' GitHub profiles
 - Zachary Espiritu https://github.com/ZacharyEspiritu
 - Zachary Shakked https://github.com/shakked
 - Zack Maldonado https://github.com/Danubian
+- Zakaria Ridouh https://github.com/ZakariaRidouh
 - Zakariyya Mughal https://github.com/zmughal
 - Zane Blackwell Sterling https://github.com/Shriken
 - Zhou Yi https://github.com/ZhouYii
