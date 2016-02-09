@@ -192,7 +192,6 @@ Hackathon Hackers' GitHub profiles
 - Deepak Parpyani https://github.com/dparpyani
 - Derek Argueta https://github.com/derekargueta
 - Derrick Duncan https://github.com/coderrick
-- Devin Soni http://d-soni.github.io/
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
 - Devon Ngo https://github.com/devonngo
