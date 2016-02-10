@@ -387,4 +387,5 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Zach Jaffee http://zjaffee.com
 - Zach Price http://zachmprice.com/
 - Zachary Espiritu http://zacharyespiritu.com
+- Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
