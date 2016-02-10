@@ -25,6 +25,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akulmehra.me/
 - Alec Robins http://www.alecrobins.me/
+- Alejandro Rioja http://alejandrorioja.com
 - Alex Cory http://alexcory.com
 - Alex Koshy http://koshy.co/
 - Alex Strong http://alexfortis.github.io/
