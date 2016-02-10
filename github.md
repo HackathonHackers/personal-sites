@@ -35,6 +35,7 @@ Hackathon Hackers' GitHub profiles
 - Alan Plotko https://github.com/alanplotko
 - Albert Guo https://github.com/guozhaonan
 - Alec Robins https://github.com/alecrobins
+- Alejandro Rioja https://github.com/alerioja
 - Alejo Rivera https://github.com/alejorivera
 - Alek Festekjian https://github.com/alekfestekjian
 - Alex Fuhr https://github.com/afuhrtrumpet
