@@ -118,6 +118,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David Mattia http://www.david-mattia.com
 - David Meza http://www.davidmeza.us
 - Deepak Pathania http://deepakpathania.github.io
+- Devin Soni http://d-soni.github.io/
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
