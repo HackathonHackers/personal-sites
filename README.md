@@ -10,6 +10,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aaron Gunderson http://www.agundy.com
 - Aayush Ranaut http://aayush.net
 - Abhinav Rajaseshan http://abhiseshan.me
+- Abhinav Sharma http://excode.me
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
@@ -19,14 +20,19 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Afonso Praça http://afonsopraca.com.br/
 - Ai Onda http://aicecream.com
 - AJ Norton http://ajnorton.com/
+- Akash Patel http://akashp.co
+- Akhilesh Yarabarla http://yarabarla.com
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akulmehra.me/
 - Alec Robins http://www.alecrobins.me/
+- Alejandro Rioja http://alejandrorioja.com
 - Alex Cory http://alexcory.com
 - Alex Koshy http://koshy.co/
 - Alex Strong http://alexfortis.github.io/
 - Alex Wang http://alw231.github.io
-- Alvin Deng http://alvinqdeng.me/
+- Alexander Maru http://alexandermaru.com
+- Alvin Deng http://alvindeng.com/
+- Amar Prakash Pandey http://amarpandey.ml
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
@@ -35,11 +41,14 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Drozdov http://www.mrdrozdov.com
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
+- Andrew Page https://www.andrewpage.me
 - Andrew Q Tran http://andrewqtran.com
-- Andrew Yang http://yangmaster.com/
+- Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://baesed.me
 - Ankit Agrawal http://ankitmaverick.com
+- Ankit Sardesai http://ankitsardesai.ca/
 - Ankit Sultana http://ankitsultana.me
+- Anthony Sistilli http://anthonysistilli.me
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
 - Anuraag Yachamaneni http://anuraag.me
@@ -47,30 +56,33 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ari VanIderstine http://ariari.io
 - Arjun Bhatnagar http://arjunb.com
 - Arjun Sarode http://asarode.github.io/
+- Arka Ganguli http://arkaganguli.ca/
 - Arnaud Schenk http://arnaudschenk.me
 - Arush Shankar http://arush.me
 - Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
+- Ashish Kedia https://ashishkedia.me
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Austin L. Chang http://www.austinlchang.com
-- Bilal Majeed http://bilalmajeed.com
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
 - Berwin Xie http://berwin.io
+- Bilal Majeed http://bilalmajeed.com
 - Brandon Amos http://bamos.github.io
 - Brandon Davis http://redspin.net
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
-- Brian Chuk http://devchuk.github.io/
 - Brian Chu www.brianchu.com
+- Brian Chuk http://devchuk.github.io/
 - Brijesh Patel https://about.me/brijeshpatel9
 - Britt Mathis http://bmuk.io
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
 - Caitlin McDonald http://www.caitlinamcdonald.com
+- Camille Considine http://www.camilleconsidine.com
 - Caroline Hermans http://carolinehermans.com
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
@@ -85,6 +97,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Christopher Scott http://scottdchris.com
 - Christopher Smith http://cvsmith.me
 - Christopher Su http://christopher.su
+- Cindy Yu http://cindyyu.com
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
 - Cosi Leone http://cosileone.com/
@@ -104,12 +117,16 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David da Silva http://dasilvacont.in
 - David Mattia http://www.david-mattia.com
 - David Meza http://www.davidmeza.us
+- Deepak Pathania http://deepakpathania.github.io
+- Devin Soni http://d-soni.github.io/
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Diana Zink http://doerhub.com/of/diana
+- Dilpreet Chana http://dschana.com/
+- Dima Konev http://ezhik.me
 - Dylan McIntyre http://dmcintyre.net
-- Elissa Shevinsky http://elissashevinsky.com
 - Eli White http://eli-white.com
+- Elissa Shevinsky http://elissashevinsky.com
 - Emily Tran http://emilytran.org
 - Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
@@ -137,19 +154,24 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Henry Millison http://henrymillison.com
 - Hugh Rawlinson http://hughrawlinson.me/
 - Hunter Larco http://larcolabs.com
+- Hussain Abbas http://hussainabbas.com
 - Ian Carroll https://ian.sh
 - Ian Jennings http://ianjennin.gs
 - Ian Macalinao http://ian.pw
 - Ian Webster http://www.ianww.com
+- Ibrahim Ahmed http://iahmed.me
 - Ignacio Alonso http://ignacioalonso.me
 - Iheanyi Ekechukwu http://iheanyi.com
+- Isaac Gluck http://isaacgluck.com
 - Jack Korbin www.lykpic.com
+- Jack Lamberti http://jacklamberti.com
 - Jack McGrath http://handsome.rocks
 - Jack Wearden https://www.jackwearden.co.uk
 - Jacob Jenkins http://jacobejenkins.com
 - Jairam Patel http://jairampatel.com/
 - James Billingham http://jamesbillingham.com
 - James Kao http://jameskao.me
+- James Vyas http://jimivyas.me
 - Jamone Kelly http://jamonek.com/
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.jaxonstevens.com
@@ -157,14 +179,14 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jay Mo http://jaymo.me/
 - Jaylen Wimbish http://www.jaylenwimbish.com/
 - Jeffrey Lin http://linjeffrey.me
-- Jevin Sidhu http://jevinsidhu.com
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerica Huang http://jericahuang.com
 - Jerrick Davis http://jerrick.us
-- Jesse Collins http://jtcollins.me
 - Jesse Chand http://jessechand.com
+- Jesse Collins http://jtcollins.me
 - Jessica Chang http://jessmchang.com
+- Jevin Sidhu http://jevinsidhu.com
 - Jian Wei Chuah http://jianweichuah.com
 - Jing Xiao http://www.notajingoist.com/index.html
 - Joe Duncko http://joeduncko.com/
@@ -179,12 +201,14 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
 - Justin Paulin http://justinpaulin.com
+- Justin Yang http://y4ng.com
 - Kamesh Vedula http://kameshvedula.com
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
 - Karel Vuong http://karel.ca
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
+- Keon Kim http://keon.io
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Guh http://kevinguh.me
 - Kevin Ji http://kevinji.com
@@ -204,18 +228,20 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Laurence Welch http://laurencewelch.com
 - Lawrence Lin Murata http://lawrencemurata.com/
 - Lex Alexander http://coderlex.com
+- Li Xuanji http://xuanji.li
 - Liam Horne http://lihorne.com
 - Liang Gao http://liang.gao.nyc
-- Li Xuanji http://xuanji.li
 - Long Tran http://ltran.co
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.com
+- Manoj Nathwani http://manoj.ninja
 - Manoj Pandey http://manojp.co
 - Marco Bettiolo http://bettiolo.it
 - Maria Chavez http://mariachavez.co
-- Markan Patel http://markanpatel.me
 - Mark Diez http://markediez.com/
 - Mark Ormesher https://www.markormesher.co.uk/
+- Markan Patel http://markanpatel.me
+- Martin Petkov http://www.martinpetkov.me/
 - Masoud Harati https://masoudh.ml
 - Matheus C. Candido http://cassiano.me
 - Matisse B. VerDuyn http://matisseverduyn.com/
@@ -237,8 +263,10 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Mitchell Gordon http://mitchgordon.me
 - Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
-- Moshe Berman Http://mosheberman.com
+- Moshe Berman http://mosheberman.com
+- Mykayla Fernandes http://mfcecilia.co
 - Nate Levesque http://thenaterhood.com
+- Nate Owen http://nateo.co
 - Neal Shyam http://nealshyam.com
 - Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
@@ -256,25 +284,31 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Phil Efstathiou http://phil.ws/
+- Prabhakar Gupta http://www.prabhakargupta.com
 - Pradyuman Vig http://www.pradyumanvig.com
 - Preston Mueller http://prestonmueller.com
+- Qile Wang http://aroundthelines.com/
+- Quim Llimona http://lemonzi.me
 - Raghav Sood http://raghavsood.com
 - Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
 - Ravin Sardal http://ravinsardal.me
 - Raviteja Lingineni http://rlingineni.me
+- Riccardo Mutschlechner http://cs.wisc.edu/~riccardo
 - Richard Chu http://churichard.me/
 - Rikin Katyal http://sirvar.com
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
+- Ritvik Choudhary http://ritvik1512.xyz
 - Robert O'Connor http://robbyoconnor.us/
 - Robert Olsthoorn  http://robertolsthoorn.com
+- Robert Reinold http://www.robreinold.com
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
 - Rohan Yelsangikar http://royels.me
-- Rõhith Varanasi http://rohithvaranasi.com
+- Rosy Gupta http://rosygupta.github.io
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
@@ -283,12 +317,15 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
-- Sahibjot Saggu http://www.sahibjot.me/
+- Rõhith Varanasi http://rohithvaranasi.com
 - Sagar Garg http://sagargarg.github.io/
+- Sahibjot Saggu http://www.sahibjot.me/
+- Sahil Dua http://sahildua.com
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sang Han http://sanghan.me
+- Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
@@ -299,16 +336,21 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shaban Samani http://shabansamani.github.io
 - Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
+- Shakti Goap http://shaktigoap.in
 - Shane DeWael http://shanedewael.com/
+- Sharon Lin http://sharonlin.me
+- Sheikh Araf http://sheikharaf.me/
 - Shy Ruparel http://ruparel.co
+- Simeon Videnov http://simeon.io
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
 - Stephen Chen http://stephenc.me/
 - Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
-- Sudarshan Muralidhar http://smuralidhar.com
+- Steven Bock http://stevenbock.me
 - Su Min Kim http://suminkim.me/
+- Sudarshan Muralidhar http://smuralidhar.com
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Taher Dhilawala http://taher.me
 - Tejas Manohar http://tejas.io
@@ -317,6 +359,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Thomas Lam http://thomaslam.github.io
 - Timotius Sitorus http://timsitorus.com
 - TJ Horner http://horner.tj/hello
+- Tristan Wiley http://tristanwiley.com/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - Tyler Adams http://dare.io
 - Ulises Giacoman http://udiscover.me
@@ -326,20 +369,24 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Victor Danger Lourng http://victorlourng.com
 - Victor Zhou http://victorzhou.com
 - Vikas Parashar http://vikasparashar.in/
+- Vikram Tiwari https://vikramtiwari.github.com
 - Vinay Hiremath http://vhiremath.com
 - Vinayak Mehta http://vortex-ape.github.io
+- Vipin Sharma  http://vipinsharma.me
 - Vishnu Ks http://vishnuks.com
 - Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
-- Wasim Thabraze http://thabraze.in
-- William Cockburn http://syrexide.com
+- Wasim Thabraze http://thabraze.me
 - Will Field-Thompson http://willft.io
+- William Cockburn http://syrexide.com
 - William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
 - Yask Srivastava http://iyask.me
+- Yasmeen Roumie https://y4smeen.github.io
 - Yefim Vedernikoff http://yef.im
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
 - Zach Price http://zachmprice.com/
 - Zachary Espiritu http://zacharyespiritu.com
+- Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
