@@ -39,7 +39,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Yang http://yangmaster.com/
 - Andy Kamath http://baesed.me
 - Ankit Agrawal http://ankitmaverick.com
-- Ankit Sultana http://bk2dcradle.github.io/
+- Ankit Sultana http://ankitsultana.me
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
 - Anuraag Yachamaneni http://anuraag.me
