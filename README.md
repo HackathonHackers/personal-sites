@@ -47,7 +47,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andy Kamath http://baesed.me
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
-- Ankit Sultana http://bk2dcradle.github.io/
+- Ankit Sultana http://ankitsultana.me
 - Anthony Sistilli http://anthonysistilli.me
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
