@@ -257,6 +257,7 @@ Hackathon Hackers' GitHub profiles
 - Guilherme Berger https://github.com/gberger
 - Guilherme Santos https://github.com/guilhermesgb
 - Gulshan Singh https://github.com/gsingh93
+- Gurnoor Singh https://github.com/sgurnoor
 - Haider Khan https://github.com/ZkHaider
 - Hamza Khan https://github.com/hamza765
 - Hansen Chang https://github.com/byteair
