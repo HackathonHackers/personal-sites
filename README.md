@@ -147,6 +147,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Grant Timmerman http://grant.cm
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
+- Gurnoor Singh http://gurnoor.co
 - Hamza Khan https://hamzakhan.org
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
