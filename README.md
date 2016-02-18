@@ -254,8 +254,8 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Matthew Kaufer http://kaufer.org
 - Max Maybury http://maxjmay.co.uk
 - Max Shavrick http://mxms.pw
-- Megan Ruthven http://maruthven.com/
 - Meet Pragnesh Shah http://meetshah1995.github.io/
+- Megan Ruthven http://maruthven.com/
 - Michael Borohovski http://shanewilton.com
 - Michael Ho Chum http://michaelchum.com
 - Michael Zhang http://failedxyz.github.io
