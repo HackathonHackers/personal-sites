@@ -47,6 +47,7 @@ Hackathon Hackers' GitHub profiles
 - Alex Wang https://github.com/alw231
 - Alex Yeh https://github.com/alexlyeh
 - Alexander Maru https://github.com/assefamaru
+- Alexander Mistakidis https://github.com/aamistak
 - Alexander Scott Zielenski https://github.com/alexzielenski
 - Alfred Ly https://github.com/lyalfred
 - Ali Afridi https://github.com/afridi2
