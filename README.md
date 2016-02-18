@@ -344,6 +344,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
 - Shakti Goap http://shaktigoap.in
+- Shameel Abdullah http://meeoh.github.io/
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
 - Sheikh Araf http://sheikharaf.me/
