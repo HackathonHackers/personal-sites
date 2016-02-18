@@ -26,6 +26,7 @@ Hackathon Hackers' GitHub profiles
 - Ai Onda https://github.com/aionda
 - AJ Norton https://github.com/ajn123
 - Ajay L Kutnikar https://github.com/alkutnikar
+- Ajit Pawar https://github.com/ajitpawar
 - Ajmal Khan https://github.com/ajrator
 - Akash Patel https://github.com/StartParadox
 - Akhilesh Yarabarla https://github.com/yarabarla
