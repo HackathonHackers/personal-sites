@@ -365,6 +365,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Tristan Wiley http://tristanwiley.com/
 - Ty-Lucas Kelley http://tylucaskelley.com
 - Tyler Adams http://dare.io
+- Tyler Peterson http://tylermarkpeterson.com
 - Ulises Giacoman http://udiscover.me
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
