@@ -725,6 +725,7 @@ Hackathon Hackers' GitHub profiles
 - Varatep Buranintu https://github.com/varatep
 - Varun Arora https://github.com/avarun42
 - Varun Rajamane https://github.com/zuron7
+- Varun Shenoy https://github.com/varunshenoy
 - Vasu Jain http://vasujain.in
 - Vasudev Bhat https://github.com/vasudev-33
 - Vetri Selvi Vairamuthu https://github.com/vetriselvi/
