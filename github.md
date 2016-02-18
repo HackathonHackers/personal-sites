@@ -451,6 +451,7 @@ Hackathon Hackers' GitHub profiles
 - Matisse B. VerDuyn https://github.com/matisseverduyn
 - Matt Chan https://github.com/themattchan
 - Matt Condon https://github.com/Shrugs
+- Matthew Allen http://matthewallen.xyz/
 - Matthew Bentley https://github.com/matthewbentley
 - Matthew Herbst https://github.com/matthewherbst
 - Matthew Kaiser https://github.com/KaiserCoaster
