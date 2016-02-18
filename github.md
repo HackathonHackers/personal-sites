@@ -694,6 +694,7 @@ Hackathon Hackers' GitHub profiles
 - Steven Bock https://github.com/dabockster
 - Sudarshan Muralidhar https://github.com/sudssm
 - Sujith Vishwajith https://github.com/sujithv28
+- Sumanth Reddy Pandugula https://github.com/summyfeb12
 - Suril Shah https://github.com/Suril-Shah
 - Suyash Lakhotia https://github.com/SuyashLakhotia
 - Suyash Srijan https://github.com/theblixguy
