@@ -359,6 +359,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Su Min Kim http://suminkim.me/
 - Sudarshan Muralidhar http://smuralidhar.com
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
+- Suyash Lakhotia http://suyashlakhotia.com
 - Taher Dhilawala http://taher.me
 - Tejas Manohar http://tejas.io
 - Tejas Nikumbh http://tejasnikumbh.github.io
