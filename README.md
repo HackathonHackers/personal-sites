@@ -141,6 +141,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Frank Cash http://hackerqueue.io
 - Freddie Vargus http://fjv4.com
 - Gagik Movsisyan http://gagikm.com
+- Gary-Yau Chan http://garyyauchan.com
 - Gautam Mittal http://www.gautam.cc
 - George Lee http://georgel.ee
 - Gibran Garcia http://gibrangarcia.me
