@@ -1,4 +1,4 @@
-﻿Hackathon Hackers' Personal Websites
+Hackathon Hackers' Personal Websites
 ====================================
 
 Sorted alphabetically by first name. To add yours, please see [the contributing guidelines](CONTRIBUTING.md).
@@ -254,6 +254,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Matisse B. VerDuyn http://matisseverduyn.com/
 - Matt Chan http://themattchan.com/
 - Matt Condon http://matt.cond.in
+- Matthew Allen http://matthewallen.xyz/
 - Matthew Bentley https://mtbentley.us
 - Matthew Bucci http://matthewbucci.com
 - Matthew Kaiser http://mkaiser.io
