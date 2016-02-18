@@ -358,6 +358,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
 - Sheikh Araf http://sheikharaf.me/
+- Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
 - Srijay Kasturi http://techfilmer.com
