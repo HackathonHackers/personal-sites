@@ -241,8 +241,8 @@ Hackathon Hackers' GitHub profiles
 - Frederick Brunn https://github.com/clotifoth
 - Frederik Riedel https://github.com/quappi
 - Gagik Movsisyan https://github.com/gagikm
-- Gary-Yau Chan https://github.com/chany2
 - Garrison https://github.com/smoothtrane
+- Gary-Yau Chan https://github.com/chany2
 - Gaurav Ragtah https://github.com/gragtah
 - Gautam Mittal https://github.com/gmittal
 - Gene Lewis https://github.com/glewis17
