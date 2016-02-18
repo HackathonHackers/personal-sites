@@ -16,6 +16,7 @@ Hackathon Hackers' GitHub profiles
 - Abody Aljoudi https://github.com/ChrisAljoudi
 - Achal Varma https://github.com/achalv
 - Adam Hamot https://github.com/zamN
+- Adam McNeilly https://github.com/AdamMc331
 - Adelain Aaron Ounn https://github.com/aaronwinter
 - Adil Virani https://github.com/AdilVirani
 - Adway Dhillon https://github.com/adwaydhillon
