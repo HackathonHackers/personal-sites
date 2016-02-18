@@ -456,6 +456,7 @@ Hackathon Hackers' GitHub profiles
 - Matt Chan https://github.com/themattchan
 - Matt Condon https://github.com/Shrugs
 - Matthew Allen http://matthewallen.xyz/
+- Matthew Bell https://github.com/logicnotlogical
 - Matthew Bentley https://github.com/matthewbentley
 - Matthew Herbst https://github.com/matthewherbst
 - Matthew Kaiser https://github.com/KaiserCoaster
