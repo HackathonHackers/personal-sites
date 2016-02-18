@@ -380,6 +380,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Varun Rajendra Rajamane http://rajamane.io
+- Varun Shenoy http://varunshenoy.github.io/
 - Vetri Selvi Vairamuthu http://vetriselvi.com
 - Victor Danger Lourng http://victorlourng.com
 - Victor Zhou http://victorzhou.com
