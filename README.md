@@ -1,4 +1,4 @@
-Hackathon Hackers' Personal Websites
+﻿Hackathon Hackers' Personal Websites
 ====================================
 
 Sorted alphabetically by first name. To add yours, please see [the contributing guidelines](CONTRIBUTING.md).
@@ -47,6 +47,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Q Tran http://andrewqtran.com
 - Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://baesed.me
+- Andy Wong http://andy-wong.ca
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
 - Ankit Sultana http://ankitsultana.me
