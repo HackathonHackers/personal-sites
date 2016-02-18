@@ -129,6 +129,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Devin Soni http://d-soni.github.io/
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
+- Dhruv Ramani https://dhruvramani.github.io/
 - Diana Zink http://doerhub.com/of/diana
 - Dilpreet Chana http://dschana.com/
 - Dima Konev http://ezhik.me
