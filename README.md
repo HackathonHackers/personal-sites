@@ -260,6 +260,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Matt Chan http://themattchan.com/
 - Matt Condon http://matt.cond.in
 - Matthew Allen http://matthewallen.xyz/
+- Matthew Bell https://mbell.me/
 - Matthew Bentley https://mtbentley.us
 - Matthew Bucci http://matthewbucci.com
 - Matthew Kaiser http://mkaiser.io
