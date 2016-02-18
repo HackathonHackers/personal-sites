@@ -430,6 +430,7 @@ Hackathon Hackers' GitHub profiles
 - Luke Wright https://github.com/Simplyluke
 - Maciej Lis https://github.com/mlisbit
 - Madeleyne Vaca https://github.com/Maye-vaca
+- Madhav Datt https://github.com/madhav-datt
 - Mahesh Murag https://github.com/mash99
 - Mahir Kothary https://github.com/mahirk
 - Manash Mandal https://github.com/manashmndl
