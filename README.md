@@ -104,6 +104,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Cindy Yu http://cindyyu.com
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
+- Connor Smith http://www.connor-a-smith.com
 - Cosi Leone http://cosileone.com/
 - Cyrus Roshan http://cyrusroshan.me
 - Dakota St. Laurent http://stdako.com
