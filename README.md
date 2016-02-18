@@ -286,6 +286,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Noah Hradek   http://noahhradek.me/
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
+- Palash Chatterjee https://pecey.github.io
 - Panashe Mahachi http://pkm.me
 - Parth Mehrotra http://parthmehrotra.com
 - Patricio Córdova http://www.cs.toronto.edu/~patricio

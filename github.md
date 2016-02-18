@@ -532,6 +532,7 @@ Hackathon Hackers' GitHub profiles
 - Omar Mujahid https://github.com/Omarmjhd
 - Ore Aleb https://github.com/orealeb
 - Orlando Orlie K https://github.com/orliesaurus
+- Palash Chatterjee https://github.com/pecey
 - Panashe Mahachi https://github.com/panashemahachi
 - Parth Mehrotra https://github.com/Parth-Mehrotra
 - Patricia Hanus https://github.com/pxhanus
