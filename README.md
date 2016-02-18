@@ -333,6 +333,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
+- Sameer Khoja http://sameerkhoja.com
 - Sang Han http://sanghan.me
 - Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
