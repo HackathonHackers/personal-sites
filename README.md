@@ -105,6 +105,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Cyrus Roshan http://cyrusroshan.me
 - Dakota St. Laurent http://stdako.com
 - Dan Appel https://dvappel.me
+- Dan Landy http://www.danlandy.com
 - Dan Ni http://danielni.me
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
