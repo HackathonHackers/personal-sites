@@ -92,6 +92,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Cheng Peng http://www.chengpeng.ca
 - Chirag Aggarwal http://www.chi6rag.net
 - Chirag Chauhan http://chiragchauhan.com
+- Chris Bolton http://codeandconfusion.com/
 - Chris Lai http://chrislai.info
 - Chris Lee http://collegefill.com
 - Christian Barcenas http://www.cbarcenas.com/
