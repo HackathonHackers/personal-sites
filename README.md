@@ -262,6 +262,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Max Shavrick http://mxms.pw
 - Megan Ruthven http://maruthven.com/
 - Michael Borohovski http://shanewilton.com
+- Michael Gonzales http://mkgo.co/
 - Michael Ho Chum http://michaelchum.com
 - Michael Zhang http://failedxyz.github.io
 - Milan Dasgupta http://www.milandasgupta.com
