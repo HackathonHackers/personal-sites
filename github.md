@@ -706,6 +706,7 @@ Hackathon Hackers' GitHub profiles
 - Tru Narla https://github.com/tnarla
 - Ty-Lucas Kelley https://github.com/tylucaskelley
 - Tyler Adams https://github.com/tjadams
+- Tyler Peterson https://github.com/Gingernaut
 - Tyler Riedal https://github.com/triedal
 - Usman Ehtesham https://github.com/ueg1990
 - Usman Majeed https://github.com/majeedus
