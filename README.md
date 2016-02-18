@@ -240,7 +240,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Manoj Pandey http://manojp.co
 - Marco Bettiolo http://bettiolo.it
 - Maria Chavez http://mariachavez.co
-- Mark Diez http://markediez.com/
+- Mark Diez http://markediez.me
 - Mark Ormesher https://www.markormesher.co.uk/
 - Markan Patel http://markanpatel.me
 - Martin Petkov http://www.martinpetkov.me/
