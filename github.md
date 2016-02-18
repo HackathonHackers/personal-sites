@@ -145,6 +145,7 @@ Hackathon Hackers' GitHub profiles
 - Chashmeet Singh https://github.com/chashmeetsingh
 - Cheng Peng https://github.com/chunky123
 - Chirag Chauhan https://github.com/crc442
+- Chris Bolton https://github.com/cbolton97
 - Chris Lai https://github.com/chrislai
 - Chris Lee https://github.com/chrispmlee
 - Christian Barcenas https://github.com/cbarcenas
