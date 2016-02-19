@@ -314,6 +314,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Raviteja Lingineni http://rlingineni.me
 - Riccardo Mutschlechner http://cs.wisc.edu/~riccardo
 - Richard Chu http://churichard.me/
+- Richard Kraaijenhagen http://riichard.com/
 - Rikin Katyal http://sirvar.com
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
