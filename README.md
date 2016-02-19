@@ -36,7 +36,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alexander Maru http://alexandermaru.com
 - Alexander Mistakidis http://aamistak.me
 - Alvin Deng http://alvindeng.com/
-- Amar Prakash Pandey http://amarpandey.ml
+- Amar Prakash Pandey http://amarpandey.me
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
