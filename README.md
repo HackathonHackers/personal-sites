@@ -16,6 +16,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Acho Arnold http://acho.arnold.cf/
 - Adam Hamot http://zamn.net
 - Adam McNeilly http://adammcneilly.com
+- Adil Ansari http://ansari.io
 - Adil Virani http://aspv.pw/
 - Adrienne Tran http://www.adriennetran.com
 - Afonso Praça http://afonsopraca.com.br/
