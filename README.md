@@ -119,6 +119,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dan Zhang www.danzhang.net
 - Dana Lee http://danagilliann.me/
 - Daniel C. Eckert http://drakontas.org
+- Danya Baron http://www.danyabaron.com/
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
 - Dave Fontenot http://davefont.com
