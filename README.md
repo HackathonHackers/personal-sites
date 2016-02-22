@@ -163,6 +163,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Guilherme Berger http://gberger.me
 - Gurnoor Singh http://gurnoor.co
 - Hamza Khan https://hamzakhan.org
+- Harsh Vardhan http://royalharsh.github.io
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
