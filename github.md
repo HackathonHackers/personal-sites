@@ -273,6 +273,7 @@ Hackathon Hackers' GitHub profiles
 - Haris Iqbal https://github.com/hiqbal01
 - Harrison Freni https://github.com/HFreni
 - Harry Gogonis http://hgogonis.me
+- Harsh Vardhan https://github.com/royalharsh
 - Harshank Vengurlekar https://github.com/Harshank
 - Harshay Shah https://github.com/harshays
 - Harvey Chan https://github.com/ch4
