@@ -133,6 +133,7 @@ Hackathon Hackers' GitHub profiles
 - Brian Lai https://github.com/1337
 - Brijesh Patel https://github.com/Brijeshrpatel9
 - Britt Mathis https://github.com/bmuk
+- Brock Whittaker https://github.com/brockwhittaker
 - Bruno B. Ferrari Faviero https://github.com/bfaviero
 - Bryan Garza https://github.com/bryangarza
 - Burak Içel https://github.com/burakicel
