@@ -276,7 +276,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Michael Borohovski http://shanewilton.com
 - Michael Gonzales http://mkgo.co/
 - Michael Ho Chum http://michaelchum.com
-- Michael Zhang http://failedxyz.github.io
+- Michael Zhang http://michaelz.xyz
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
 - Ming Luo http://Ming-Luo.com
