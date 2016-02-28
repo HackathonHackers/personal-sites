@@ -58,6 +58,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
 - Anuraag Yachamaneni http://anuraag.me
+- Anurag Aryan http://anuragaryan.com
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
 - Arjun Bhatnagar http://arjunb.com
