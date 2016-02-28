@@ -86,6 +86,7 @@ Hackathon Hackers' GitHub profiles
 - Anton Relin https://github.com/relisher
 - Antonio Marino https://github.com/antonio0
 - Anuraag Yachamaneni https://github.com/hackathoner
+- Anurag Aryan https://github.com/anuragaryan
 - Anurag Banerjee https://github.com/anurag-banerjee
 - Areeb Khan https://github.com/ask616
 - Ari VanIderstine https://github.com/arirawr
