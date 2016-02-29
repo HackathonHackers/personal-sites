@@ -367,6 +367,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shameel Abdullah http://meeoh.github.io/
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
+- Shashank Saxena http://shashanksaxena.me/
 - Sheikh Araf http://sheikharaf.me/
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
