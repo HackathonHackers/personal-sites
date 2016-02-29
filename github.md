@@ -43,6 +43,7 @@ Hackathon Hackers' GitHub profiles
 - Alejo Rivera https://github.com/alejorivera
 - Alek Festekjian https://github.com/alekfestekjian
 - Alex Fuhr https://github.com/afuhrtrumpet
+- Alex Johnson https://github.com/alexlovescoding
 - Alex Koshy https://github.com/ajkoshy7
 - Alex LaFroscia https://github.com/alexlafroscia
 - Alex Vallorosi https://github.com/ca

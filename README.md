@@ -31,6 +31,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alec Robins http://www.alecrobins.me/
 - Alejandro Rioja http://alejandrorioja.com
 - Alex Cory http://alexcory.com
+- Alex Johnson https://www.alex-johnson.net/
 - Alex Koshy http://koshy.co/
 - Alex Strong http://alexfortis.github.io/
 - Alex Wang http://alw231.github.io
