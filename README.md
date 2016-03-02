@@ -138,6 +138,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Diana Zink http://doerhub.com/of/diana
 - Dilpreet Chana http://dschana.com/
 - Dima Konev http://ezhik.me
+- Dominic Dabish http://www.dominicdabish.com/
 - Dylan McIntyre http://dmcintyre.net
 - Eli White http://eli-white.com
 - Elissa Shevinsky http://elissashevinsky.com
