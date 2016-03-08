@@ -284,6 +284,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Milan Dasgupta http://www.milandasgupta.com
 - Milson Munakami http://milstein.me
 - Ming Luo http://Ming-Luo.com
+- Minh Nguyen http://minh.io
 - Mitchell Gordon http://mitchgordon.me
 - Mohaimin Al Aoun http://mohaiminalaoun.github.io
 - Monica Powell http://aboutmonica.com
