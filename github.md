@@ -496,7 +496,7 @@ Hackathon Hackers' GitHub profiles
 - Milind Shah https://github.com/promilo
 - Milstein Munakami https://github.com/Milstein
 - Ming Luo https://github.com/Mingling94
-- Minh Nguyen https://github.com/minhongrails
+- Minh Nguyen https://github.com/iominh
 - Miquel Llobet https://github.com/mllobet
 - Moez Bhatti https://github.com/moezbhatti
 - Moksh Jawa https://github.com/mokshjawa
