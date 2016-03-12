@@ -371,6 +371,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
 - Sheikh Araf http://sheikharaf.me/
+- Shikib Mehri http://shikib.ca/
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
