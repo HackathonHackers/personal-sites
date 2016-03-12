@@ -66,6 +66,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Arjun Sarode http://asarode.github.io/
 - Arka Ganguli http://arkaganguli.ca/
 - Arnaud Schenk http://arnaudschenk.me
+- Arnav Garg http://arnavgarg.me
 - Arush Shankar http://arush.me
 - Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
