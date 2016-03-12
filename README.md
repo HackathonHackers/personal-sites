@@ -251,6 +251,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Lex Alexander http://coderlex.com
 - Li Xuanji http://xuanji.li
 - Liam Horne http://lihorne.com
+- Liam Rahav http://liamrahav.me
 - Liang Gao http://liang.gao.nyc
 - Long Tran http://ltran.co
 - Luka Marr http://lukamarr.github.io
