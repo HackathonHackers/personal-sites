@@ -200,6 +200,7 @@ Hackathon Hackers' GitHub profiles
 - Dean Cooney https://github.com/deancooney
 - Deepak Parpyani https://github.com/dparpyani
 - Derek Argueta https://github.com/derekargueta
+- Derek Hua http://github.com/derekhua
 - Derrick Duncan https://github.com/coderrick
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
