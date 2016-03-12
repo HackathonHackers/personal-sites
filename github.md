@@ -673,6 +673,7 @@ Hackathon Hackers' GitHub profiles
 - Shashank Agarwal https://github.com/imshashank
 - Shashank Bhargava https://github.com/Shashankredemption
 - Sheikh Araf https://github.com/arafsheikh
+- Shikib Mehri https://github.com/shikib
 - Shiv Patel https://github.com/shivu , https://github.com/shivum
 - Shrey Gupta https://github.com/stormsurfer98
 - Shreyas Raman https://github.com/anubiann00b
