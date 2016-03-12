@@ -50,7 +50,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Page https://www.andrewpage.me
 - Andrew Q Tran http://andrewqtran.com
 - Andrew Yang http://andrewyang.xyz/
-- Andy Kamath http://baesed.me
+- Andy Kamath http://andykamath.com
 - Andy Wong http://andy-wong.ca
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
