@@ -191,6 +191,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jairam Patel http://jairampatel.com/
 - James Billingham http://jamesbillingham.com
 - James Kao http://jameskao.me
+- James Liu https://jamesliu.ca
 - James Vyas http://jimivyas.me
 - Jamone Kelly http://jamonek.com/
 - Jason Liu http://jxnl.co
