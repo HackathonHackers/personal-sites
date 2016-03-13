@@ -79,6 +79,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ben Williams http://719Ben.com
 - Berwin Xie http://berwin.io
 - Bilal Majeed http://bilalmajeed.com
+- Bill Guo http://billguocheng.com
 - Brandon Amos http://bamos.github.io
 - Brandon Davis http://redspin.net
 - Brandon Truong http://hello.brandontruong.com
