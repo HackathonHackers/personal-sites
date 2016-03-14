@@ -62,6 +62,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anurag Aryan http://anuragaryan.com
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
+- Arin Ray http://arinray.me
 - Arjun Bhatnagar http://arjunb.com
 - Arjun Sarode http://asarode.github.io/
 - Arka Ganguli http://arkaganguli.ca/
