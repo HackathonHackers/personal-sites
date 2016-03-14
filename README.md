@@ -172,7 +172,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Gurnoor Singh http://gurnoor.co
 - Hamza Khan https://hamzakhan.org
 - Harris Christiansen http://harrischristiansen.com
-- Harry Gogonis	http://hgogonis.me
+- Harry Gogonis http://hgogonis.me
 - Harsh Vardhan http://royalharsh.github.io
 - Harshay Shah http://harshay.me
 - Harvey Chan http://harveychan.net/
