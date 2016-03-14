@@ -308,6 +308,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nico Hindering http://nicohinderling.me
 - Nimit Kalra http://nimitkalra.com
 - Niraj Pant http://niraj.io
+- Nishanth Shanmugham https://nishanths.github.io
 - Noah Hradek   http://noahhradek.me/
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
