@@ -172,6 +172,7 @@ Hackathon Hackers' GitHub profiles
 - Dag Yeshiwas https://github.com/cozma
 - Dakota St. Laurent https://github.com/StDako
 - Dan Appel https://github.com/Danappelxx
+- Dan Fujita https://github.com/danfujita
 - Dan Marcoux https://github.com/dandroiddeveloper
 - Dan Ni https://github.com/danielni
 - Dan Schlosser https://github.com/danrschlosser
