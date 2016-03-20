@@ -160,6 +160,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Freddie Vargus http://fjv4.com
 - Gagik Movsisyan http://gagikm.com
 - Ganesh Swamypillai http://iotenthu.com
+- Gangeshwar Krishnamurthy http://gangeshwark.com/
 - Gary-Yau Chan http://garyyauchan.com
 - Gautam Mittal http://www.gautam.cc
 - George Lee http://georgel.ee
