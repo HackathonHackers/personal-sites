@@ -253,6 +253,7 @@ Hackathon Hackers' GitHub profiles
 - Frederik Riedel https://github.com/quappi
 - Gagik Movsisyan https://github.com/gagikm
 - Ganesh Swamypillai https://github.com/gansai/
+- Gangeshwar Krishnamurthy https://github.com/gangeshwark/
 - Garrison https://github.com/smoothtrane
 - Gary-Yau Chan https://github.com/chany2
 - Gaurav Ragtah https://github.com/gragtah
