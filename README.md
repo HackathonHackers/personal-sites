@@ -98,6 +98,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Caroline Hermans http://carolinehermans.com
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
+- Chaitanya Joshi http://chaitanyajoshi.xyz
 - Chaoyi Zha http://cydrobolt.com
 - Cheng Peng http://www.chengpeng.ca
 - Chirag Aggarwal http://www.chi6rag.net
