@@ -694,6 +694,7 @@ Hackathon Hackers' GitHub profiles
 - Simon Anatole Orlovsky https://github.com/simonorlovsky
 - Simran Preet Singh https://github.com/simransdsu
 - Sohaib Syed https://github.com/sohaibsyed95
+- Sourabh Shetty https://github.com/thesourabh
 - Spencer Yen https://github.com/spenciefy
 - Srijay Kasturi https://github.com/sckasturi
 - Srikar Gudipati https://github.com/srikarg
