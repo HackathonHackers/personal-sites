@@ -331,6 +331,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
 - Raghav Sood http://raghavsood.com
+- Rajat Mehndiratta http://rajatmehndiratta.me
 - Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
 - Ravin Sardal http://ravinsardal.me
