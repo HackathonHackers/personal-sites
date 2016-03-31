@@ -441,6 +441,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Yask Srivastava http://iyask.me
 - Yasmeen Roumie https://y4smeen.github.io
 - Yefim Vedernikoff http://yef.im
+- Yusif Alizada http://yusifalizada.com
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
 - Zach Price http://zachmprice.com/
