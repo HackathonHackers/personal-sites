@@ -441,6 +441,7 @@ Hackathon Hackers' GitHub profiles
 - Liam Sargent https://github.com/themailman05
 - Liang Gao https://github.com/ricek
 - Liban Mohamed https://github.com/Libanthedev
+- Lovekesh Garg https://github.com/iamvoid13
 - Lucas Mullens https://github.com/lucasmullens
 - Lucy Guo https://github.com/loopyz
 - Luka Marčec https://github.com/LukaMarr
