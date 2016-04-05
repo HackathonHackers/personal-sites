@@ -267,6 +267,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Liam Rahav http://liamrahav.me
 - Liang Gao http://liang.gao.nyc
 - Long Tran http://ltran.co
+- Lovekesh Garg http://iamvoid13.github.io
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.com
 - Manoj Nathwani http://manoj.ninja
