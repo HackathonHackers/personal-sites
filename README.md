@@ -102,6 +102,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Chaitanya Joshi http://chaitanyajoshi.xyz
 - Chaoyi Zha http://cydrobolt.com
 - Cheng Peng http://www.chengpeng.ca
+- Chinmaya Kr. Patanaik https://pattu777.github.io
 - Chirag Aggarwal http://www.chi6rag.net
 - Chirag Chauhan http://chiragchauhan.com
 - Chris Bolton http://codeandconfusion.com/
