@@ -671,6 +671,7 @@ Hackathon Hackers' GitHub profiles
 - Sehmon Burnam https://github.com/yawkity
 - Selina Wang https://github.com/enigmacat
 - Selynna Sun https://github.com/ssun098
+- Seth Feibus https://github.com/sethfork
 - Shaan Chawla https://github.com/shaantamchawla
 - Shadab Zafar https://github.com/dufferzafar
 - Shafqat Dulal https://github.com/sdulal
