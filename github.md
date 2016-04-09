@@ -537,6 +537,7 @@ Hackathon Hackers' GitHub profiles
 - Nicole Flokos https://github.com/silicarich
 - Nidhin N https://github.com/lithium-03
 - Nikhil Buduma https://github.com/darksigma
+- Nikhil D'Souza https://github.com/nikhiljay
 - Nikhil Gupta https://github.com/nkgupta1
 - Nikhil Srinivasan https://github.com/nikhilsrinivasan
 - Nikolay Yuriyevich Feldman https://github.com/codeniko
