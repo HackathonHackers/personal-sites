@@ -215,6 +215,7 @@ Hackathon Hackers' GitHub profiles
 - Diana Zink https://github.com/deftworker
 - Dilpreet Chana https://github.com/DSchana
 - Dima Konev https://github.com/silverezhik
+- Dima Vishnevetsky https://github.com/dimshik100
 - Douglas Bumby https://github.com/istx25
 - Drbyo Mkwi https://github.com/Dirbaio
 - Dvid Silva https://github.com/dvidsilva
