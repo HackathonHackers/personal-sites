@@ -316,7 +316,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nelson Liu http://nelsonliu.me
 - Nicholas Brown http://kompulsa.com
 - Nico Hindering http://nicohinderling.me
-- Nimit Kalra http://nimitkalra.com
+- Nimit Kalra http://nimit.io
 - Niraj Pant http://niraj.io
 - Nishanth Shanmugham https://nishanths.github.io
 - Noah Hradek   http://noahhradek.me/
