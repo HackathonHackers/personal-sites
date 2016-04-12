@@ -116,6 +116,7 @@ Hackathon Hackers' GitHub profiles
 - Ben Weinstein-Raun https://github.com/benwr
 - Ben Williams https://github.com/719Ben
 - Benjamin Yin https://github.com/precociouslydigital
+- Bernice Go http://github.com/bernicewygo
 - Berwin Xie https://github.com/berwin7996
 - Bilawal Hameed https://github.com/bih
 - Bob Timm https://github.com/bajabob

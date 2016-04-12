@@ -81,6 +81,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
+- Bernice Go http://bernicewygo.github.io
 - Berwin Xie http://berwin.io
 - Bilal Majeed http://bilalmajeed.com
 - Bill Guo http://billguocheng.com
