@@ -232,6 +232,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jordan Arnesen www.byjor.com
 - Joseph Khawly http://josephkhawly.com/
 - Joseph Milla https://josephmilla.com/
+- Josh Snider https://www.joshuasnider.com/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
 - Justin Bleuel http://justinbleuel.github.io
