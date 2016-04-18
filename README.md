@@ -161,6 +161,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Eric Zinnikas https://ericz.com
 - Ethan Richardson http://richardsonethan.me
 - Eugene Cheung www.echeung.me
+- Ezekiel Kigbo http://eakigbo.me
 - Faiz Ahmad http://faiz.io
 - Fan Zhang http://thefanzhang.com
 - Fisher Adelakin http://fisheradelakin.com/
