@@ -39,6 +39,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alex Wang http://alw231.github.io
 - Alexander Maru http://alexandermaru.com
 - Alexander Mistakidis http://aamistak.me
+- Alston Lin http://alstonlin.io
 - Alvin Deng http://alvindeng.com/
 - Amar Prakash Pandey http://amarpandey.me
 - Anat Gilboa http://anat.me
