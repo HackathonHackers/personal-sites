@@ -20,6 +20,7 @@ Hackathon Hackers' GitHub profiles
 - Adelain Aaron Ounn https://github.com/aaronwinter
 - Adil Ansari https://github.com/adilansari
 - Adil Virani https://github.com/AdilVirani
+- Adrian Gaw https://github.com/gawadrian
 - Adway Dhillon https://github.com/adwaydhillon
 - Afonso Praça https://github.com/afonso-praca
 - Ahmed Fathi https://github.com/AFathi
