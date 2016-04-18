@@ -238,6 +238,7 @@ Hackathon Hackers' GitHub profiles
 - Ethan Arnold https://github.com/masonsbro
 - Ethan Richardson http://github.com/ethanx94
 - Eugene Cheung https://github.com/arkon
+- Ezekiel Kigbo https://github.com/theatlasroom
 - Faiq Raza https://github.com/faiq
 - Faisal Aldilaijan https://github.com/aldilaff
 - Faiz Ahmad https://github.com/Faiz7412
