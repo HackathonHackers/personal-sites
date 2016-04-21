@@ -148,6 +148,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Dhruv Ramani https://dhruvramani.github.io/
+- Diana Chang http://DChang87.github.io
 - Diana Zink http://doerhub.com/of/diana
 - Dilpreet Chana http://dschana.com/
 - Dima Konev http://ezhik.me
