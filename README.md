@@ -163,6 +163,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ethan Richardson http://richardsonethan.me
 - Eugene Cheung www.echeung.me
 - Ezekiel Kigbo http://eakigbo.me
+- Ezequiel França http://ezefranca.com
 - Faiz Ahmad http://faiz.io
 - Fan Zhang http://thefanzhang.com
 - Fisher Adelakin http://fisheradelakin.com/
