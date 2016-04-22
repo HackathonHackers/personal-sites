@@ -51,8 +51,8 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Hoang http://www.andrewhoang.me
 - Andrew Hollenbach http://www.andrewhollenbach.com
 - Andrew Page https://www.andrewpage.me
-- Andrew Tam http://ahndrewtam.me
 - Andrew Q Tran http://andrewqtran.com
+- Andrew Tam http://ahndrewtam.me
 - Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://andykamath.com
 - Andy Wong http://andy-wong.ca
