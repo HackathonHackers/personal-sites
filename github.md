@@ -234,6 +234,7 @@ Hackathon Hackers' GitHub profiles
 - Emilio Flores https://github.com/EmilioFlores
 - Emily Tran https://github.com/emilytran
 - Eric Kamen https://github.com/wchill
+- Eric Lee https://github.com/theCreedo
 - Eric Song https://github.com/ericsong
 - Eric Zinnikas https://github.com/ericzinnikas
 - Erica Douglass https://github.com/ericabiz
