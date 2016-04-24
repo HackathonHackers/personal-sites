@@ -159,6 +159,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Eli White http://eli-white.com
 - Elissa Shevinsky http://elissashevinsky.com
 - Emily Tran http://emilytran.org
+- Eric Lee http://thecreedo.github.io
 - Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
 - Ethan Richardson http://richardsonethan.me
