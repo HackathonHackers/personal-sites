@@ -215,6 +215,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - James Liu https://jamesliu.ca
 - James Vyas http://jimivyas.me
 - Jamone Kelly http://jamonek.com/
+- Jason Du http://dujason.com/
 - Jason Liu http://jxnl.co
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
