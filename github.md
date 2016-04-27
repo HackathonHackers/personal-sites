@@ -496,6 +496,7 @@ Hackathon Hackers' GitHub profiles
 - Michael Cai https://github.com/caimichael
 - Michael Gubbels https://github.com/mokogobo
 - Michael Ho Chum https://github.com/michaelchum
+- Michael Huang https://github.com/myh1000
 - Michael Hulet https://github.com/raysarebest
 - Michael Urich https://github.com/mike-u
 - Michael Williams https://github.com/draringi
