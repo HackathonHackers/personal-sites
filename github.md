@@ -762,6 +762,7 @@ Hackathon Hackers' GitHub profiles
 - Varun Shenoy https://github.com/varunshenoy
 - Vasu Jain http://vasujain.in
 - Vasudev Bhat https://github.com/vasudev-33
+- Vatsal Kesarwani https://github.com/vatsalkesarwani
 - Vetri Selvi Vairamuthu https://github.com/vetriselvi/
 - Vic Vu https://github.com/vicv
 - Victor Danger Lourng https://github.com/LabLayers
