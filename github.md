@@ -233,6 +233,7 @@ Hackathon Hackers' GitHub profiles
 - Elvin Yung https://github.com/elvinyung
 - Emilio Flores https://github.com/EmilioFlores
 - Emily Tran https://github.com/emilytran
+- Eric Bachmeier https://github.com/ericbachmeier5
 - Eric Kamen https://github.com/wchill
 - Eric Lee https://github.com/theCreedo
 - Eric Song https://github.com/ericsong
