@@ -244,6 +244,7 @@ Hackathon Hackers' GitHub profiles
 - Ezekiel Kigbo https://github.com/theatlasroom
 - Faiq Raza https://github.com/faiq
 - Faisal Aldilaijan https://github.com/aldilaff
+- Fahad Ahmad https://github.com/fzxt
 - Faiz Ahmad https://github.com/Faiz7412
 - Faiz Ahmed Khan https://github.com/dridon
 - Fan Zhang https://github.com/fanwashere
