@@ -424,6 +424,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sumanth Reddy Pandugula http://summyfeb12.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Suyash Lakhotia http://suyashlakhotia.com
+- Swati Maheshwari http://swatimaheshwari.github.io/
 - Taher Dhilawala http://taher.me
 - Tejas Manohar http://tejas.io
 - Tejas Nikumbh http://tejasnikumbh.github.io
