@@ -412,6 +412,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
 - Sourabh Shetty http://sourabh.io
+- Sricharan Chiruvolu http://sricharan.xyz
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
