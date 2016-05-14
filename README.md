@@ -353,6 +353,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Preston Mueller http://prestonmueller.com
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
+- Raghav Dua http://raghavdua.com
 - Raghav Sood http://raghavsood.com
 - Rajat Mehndiratta http://rajatmehndiratta.me
 - Raphael Rouvinov-Kats http://raphaelrk.com
