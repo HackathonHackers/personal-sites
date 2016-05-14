@@ -191,6 +191,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Harry Gogonis http://hgogonis.me
 - Harsh Vardhan http://royalharsh.github.io
 - Harshay Shah http://harshay.me
+- Harshit Budhraja http://harshitbudhraja.snustudents.in
 - Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
 - Henry Millison http://henrymillison.com

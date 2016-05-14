@@ -291,6 +291,7 @@ Hackathon Hackers' GitHub profiles
 - Harsh Vardhan https://github.com/royalharsh
 - Harshank Vengurlekar https://github.com/Harshank
 - Harshay Shah https://github.com/harshays
+- Harshit Budhraja https://github.com/harshitbudhraja
 - Harvey Chan https://github.com/ch4
 - Heather Huynh https://github.com/amphy
 - Henry Millison https://github.com/hmillison
