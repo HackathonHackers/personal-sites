@@ -80,6 +80,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Austin L. Chang http://www.austinlchang.com
+- Avijeet Sachdev http://avijeets.com
 - Ben Congdon http://benjamincongdon.me/
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
