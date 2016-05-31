@@ -501,6 +501,7 @@ Hackathon Hackers' GitHub profiles
 - Michael Ho Chum https://github.com/michaelchum
 - Michael Huang https://github.com/myh1000
 - Michael Hulet https://github.com/raysarebest
+- Michael Sung-Ho Park https://github.com/minimike511 
 - Michael Urich https://github.com/mike-u
 - Michael Williams https://github.com/draringi
 - Michael Zhang https://github.com/failedxyz
