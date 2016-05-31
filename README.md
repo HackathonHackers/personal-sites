@@ -277,7 +277,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Kyle Frost http://kylefrost.me
 - Kyle Johnson http://kylejson.com
 - Laurence Welch http://laurencewelch.com
-- Larry Boategn Asante http://larryasante.xyz
+- Larry Boateng Asante http://larryasante.xyz
 - Lawrence Lin Murata http://lawrencemurata.com/
 - Lex Alexander http://coderlex.com
 - Li Xuanji http://xuanji.li
