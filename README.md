@@ -329,6 +329,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Moshe Berman http://mosheberman.com
 - Mykayla Fernandes http://mfcecilia.co
 - Nakul Pathak http://nakulpathak.com
+- Naomi Pentrel http://naomi.codes/
 - Nate Levesque http://thenaterhood.com
 - Nate Owen http://nateo.co
 - Natu Myers http://natumyers.com
