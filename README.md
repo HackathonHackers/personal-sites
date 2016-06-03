@@ -450,6 +450,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ulises Giacoman http://udiscover.me
 - Usmann Khan http://usmann.me
 - Vaidas Mykolaitis http://www.codepreneur.io/
+- Vaibhav Maheshwari http://www.vaibhavgeek.me/
 - Vansh Gandhi http://vanshgandhi.com
 - Varun Rajendra Rajamane http://rajamane.io
 - Varun Shenoy http://varunshenoy.github.io/
