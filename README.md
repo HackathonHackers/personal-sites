@@ -207,6 +207,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ignacio Alonso http://ignacioalonso.me
 - Iheanyi Ekechukwu http://iheanyi.com
 - Isaac Gluck http://isaacgluck.com
+- Ishak Mahamoud https://kahsi.github.io/
 - Jack Korbin www.lykpic.com
 - Jack Lamberti http://jacklamberti.com
 - Jack McGrath http://handsome.rocks
