@@ -315,6 +315,7 @@ Hackathon Hackers' GitHub profiles
 - Iheanyi Ekechukwu https://github.com/iheanyi
 - IHorng Ren Huang https://github.com/horngep
 - Ilan Filondz https://github.com/ifilonenko
+- Ishak Mahamoud https://github.com/kahsi
 - Issam Bourai https://github.com/Starkiller99
 - Ivan Uvarov https://github.com/uvarovis
 - Jack Cook https://github.com/jackcook
