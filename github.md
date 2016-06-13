@@ -153,6 +153,7 @@ Hackathon Hackers' GitHub profiles
 - Chaitanya Joshi https://github.com/ckjoshi9
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
+- Charlie Kingston https://github.com/crkingston
 - Charlie Li https://github.com/vishwin
 - Chashmeet Singh https://github.com/chashmeetsingh
 - Cheng Peng https://github.com/chunky123
