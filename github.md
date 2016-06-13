@@ -338,6 +338,7 @@ Hackathon Hackers' GitHub profiles
 - Jamie Davies https://github.com/viralpickaxe
 - Jamone Kelly https://github.com/JamoneK
 - Janelle Hinds https://github.com/mobileappqueen
+- Janet Fang https://github.com/janetfang
 - Jared Moskowitz https://github.com/JaredMoskowitz
 - Jared Wright https://github.com/jawerty
 - Jared Zoneraich https://github.com/jzone3
