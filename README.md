@@ -59,6 +59,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
 - Ankit Sultana http://ankitsultana.me
+- Anurag Sharma http://aedorado.github.io/
 - Anthony Sistilli http://anthonysistilli.me
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
