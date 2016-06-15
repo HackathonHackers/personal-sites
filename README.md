@@ -59,13 +59,13 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
 - Ankit Sultana http://ankitsultana.me
-- Anurag Sharma http://aedorado.github.io/
 - Anthony Sistilli http://anthonysistilli.me
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
 - Anuraag Yachamaneni http://anuraag.me
 - Anurag Aryan http://anuragaryan.com
 - Anurag Banerjee http://anuragbanerjee.me
+- Anurag El Dorado http://aedorado.github.io/
 - Ari VanIderstine http://ariari.io
 - Arin Ray http://arinray.me
 - Arjun Bhatnagar http://arjunb.com
