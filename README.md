@@ -456,6 +456,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Tyler Peterson http://tylermarkpeterson.com
 - Ulises Giacoman http://udiscover.me
 - Usmann Khan http://usmann.me
+- Vaibhav Maheshwari http://www.vaibhavgeek.me/
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Vansh Gandhi http://vanshgandhi.com
 - Varun Rajendra Rajamane http://rajamane.io
