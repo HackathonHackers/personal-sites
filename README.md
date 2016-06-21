@@ -108,6 +108,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Cassidy Williams http://cassidoo.co
 - Chaitanya Joshi http://chaitanyajoshi.xyz
 - Chaoyi Zha http://cydrobolt.com
+- Charlie Kingston http://charliekingston.co.uk
 - Cheng Peng http://www.chengpeng.ca
 - Chinmaya Kr. Patanaik https://pattu777.github.io
 - Chirag Aggarwal http://www.chi6rag.net
