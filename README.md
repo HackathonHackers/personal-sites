@@ -65,6 +65,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anuraag Yachamaneni http://anuraag.me
 - Anurag Aryan http://anuragaryan.com
 - Anurag Banerjee http://anuragbanerjee.me
+- Anurag El Dorado http://aedorado.github.io/
 - Ari VanIderstine http://ariari.io
 - Arin Ray http://arinray.me
 - Arjun Bhatnagar http://arjunb.com
