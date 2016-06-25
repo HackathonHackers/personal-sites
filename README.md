@@ -265,6 +265,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Keaton Okkonen http://keatco.de
+- Kenneth Schnall https://kensch.com
 - Keon Kim http://keon.io
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Guh http://kevinguh.me
