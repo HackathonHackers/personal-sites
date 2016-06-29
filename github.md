@@ -799,6 +799,7 @@ Hackathon Hackers' GitHub profiles
 - William Jagels https://github.com/wijagels
 - William Wnękowicz https://github.com/flysonic10
 - William Woodruff https://github.com/woodruffw
+- Wilson Ding https://github.com/dingwilson
 - Wilson Mitchell https://github.com/mitchellw
 - Wilson Zhao https://github.com/wilzh40
 - Xiao He  https://github.com/Cigarent

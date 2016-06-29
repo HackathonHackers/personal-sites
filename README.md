@@ -478,6 +478,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - William Cockburn http://syrexide.com
 - William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
+- Wilson Ding http://wilsonding.com
 - Xiao He  http://xiaojunhe.com
 - Yask Srivastava http://iyask.me
 - Yasmeen Roumie https://y4smeen.github.io
