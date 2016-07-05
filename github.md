@@ -400,6 +400,7 @@ Hackathon Hackers' GitHub profiles
 - Joshua Drubin https://github.com/jdrub
 - Joyce Yan https://github.com/joyceyan
 - Juan Chomali https://github.com/jchomali
+- Julia Wong https://github.com/juliawong
 - Julien L https://github.com/26medias
 - Justin Bleuel http://www.columbia.edu/~jmb2372/
 - Justin Cano https://github.com/bumrush
