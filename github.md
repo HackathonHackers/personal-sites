@@ -10,6 +10,7 @@ Hackathon Hackers' GitHub profiles
 - Aasiruddin Walajahi https://github.com/Aasir
 - Aayush Ranaut https://github.com/aayushranaut
 - Abdullah Hashmi https://github.com/rtahir
+- Abhinav Kurada https://github.com/Akurada
 - Abhi Agarwal https://github.com/abhiagarwal
 - Abhinav Raghunathan https://github.com/abhir1212
 - Abhishek Mukherjee https://github.com/Abhimint
