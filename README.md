@@ -293,6 +293,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Liam Horne http://lihorne.com
 - Liam Rahav http://liamrahav.me
 - Liang Gao http://liang.gao.nyc
+- Lilas Dinh http://www.hatfolk.com
 - Long Tran http://ltran.co
 - Lovekesh Garg http://iamvoid13.github.io
 - Luka Marr http://lukamarr.github.io
