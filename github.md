@@ -418,6 +418,7 @@ Hackathon Hackers' GitHub profiles
 - Keaton Okkonen https://github.com/LovelyHorse
 - Keith Ryu https://github.com/kibaekr
 - Kendrick Ledet https://github.com/kennyledet
+- Kenneth Schnall https://github.com/kas
 - Kenny Song https://github.com/kennysong
 - Kevin Frans https://github.com/bobthechicken
 - Kevin Ji https://github.com/mc10
