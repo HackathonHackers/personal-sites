@@ -542,6 +542,7 @@ Hackathon Hackers' GitHub profiles
 - Nathan Moos https://github.com/moosingin3space
 - Nathaniel Lewis https://github.com/Teknoman117
 - Nathaniel Symer https://github.com/fhsjaagshs
+- Naveen Kumar Shukla https://github.com/naveenshukla
 - Nazim Amin https://github.com/NazimAmin
 - Neal Shyam https://github.com/nealrs
 - Neel Mouleeswaran https://github.com/neelcm
