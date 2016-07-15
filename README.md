@@ -345,6 +345,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nate Levesque http://thenaterhood.com
 - Nate Owen http://nateo.co
 - Natu Myers http://natumyers.com
+- Naveen Shukla http://naveenshukla.github.io
 - Neal Shyam http://nealshyam.com
 - Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
