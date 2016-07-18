@@ -302,7 +302,7 @@ Hackathon Hackers' GitHub profiles
 - Herin Kim https://github.com/herinkc
 - Hilal Habashi https://github.com/hilalh
 - Hima Tammineedi https://github.com/himat
-- Hiten Sharma http://htadg.github.io/
+- Hiten Sharma https://github.com/htadg
 - Hugh Rawlinson http://hraw.me
 - Humdaan Mustafa https://github.com/humishum
 - Hunter Larco https://github.com/hunterlarco
