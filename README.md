@@ -470,6 +470,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vetri Selvi Vairamuthu http://vetriselvi.com
 - Victor Danger Lourng http://victorlourng.com
 - Victor Zhou http://victorzhou.com
+- Vignesh M http://vigneshm.com/
 - Vikas Parashar http://vikasparashar.in/
 - Vikram Tiwari https://vikramtiwari.github.com
 - Vinay Hiremath http://vhiremath.com
