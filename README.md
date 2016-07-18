@@ -202,6 +202,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Harvey Chan http://harveychan.net/
 - Hayden Lee http://haydenlee.io/
 - Henry Millison http://henrymillison.com
+- Hiten Sharma http://htadg.github.io/
 - Hugh Rawlinson http://hughrawlinson.me/
 - Hunter Larco http://larcolabs.com
 - Hussain Abbas http://hussainabbas.com
