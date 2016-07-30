@@ -407,6 +407,7 @@ Hackathon Hackers' GitHub profiles
 - Justin Cano https://github.com/bumrush
 - Justin Chan https://github.com/justinthec
 - Justin Krup https://github.com/mazlix
+- Justin Kuang https://github.com/kuangjustin
 - Justin Paulin https://github.com/interwho
 - Justin Yang https://github.com/justinyangusa
 - Justine De Caires https://github.com/jdecked
@@ -510,7 +511,7 @@ Hackathon Hackers' GitHub profiles
 - Michael Ho Chum https://github.com/michaelchum
 - Michael Huang https://github.com/myh1000
 - Michael Hulet https://github.com/raysarebest
-- Michael Sung-Ho Park https://github.com/minimike511 
+- Michael Sung-Ho Park https://github.com/minimike511
 - Michael Urich https://github.com/mike-u
 - Michael Williams https://github.com/draringi
 - Michael Zhang https://github.com/failedxyz

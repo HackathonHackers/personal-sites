@@ -259,6 +259,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Justin Bleuel http://justinbleuel.github.io
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
+- Justin Kuang http://justinkuang.com
 - Justin Paulin http://justinpaulin.com
 - Justin Yang http://y4ng.com
 - Kamesh Vedula http://kameshvedula.com
