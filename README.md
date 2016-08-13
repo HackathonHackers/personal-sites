@@ -467,6 +467,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vansh Gandhi http://vanshgandhi.com
 - Varun Rajendra Rajamane http://rajamane.io
 - Varun Shenoy http://varunshenoy.github.io/
+- Vedant Rathore http://vedantrathore.github.io/
 - Vetri Selvi Vairamuthu http://vetriselvi.com
 - Victor Danger Lourng http://victorlourng.com
 - Victor Zhou http://victorzhou.com
