@@ -174,6 +174,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Liam Horne http://lihorne.com
 - Liang Gao http://liang.gao.nyc
 - Li Xuanji http://xuanji.li
+- Lizzie Siegle http://elizabethsiegle.github.io
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.me
 - Marco Bettiolo http://bettiolo.it
@@ -676,6 +677,7 @@ Hackathon Hackers' GitHub profiles
 - Liam Sargent https://github.com/themailman05
 - Liang Gao https://github.com/ricek
 - Liban Mohamed https://github.com/Libanthedev
+- Lizzie Siegle https://github.com/elizabethsiegle
 - Lucas Mullens https://github.com/lucasmullens
 - Lucy Guo https://github.com/loopyz
 - Luka Marčec https://github.com/LukaMarr
