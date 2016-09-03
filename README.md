@@ -24,6 +24,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Afonso Praça http://afonsopraca.com.br/
 - Ai Onda http://aicecream.com
 - AJ Norton http://ajnorton.com/
+- Ajay Jain https://initajay.me
 - Ajit Pawar http://pawar.ca/
 - Akash Patel http://akashp.co
 - Akhilesh Yarabarla http://yarabarla.com
