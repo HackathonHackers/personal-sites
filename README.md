@@ -395,6 +395,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
+- Rohan Varma http://rohan-varma.github.io
 - Rohan Yelsangikar http://royels.me
 - Rootul Patel http://rootulp.com/
 - Rosy Gupta http://rosygupta.github.io
