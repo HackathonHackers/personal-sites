@@ -771,6 +771,7 @@ Hackathon Hackers' GitHub profiles
 - Vaidas Mykolaitis https://github.com/codepreneur
 - Vansh Gandhi https://github.com/vanshg
 - Varatep Buranintu https://github.com/varatep
+- Vardhman Mehta https://github.com/vardhman1996
 - Varun Arora https://github.com/avarun42
 - Varun Rajamane https://github.com/zuron7
 - Varun Shenoy https://github.com/varunshenoy
