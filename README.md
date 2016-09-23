@@ -367,6 +367,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
+- Peter Leng http://peterleng.com/
 - Phil Efstathiou http://phil.ws/
 - Prabhakar Gupta http://www.prabhakargupta.com
 - Pradyuman Vig http://www.pradyumanvig.com
