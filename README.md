@@ -397,6 +397,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
 - Rohan Yelsangikar http://royels.me
+- Ronak Shah http://ronakshah.net
 - Rootul Patel http://rootulp.com/
 - Rosy Gupta http://rosygupta.github.io
 - Ruiqi Mao http://www.ruiqimao.com/
