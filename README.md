@@ -43,6 +43,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alston Lin http://alstonlin.io
 - Alvin Deng http://alvindeng.com/
 - Amar Prakash Pandey http://amarpandey.me
+- Amrit Singh http://singhamrit.me
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
