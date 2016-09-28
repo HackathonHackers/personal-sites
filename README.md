@@ -344,6 +344,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Mykayla Fernandes http://mfcecilia.co
 - Nakul Pathak http://nakulpathak.com
 - Naomi Pentrel http://naomi.codes/
+- Naresh R http://ghostwriternr.me/
 - Nate Levesque http://thenaterhood.com
 - Nate Owen http://nateo.co
 - Natu Myers http://natumyers.com
