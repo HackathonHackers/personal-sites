@@ -358,6 +358,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Niraj Pant http://niraj.io
 - Nishanth Shanmugham https://nishanths.github.io
 - Noah Hradek   http://noahhradek.me/
+- Noam Hacker http://noamhacker.com/
 - Noga Raviv http://nogaraviv.com
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
