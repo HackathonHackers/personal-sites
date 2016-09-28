@@ -303,7 +303,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.com
 - Manoj Nathwani http://manoj.ninja
-- Manoj Pandey http://manojp.co
+- Manoj Pandey http://manojpandey.me
 - Marco Bettiolo http://bettiolo.it
 - Maria Chavez http://mariachavez.co
 - Mark Diez http://markediez.me
