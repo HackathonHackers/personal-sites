@@ -57,6 +57,7 @@ Hackathon Hackers' GitHub profiles
 - Ali Afridi https://github.com/afridi2
 - Alvin Deng https://github.com/alvin319
 - Amanda Sullivan https://github.com/amandasullivan
+- Amrit Singh https://github.com/SuperHaker
 - Amyr Haq https://github.com/amyrhaq
 - Ananya Cleetus https://github.com/ananyacleetus
 - Anat Gilboa https://github.com/anatg
