@@ -381,6 +381,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Rashiq Ahmad http://rashiq.me
 - Ravin Sardal http://ravinsardal.me
 - Raviteja Lingineni http://rlingineni.me
+- Raymond Chung https://rchung95.github.io
 - Riccardo Mutschlechner http://cs.wisc.edu/~riccardo
 - Richard Chu http://churichard.me/
 - Richard Kraaijenhagen http://riichard.com/
