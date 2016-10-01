@@ -436,6 +436,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
+- Sophie Wang http://individual.utoronto.ca/channelSW/
 - Sourabh Shetty http://sourabh.io
 - Sricharan Chiruvolu http://sricharan.xyz
 - Srijay Kasturi http://techfilmer.com
