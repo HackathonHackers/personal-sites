@@ -324,6 +324,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Matthew Kaufer http://kaufer.org
 - Max Maybury http://maxjmay.co.uk
 - Max Shavrick http://mxms.pw
+- Meet Shah http://meetshah1995.github.io/
 - Megan Ruthven http://maruthven.com/
 - Michael Borohovski http://shanewilton.com
 - Michael Gonzales http://mkgo.co/

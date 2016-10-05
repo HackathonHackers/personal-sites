@@ -503,6 +503,7 @@ Hackathon Hackers' GitHub profiles
 - Max Shavrick https://github.com/Maximus-
 - Max Wofford https://github.com/MaxWofford
 - Mayank Mahajan https://github.com/mayankmahajan24
+- Meet Shah https://github.com/meetshah1995
 - Megan Chen https://github.com/gauss1181
 - Megan Ruthven https://github.com/maruthven
 - Mehak Vohra https://github.com/watthemehak
