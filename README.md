@@ -439,6 +439,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
+- Seng Zhao Too http://sengzhaotoo.github.io
 - Sergio Puleri http://spuleri.com/
 - Shaban Samani http://shabansamani.github.io
 - Shafqat Dulal http://sdulal.github.io
