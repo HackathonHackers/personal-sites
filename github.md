@@ -545,6 +545,7 @@ Hackathon Hackers' GitHub profiles
 - Najm Sheikh https://github.com/najubhai
 - Nakul Pathak https://github.com/nakulpathak3
 - Naman Patwari https://github.com/thenamanpat
+- Namit Juneja https://github.com/namitjuneja
 - Naomi Pentrel https://github.com/npentrel/
 - Naresh R https://github.com/ghostwriternr/
 - Nate Owen https://github.com/newOnahtaN
