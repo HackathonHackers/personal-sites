@@ -542,6 +542,7 @@ Hackathon Hackers' GitHub profiles
 - Nakul Pathak https://github.com/nakulpathak3
 - Naman Patwari https://github.com/thenamanpat
 - Naomi Pentrel https://github.com/npentrel/
+- Naresh R https://github.com/ghostwriternr/
 - Nate Owen https://github.com/newOnahtaN
 - Nathan Handler https://github.com/nhandler
 - Nathan Moos https://github.com/moosingin3space
