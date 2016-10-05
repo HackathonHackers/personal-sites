@@ -769,6 +769,7 @@ Hackathon Hackers' GitHub profiles
 - Tristan Rice https://github.com/d4l3k
 - Tristan Wiley https://github.com/TristanWiley
 - Tru Narla https://github.com/tnarla
+- Tu Tran https://github.com/tuvttran
 - Ty-Lucas Kelley https://github.com/tylucaskelley
 - Tyler Adams https://github.com/tjadams
 - Tyler Peterson https://github.com/Gingernaut
