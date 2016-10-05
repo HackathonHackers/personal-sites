@@ -656,6 +656,7 @@ Hackathon Hackers' GitHub profiles
 - Rohan Yelsangikar https://github.com/royels
 - Ron Bhatta https://github.com/aranibatta
 - Ronak Patel https://github.com/ronakp
+- Ronak Shah https://github.com/ronakdev
 - Rootul Patel https://github.com/rootulp
 - Ross Semenov https://github.com/rossem
 - Ruiqi Mao https://github.com/ruiqimao
