@@ -2,6 +2,7 @@ Hackathon Hackers' GitHub profiles
 ====================================
 
 - Aakash Japi https://github.com/logicx24
+- Aamir Ahmad https://github.com/aamirsahmad
 - Aaroh Mankad https://github.com/aarohmankad
 - Aaron Dancer https://github.com/aaron7pm
 - Aaron Gunderson https://github.com/agundy

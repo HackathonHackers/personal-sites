@@ -6,6 +6,7 @@ Sorted alphabetically by first name. To add yours, please see [the contributing 
 If you'd like to see GitHub profiles, [click here](github.md).
 
 - Aakash Japi http://aakashjapi.com/
+- Aamir Ahmad http://aamirahmad.me/
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
 - Aayush Ranaut http://aayush.net
