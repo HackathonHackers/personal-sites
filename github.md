@@ -479,6 +479,7 @@ Hackathon Hackers' GitHub profiles
 - Mahir Kothary https://github.com/mahirk
 - Manash Mandal https://github.com/manashmndl
 - Manraj Singh https://github.com/ManrajGrover
+- Manoj Pandey https://github.com/manojpandey
 - Marco Bettiolo https://github.com/bettiolo
 - Marius Sebastian Trif https://github.com/coolsebz
 - Mark Ormesher https://github.com/markormesher
