@@ -651,6 +651,7 @@ Hackathon Hackers' GitHub profiles
 - Rohan Mishra https://github.com/Meeshbhoombah
 - Rohan Shah https://github.com/rohan4
 - Rohan Shah https://github.com/Rohanyshah
+- Rohan Varma https://github.com/rohan-varma
 - Rohan Yelsangikar https://github.com/royels
 - Ron Bhatta https://github.com/aranibatta
 - Ronak Patel https://github.com/ronakp
