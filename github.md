@@ -631,6 +631,7 @@ Hackathon Hackers' GitHub profiles
 - Raspberry James https://github.com/jamesaanderson
 - Ravi Mandliya https://github.com/mandliya
 - Ravin Sardal https://github.com/randomite
+- Raymond Chung https://github.com/rchung95
 - Remy Goldschmidt https://github.com/taktoa
 - Riccardo Mutschlechner https://github.com/Ricky54326
 - Richard Chu https://github.com/churichard
