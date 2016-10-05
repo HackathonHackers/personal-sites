@@ -197,6 +197,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
 - Gurnoor Singh http://gurnoor.co
+- Gyan Lakhwani http://gyanl.github.io
 - Hamza Khan https://hamzakhan.org
 - Harris Christiansen http://harrischristiansen.com
 - Harry Gogonis http://hgogonis.me
