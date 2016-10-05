@@ -306,6 +306,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Lovekesh Garg http://iamvoid13.github.io
 - Luka Marr http://lukamarr.github.io
 - Mahir Kothary http://mahirk.com
+- Manash Mandal http://mandal.manash.me/
 - Manoj Nathwani http://manoj.ninja
 - Manoj Pandey http://manojpandey.me
 - Manraj Singh http://manrajsingh.in
