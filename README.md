@@ -181,7 +181,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Fan Zhang http://thefanzhang.com
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
-- Frank Cash http://hackerqueue.io
+- Frank Cash http://hackerqueue.herokuapp.com
 - Freddie Vargus http://fjv4.com
 - Gagik Movsisyan http://gagikm.com
 - Ganesh Swamypillai http://iotenthu.com
@@ -518,7 +518,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Yusif Alizada http://yusifalizada.com
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
-- Zach Price http://zachmprice.com/
 - Zachary Espiritu http://zacharyespiritu.com
 - Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
