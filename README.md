@@ -168,7 +168,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dylan McIntyre http://dmcintyre.net
 - Eli White http://eli-white.com
 - Elissa Shevinsky http://elissashevinsky.com
-- Emily Tran http://emilytran.org
 - Eric Bachmeier http://ericbachmeier5.github.io
 - Eric Lee http://thecreedo.github.io
 - Eric Song http://ericsong.io
