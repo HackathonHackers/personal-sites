@@ -432,6 +432,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sang Han http://sanghan.me
 - Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
+- Sanyam Khurana http://www.SanyamKhurana.com
 - Savanna Baxter https://srbaxter.github.io/
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
