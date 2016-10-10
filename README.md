@@ -450,6 +450,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shashank Saxena http://shashanksaxena.me/
 - Sheikh Araf http://sheikharaf.me/
 - Shikib Mehri http://shikib.ca/
+- Shivam Sharma http://shivams334.noads.biz/
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
