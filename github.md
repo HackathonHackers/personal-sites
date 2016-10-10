@@ -357,6 +357,7 @@ Hackathon Hackers' GitHub profiles
 - Jason Park https://github.com/parkjs814
 - Jason Stillerman https://github.com/jstillerman
 - Jatin Pandey https://github.com/jatinpandey
+- Javier Taylor https://github.com/javiertaylor
 - Jawad Nasser https://github.com/jawadmn
 - Jax Reiff https://github.com/jaxuru
 - Jaxon Stevens https://github.com/LemonaInc
