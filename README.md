@@ -512,6 +512,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Wilson Ding http://wilsonding.com
 - Xiao He  http://xiaojunhe.com
 - Yask Srivastava http://iyask.me
+- Yasha Mostofi http://www.yashamostofi.com/
 - Yasmeen Roumie https://y4smeen.github.io
 - Yatin Gupta http://www.yatingupta.me/
 - Yefim Vedernikoff http://yef.im
