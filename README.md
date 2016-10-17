@@ -7,6 +7,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 
 - Aakash Japi http://aakashjapi.com/
 - Aamir Ahmad http://aamirahmad.me/
+- Aashni Shah http://aashni.me
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
 - Aayush Ranaut http://aayush.net
