@@ -31,6 +31,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Akhilesh Yarabarla http://yarabarla.com
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akulmehra.me/
+- Alaina Kafkes http://alainakafk.es
 - Alan Chen http://alanchen.co
 - Alberto Villalobos http://albertovillalobos.me/
 - Alec Robins http://www.alecrobins.me/
