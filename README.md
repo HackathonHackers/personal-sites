@@ -466,6 +466,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sricharan Chiruvolu http://sricharan.xyz
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
+- Srinivaas Sekaran https://ssrinivaas.github.io/
 - Stephan Boyer http://www.stephanboyer.com
 - Stephen Chen http://stephenc.me/
 - Stephen Greco https://sgre.co/
