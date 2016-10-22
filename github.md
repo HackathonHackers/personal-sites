@@ -330,6 +330,7 @@ Hackathon Hackers' GitHub profiles
 - Jack Cook https://github.com/jackcook
 - Jack Fischer https://github.com/jackfischer
 - Jack Korbin https://github.com/jackkorbin
+- Jack Lamberti https://github.com/jamlamberti
 - Jack Wearden https://github.com/NotBobTheBuilder
 - Jackie Zhang https://github.com/jzjzme
 - Jacob Banks https://github.com/Jacobanks
