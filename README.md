@@ -456,6 +456,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sheikh Araf http://sheikharaf.me/
 - Shikib Mehri http://shikib.ca/
 - Shivam Sharma http://shivams334.noads.biz/
+- Shin Wang http://www.shinwang.us
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
