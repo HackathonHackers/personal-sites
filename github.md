@@ -750,6 +750,7 @@ Hackathon Hackers' GitHub profiles
 - Spencer Yen https://github.com/spenciefy
 - Srijay Kasturi https://github.com/sckasturi
 - Srikar Gudipati https://github.com/srikarg
+- Srinivaas Sekaran https://github.com/ssrinivaas
 - Stanley Zheng https://github.com/stanzheng
 - Stefan Aleksić https://github.com/coldsauce
 - Stephan Boyer https://github.com/boyers
