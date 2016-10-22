@@ -143,6 +143,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dan Zhang www.danzhang.net
 - Dana Lee http://danagilliann.me/
 - Daniel C. Eckert http://drakontas.org
+- Daniel Hsing https://arthelon.github.io
 - Daniyar Yeralin http://yeralin.net
 - Danya Baron http://www.danyabaron.com/
 - Darion Cassel http://darioncassel.me
