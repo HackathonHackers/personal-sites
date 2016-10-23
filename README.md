@@ -378,6 +378,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ore Aleb http://oreoluwa.me/
 - Palash Chatterjee https://pecey.github.io
 - Panashe Mahachi http://pkm.me
+- Pandelis Zembashis http://pandelis.me
 - Parth Mehrotra http://parthmehrotra.com
 - Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Paul Krishnamurthy http://paulkr.com
