@@ -126,6 +126,7 @@ Hackathon Hackers' GitHub profiles
 - Bernice Go http://github.com/bernicewygo
 - Berwin Xie https://github.com/berwin7996
 - Bilawal Hameed https://github.com/bih
+- Bo Pace https://github.com/bopace
 - Bob Timm https://github.com/bajabob
 - Bogdan Mazoure https://github.com/ArtificialBreeze
 - Brandon Amos https://github.com/bamos
