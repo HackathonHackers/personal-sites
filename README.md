@@ -20,7 +20,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ai Onda http://aicecream.com
 - AJ Norton http://ajnorton.com/
 - Akshay Dixit http://akshaydixi.me
-- Akul Mehra http://akulmehra.me/
+- Akul Mehra http://akul.me/
 - Alec Robins http://www.alecrobins.me/
 - Alex Cory http://alexcory.com
 - Alex Koshy http://koshy.co/
