@@ -526,7 +526,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Xiao He  http://xiaojunhe.com
 - Yask Srivastava http://iyask.me
 - Yasha Mostofi http://www.yashamostofi.com/
-- Yasmeen Roumie https://y4smeen.github.io
+- Yasmeen Roumie http://roumie.me
 - Yatin Gupta http://www.yatingupta.me/
 - Yefim Vedernikoff http://yef.im
 - Yusif Alizada http://yusifalizada.com
