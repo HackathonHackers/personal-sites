@@ -256,6 +256,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Shail Shetye http://www.shailshetye.com/
 - Shane DeWael http://shanedewael.com/
 - Shy Ruparel http://ruparel.co
+- Sonny Lazuardi http://sonnylab.com
 - Srijay Kasturi http://techfilmer.com
 - Srikar Gudipati http://srikarg.github.io/
 - Stephan Boyer http://www.stephanboyer.com
@@ -900,6 +901,7 @@ Hackathon Hackers' GitHub profiles
 - Simon Anatole Orlovsky https://github.com/simonorlovsky
 - Simran Preet Singh https://github.com/simransdsu
 - Sohaib Syed https://github.com/sohaibsyed95
+- Sonny Lazuardi https://github.com/sonnylazuardi
 - Spencer Yen https://github.com/spenciefy
 - Srijay Kasturi https://github.com/sckasturi
 - Srikar Gudipati https://github.com/srikarg
