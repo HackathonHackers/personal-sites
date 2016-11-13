@@ -763,6 +763,7 @@ Hackathon Hackers' GitHub profiles
 - Steve Noonan https://github.com/airmanopus
 - Steven Bock https://github.com/dabockster
 - Sudarshan Muralidhar https://github.com/sudssm
+- Suhith Rajesh https://github.com/suhithr
 - Sujith Vishwajith https://github.com/sujithv28
 - Sumanth Reddy Pandugula https://github.com/summyfeb12
 - Suril Shah https://github.com/Suril-Shah

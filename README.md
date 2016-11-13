@@ -478,6 +478,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Steven Bock http://stevenbock.me
 - Su Min Kim http://suminkim.me/
 - Sudarshan Muralidhar http://smuralidhar.com
+- Suhith Rajesh http://suhith.com
 - Sumanth Reddy Pandugula http://summyfeb12.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Suyash Lakhotia http://suyashlakhotia.com
