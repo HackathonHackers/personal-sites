@@ -370,6 +370,7 @@ Hackathon Hackers' GitHub profiles
 - Jaylen Wimbish https://github.com/jaylenw
 - Jeffrey Lin https://github.com/linjeffrey
 - Jennifer Apacible https://github.com/japacible
+- Jennifer Tran https://github.com/jennifertran
 - Jeremy Meyer https://github.com/jjman505
 - Jerica Huang https://github.com/jericahuang
 - Jeroen Goossens https://github.com/penguinologist
