@@ -574,6 +574,7 @@ Hackathon Hackers' GitHub profiles
 - Nick Poelma https://github.com/nwplayer123
 - Nick Sahler https://github.com/nicksahler
 - Nick Sargente https://github.com/primis
+- Nick Zuber https://github.com/nickzuber
 - Nicky Semenza https://github.com/nickysemenza
 - Nico Hinderling https://github.com/nicohinderling
 - Nicole Flokos https://github.com/silicarich
