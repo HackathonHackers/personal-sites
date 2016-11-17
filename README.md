@@ -48,6 +48,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alvin Deng http://alvindeng.com/
 - Amar Prakash Pandey http://amarpandey.me
 - Amrit Singh http://singhamrit.me
+- Anantha Natarajan S http://ananth.co.in
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
