@@ -815,7 +815,7 @@ Hackathon Hackers' GitHub profiles
 - Vignesh M https://github.com/vigzmv
 - Vikas Parashar https://github.com/vikas-parashar
 - Vikrem https://github.com/vikrem
-- Vinay Hiremath https://github.com/vinay427
+- Vinay Hiremath https://github.com/vinayh
 - Vinayak Mehta https://github.com/vortex-ape
 - Vincent Yang https://github.com/YangVincent
 - Viraj Bhalara https://github.com/virajbhalala

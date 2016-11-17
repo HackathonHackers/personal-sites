@@ -511,7 +511,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vignesh M http://vigneshm.com/
 - Vikas Parashar http://vikasparashar.in/
 - Vikram Tiwari https://vikramtiwari.github.com
-- Vinay Hiremath http://vhiremath.com
+- Vinay Hiremath https://vinayh.com
 - Vinayak Mehta http://vortex-ape.github.io
 - Vincent Yang https://vincentyang.me
 - Vipin Sharma  http://vipinsharma.me
