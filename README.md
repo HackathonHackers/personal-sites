@@ -443,6 +443,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sanyam Khurana http://www.SanyamKhurana.com
 - Savanna Baxter https://srbaxter.github.io/
+- Scott Street http://spru.sr/
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
