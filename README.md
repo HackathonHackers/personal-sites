@@ -277,6 +277,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Kamesh Vedula http://kameshvedula.com
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
+- Karan Sharma http://karansh.me/
 - Karel Vuong http://karel.ca
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com

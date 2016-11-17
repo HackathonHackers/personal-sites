@@ -423,6 +423,7 @@ Hackathon Hackers' GitHub profiles
 - Juvoni Beckford https://github.com/juvoni
 - Kamesh Vedula https://github.com/kvedula
 - Karan Goel https://github.com/karan
+- Karan Sharma https://github.com/mr-karan
 - Karl Coelho https://github.com/karlcoelho
 - Karthikeyan NG https://github.com/intrepidkarthi
 - Kaushal Parikh https://github.com/kaushal
