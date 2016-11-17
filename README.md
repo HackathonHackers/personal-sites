@@ -352,6 +352,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Mitchell Gordon http://mitchgordon.me
 - Mohaimin Al Aoun http://mohaiminalaoun.github.io
 - Mohammed Aqeel Gaggutur http://mgaggutur.me
+- Mohd Maqbool Alam http://www.maqbool.net
 - Mohan Pawar http://mohan08p.strikingly.com/
 - Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
