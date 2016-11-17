@@ -369,6 +369,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nelson Gomez http://ngomez.me
 - Nelson Liu http://nelsonliu.me
 - Nicholas Brown http://kompulsa.com
+- Nick Zuber https://nickzuber.com
 - Nico Hindering http://nicohinderling.me
 - Nimit Kalra http://nimit.io
 - Niraj Pant http://niraj.io
