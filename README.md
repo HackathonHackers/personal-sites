@@ -382,6 +382,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Panashe Mahachi http://pkm.me
 - Pandelis Zembashis http://pandelis.me
 - Parth Mehrotra http://parthmehrotra.com
+- Pat Myron http://patmyron.com
 - Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
