@@ -267,6 +267,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jordan Arnesen www.byjor.com
 - Joseph Khawly http://josephkhawly.com/
 - Joseph Milla https://josephmilla.com/
+- Joseph Pena https://josephpena.me/
 - Josh Snider https://www.joshuasnider.com/
 - Joshua Cockrell http://joshuakcockrell.com/
 - Juan Chomali http://jchomali.com
