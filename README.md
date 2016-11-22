@@ -102,7 +102,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Bill Guo http://billguocheng.com
 - Bo Pace http://bopace.com
 - Brandon Amos http://bamos.github.io
-- Brandon Davis http://redspin.net
+- Brandon Davis http://subdavis.com
 - Brandon Truong http://hello.brandontruong.com
 - Brendan Ryan http://brendanjryan.com/
 - Brent Bovenzi http://bbovenzi.com/
