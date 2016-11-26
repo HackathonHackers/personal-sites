@@ -94,6 +94,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Avijeet Sachdev http://avijeets.com
 - Ayush Singh http://ayush1997.github.io
 - Ben Congdon http://benjamincongdon.me/
+- Ben Johnston https://benjdj6.github.io
 - Ben Stobaugh http://helloben.co
 - Ben Weinstein-Raun http://www.benwr.net
 - Ben Williams http://719Ben.com
