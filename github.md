@@ -221,6 +221,7 @@ Hackathon Hackers' GitHub profiles
 - Derrick Duncan https://github.com/coderrick
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
+- Devin Soni https://github.com/100
 - Devon Ngo https://github.com/devonngo
 - Dhiraj Bodicherla https://github.com/dhirajbodicherla
 - Dhruv Arora https://github.com/dhruvarora
