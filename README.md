@@ -198,6 +198,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Gangeshwar Krishnamurthy http://gangeshwark.com/
 - Gary-Yau Chan http://garyyauchan.com
 - Gautam Mittal http://www.gautam.cc
+- Gautham Santhosh https://gauthamzz.github.io
 - George Lee http://georgel.ee
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
