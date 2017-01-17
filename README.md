@@ -461,6 +461,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Selynna Sun http://selynnasun.me
 - Seng Zhao Too http://sengzhaotoo.github.io
 - Sergio Puleri http://spuleri.com/
+- Shaashwat Sharma http://shaashwat.co.nf
 - Shaban Samani http://shabansamani.github.io
 - Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
