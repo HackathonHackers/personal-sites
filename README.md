@@ -501,6 +501,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Vansh Gandhi http://vanshgandhi.com
 - Vardhman Mehta http://mehtav.xyz
+- Varun Kumar https://heysadboy.github.io/
 - Varun Rajendra Rajamane http://rajamane.io
 - Varun Shenoy http://varunshenoy.github.io/
 - Vedant Rathore http://vedantrathore.github.io/
