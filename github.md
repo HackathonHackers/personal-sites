@@ -113,6 +113,7 @@ Hackathon Hackers' GitHub profiles
 - Ashwin Kachhara https://github.com/ashwinkachhara
 - Austin Feight https://github.com/Feighter09
 - Austin L. Chang https://github.com/austinlchang
+- Avijeet Gupta https://github.com/avijeet95
 - Avijeet Sachdev https://github.com/avijeets
 - Ayush Singh https://github.com/ayush1997
 - Azam Abdulkadir https://github.com/AzamAbdul
