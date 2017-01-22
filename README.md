@@ -373,6 +373,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Natu Myers http://natumyers.com
 - Naveen Shukla http://naveenshukla.github.io
 - Neal Shyam http://nealshyam.com
+- Neeraj Aggarwal http://neerajaggarwal.com
 - Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
 - Nelson Liu http://nelsonliu.me
