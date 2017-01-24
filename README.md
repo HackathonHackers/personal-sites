@@ -447,6 +447,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sameer Khoja http://sameerkhoja.com
+- Samay Shamdasani https://shamdasani.org
 - Sanil Chawla http://sanil.co/
 - Sang Han http://sanghan.me
 - Sanjeev S Nair http://www.sanjeevs.net/
