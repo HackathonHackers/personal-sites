@@ -452,6 +452,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sanyam Khurana http://www.SanyamKhurana.com
+- Saurabhkumar Marpadge https://saurabhmarpadge.github.io/
 - Savanna Baxter https://srbaxter.github.io/
 - Scott Street http://spru.sr/
 - Sean Goodrich http://www.smgoodrich.com/
