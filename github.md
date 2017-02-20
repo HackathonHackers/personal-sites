@@ -98,6 +98,7 @@ Hackathon Hackers' GitHub profiles
 - Anuraag Yachamaneni https://github.com/hackathoner
 - Anurag Aryan https://github.com/anuragaryan
 - Anurag Banerjee https://github.com/anurag-banerjee
+- Aparajithan Venkateswaran https://github.com/AparaV
 - Areeb Khan https://github.com/ask616
 - Ari VanIderstine https://github.com/arirawr
 - Arin Ray https://github.com/arin-ray
