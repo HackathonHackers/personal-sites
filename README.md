@@ -365,6 +365,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Moshe Berman http://mosheberman.com
 - Mykayla Fernandes http://mfcecilia.co
 - Nakul Pathak http://nakulpathak.com
+- Naman Maheshwari http://www.namanmaheshwari.com/
 - Namit Juneja http://namitjuneja.com
 - Naomi Pentrel http://naomi.codes/
 - Naresh R http://ghostwriternr.me/
