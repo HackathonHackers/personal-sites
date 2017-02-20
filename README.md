@@ -17,6 +17,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
+- Adam Circle https://www.adamcircle.com
 - Adam Hamot http://zamn.net
 - Adam McNeilly http://adammcneilly.com
 - Adil Ansari http://ansari.io
