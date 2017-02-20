@@ -563,6 +563,7 @@ Hackathon Hackers' GitHub profiles
 - Nathaniel Lewis https://github.com/Teknoman117
 - Nathaniel Symer https://github.com/fhsjaagshs
 - Naveen Shukla https://github.com/naveenshukla
+- Navraj Narula https://github.com/navierula
 - Nazim Amin https://github.com/NazimAmin
 - Neal Shyam https://github.com/nealrs
 - Neel Mouleeswaran https://github.com/neelcm
