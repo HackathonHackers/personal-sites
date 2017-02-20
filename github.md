@@ -669,6 +669,7 @@ Hackathon Hackers' GitHub profiles
 - Robert Rouhani https://github.com/Robmaister
 - Robert Xu https://github.com/robxu9
 - Robin van Wijngaarden https://github.com/robinvw1
+- Robin Wakeman https://github.com/robinwakeman
 - Rodrigo Argumedo https://github.com/rodrigoargumedo
 - Roel Castaño https://github.com/RoelCastano
 - Roger Zou https://github.com/rogergzou
