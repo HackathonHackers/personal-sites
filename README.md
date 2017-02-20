@@ -483,6 +483,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sharon Lin http://sharonlin.me
 - Shashank Saxena http://shashanksaxena.me/
 - Sheikh Araf http://sheikharaf.me/
+- Shibasis Patel http://shibasisp.github.io/
 - Shikib Mehri http://shikib.ca/
 - Shivam Sharma http://shivams334.noads.biz/
 - Shin Wang http://www.shinwang.us
