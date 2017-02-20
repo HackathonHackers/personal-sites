@@ -75,6 +75,7 @@ Hackathon Hackers' GitHub profiles
 - Andrew Li https://github.com/southrop
 - Andrew Schreiber https://github.com/andrewschreiber
 - Andrew Tam https://github.com/ahndrewtam
+- Andrew Wong https://github.com/andrewwong97
 - Andrew Yang https://github.com/andrewyang96
 - Andy Fang https://github.com/AndyF
 - Andy Kamath https://github.com/andykamath

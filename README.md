@@ -65,6 +65,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Tam http://ahndrewtam.me
 - Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://andykamath.com
+- Andrew Wong http://andrewwong.xyz/
 - Andy Wong http://andy-wong.ca
 - Anirudh Goel http://anirudhgoel.me
 - Ankit Agrawal http://ankitmaverick.com
