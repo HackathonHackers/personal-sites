@@ -46,6 +46,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alexander Mistakidis http://aamistak.me
 - Alston Lin http://alstonlin.io
 - Alvin Deng http://alvindeng.com/
+- Aman Roy http://amanroy.me
 - Amar Prakash Pandey http://amarpandey.me
 - Amrit Singh http://singhamrit.me
 - Anantha Natarajan S http://ananth.co.in
