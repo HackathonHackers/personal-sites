@@ -464,6 +464,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sanyam Khurana http://www.SanyamKhurana.com
 - Saurabhkumar Marpadge https://saurabhmarpadge.github.io/
 - Savanna Baxter https://srbaxter.github.io/
+- Scott Mangiapane https://scottmangiapane.com
 - Scott Street http://spru.sr/
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
