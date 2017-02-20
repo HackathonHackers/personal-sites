@@ -91,6 +91,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashpan Raskar http://ashpanraskar.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
+- Aury Bwashi http://aurybwashi.me
 - Austin L. Chang http://www.austinlchang.com
 - Avijeet Gupta http://avijeetgupta.me/
 - Avijeet Sachdev http://avijeets.com
