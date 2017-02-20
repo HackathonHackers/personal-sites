@@ -681,6 +681,7 @@ Hackathon Hackers' GitHub profiles
 - Rohan Varma https://github.com/rohan-varma
 - Rohan Yelsangikar https://github.com/royels
 - Ron Bhatta https://github.com/aranibatta
+- Ron Wright https://github.com/logiconcepts819
 - Ronak Patel https://github.com/ronakp
 - Ronak Shah https://github.com/ronakdev
 - Rootul Patel https://github.com/rootulp
