@@ -335,6 +335,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Mark Diez http://markediez.me
 - Mark Ormesher https://www.markormesher.co.uk/
 - Markan Patel http://markanpatel.me
+- Marko Jovanovic http://fr1sk.github.io/
 - Martin Petkov http://www.martinpetkov.me/
 - Masoud Harati https://masoudh.ml
 - Matheus C. Candido http://cassiano.me
