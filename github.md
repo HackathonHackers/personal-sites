@@ -441,6 +441,7 @@ Hackathon Hackers' GitHub profiles
 - Kendrick Ledet https://github.com/kennyledet
 - Kenneth Schnall https://github.com/kas
 - Kenny Song https://github.com/kennysong
+- Kevin Beaulieu https://github.com/kevinmbeaulieu
 - Kevin Frans https://github.com/bobthechicken
 - Kevin Ji https://github.com/mc10
 - Kevin Path https://github.com/kpath001

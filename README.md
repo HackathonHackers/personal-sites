@@ -296,6 +296,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Keaton Okkonen http://keatco.de
 - Kenneth Schnall https://kensch.com
 - Keon Kim http://keon.io
+- Kevin Beaulieu http://www.kevinmbeaulieu.com
 - Kevin Frans http://www.kevinfrans.com
 - Kevin Guh http://kevinguh.me
 - Kevin Ji http://kevinji.com
