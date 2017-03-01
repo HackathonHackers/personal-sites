@@ -555,7 +555,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - William Huang http://www.hellowilliam.com
 - William Woodruff http://woodruffw.us
 - Wilson Ding http://wilsonding.com
-- Winson Luk http://www.wluk.me
+- Winson Luk http://www.winsonluk.com
 - Xiao He  http://xiaojunhe.com
 - Yask Srivastava http://iyask.me
 - Yasha Mostofi http://www.yashamostofi.com/
