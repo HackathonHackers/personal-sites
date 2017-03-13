@@ -343,7 +343,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Matt Condon http://matt.cond.in
 - Matthew Allen http://matthewallen.xyz/
 - Matthew Bell https://mbell.me/
-- Matthew Bentley https://mtbentley.us
+- Matthew Bentley https://bentley.link/
 - Matthew Bucci http://matthewbucci.com
 - Matthew Kaiser http://mkaiser.io
 - Matthew Kaufer http://kaufer.org
