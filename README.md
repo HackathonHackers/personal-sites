@@ -35,6 +35,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Akul Mehra http://akul.me/
 - Alaina Kafkes http://alainakafk.es
 - Alan Chen http://alanchen.co
+- Albert Untung http://albert.wtf
 - Alberto Villalobos http://albertovillalobos.me/
 - Alec Robins http://www.alecrobins.me/
 - Alejandro Rioja http://alejandrorioja.com
