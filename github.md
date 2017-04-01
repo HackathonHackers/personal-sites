@@ -597,6 +597,7 @@ Hackathon Hackers' GitHub profiles
 - Nishil Shah https://github.com/nishilshah17
 - Nithi Narayanan https://github.com/nithi001
 - Noah Hradek https://github.com/nhrade/
+- Noam Hacker https://github.com/noamhacker
 - Noga Raviv https://github.com/nogaraviv
 - Numaer Zaker https://github.com/numaer
 - Oindril Dutta https://github.com/duttaoindril
