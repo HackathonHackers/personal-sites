@@ -471,6 +471,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
+- Sean Smith http://seanssmith.me
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
 - Seng Zhao Too http://sztoo.github.io
