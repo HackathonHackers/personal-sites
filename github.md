@@ -132,6 +132,7 @@ Hackathon Hackers' GitHub profiles
 - Benjamin Yin https://github.com/precociouslydigital
 - Bernice Go http://github.com/bernicewygo
 - Berwin Xie https://github.com/berwin7996
+- Bevis Halsey-Perry https://github.com/bevishalperry
 - Bilawal Hameed https://github.com/bih
 - Bo Pace https://github.com/bopace
 - Bob Timm https://github.com/bajabob

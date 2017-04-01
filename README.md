@@ -105,6 +105,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ben Williams http://719Ben.com
 - Bernice Go http://bernicewygo.github.io
 - Berwin Xie http://berwin.io
+- Bevis Halsey-Perry http://bevis.io
 - Bilal Majeed http://bilalmajeed.com
 - Bill Guo http://billguocheng.com
 - Bo Pace http://bopace.com
