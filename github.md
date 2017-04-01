@@ -715,6 +715,7 @@ Hackathon Hackers' GitHub profiles
 - Sam Daitzman https://sdaitzman.github.io
 - Sam Kantor https://github.com/S-Kantor
 - Sam Redmond https://github.com/sredmond
+- Sam Kantor https://github.com/S-Kantor
 - Samarth Sandeep https://github.com/gravityshouldbenaut
 - Samay Shamdasani https://github.com/samayshamdasani
 - Sameer Khoja https://github.com/samkho10/
