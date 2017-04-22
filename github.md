@@ -61,6 +61,7 @@ Hackathon Hackers' GitHub profiles
 - Amanda Sullivan https://github.com/amandasullivan
 - Aman Roy https://github.com/aman-roy
 - Amrit Singh https://github.com/SuperHaker
+- Amit Kumar Jaiswal https://amitkumarj441.github.io
 - Amyr Haq https://github.com/amyrhaq
 - Anantha Natarajan S https://github.com/sananth12
 - Ananya Cleetus https://github.com/ananyacleetus
