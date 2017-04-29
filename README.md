@@ -549,6 +549,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vishnu Ks http://vishnuks.com
 - Vishnu Narang http://vishnun.github.io
 - Vishnu Ravi http://vishnu.io/
+- Vivek Vaidya https://vivekvaidya.me/
 - Wasim Thabraze http://thabraze.me
 - Will Field-Thompson http://willft.io
 - William Cockburn http://syrexide.com
