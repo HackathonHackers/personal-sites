@@ -30,6 +30,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ajay Jain https://initajay.me
 - Ajit Pawar http://pawar.ca/
 - Akash Patel http://akashp.co
+- [Akash Tandon](http://github.com/analyticalmonk) http://akashtandon.com
 - Akhilesh Yarabarla http://yarabarla.com
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akul.me/
