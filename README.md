@@ -49,6 +49,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alvin Deng http://alvindeng.com/
 - Aman Roy http://amanroy.me
 - Amar Prakash Pandey http://amarpandey.me
+- Amit Chaudhary https://amitness.com
 - Amrit Singh http://singhamrit.me
 - Anantha Natarajan S http://ananth.co.in
 - Anat Gilboa http://anat.me
