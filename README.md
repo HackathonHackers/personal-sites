@@ -116,6 +116,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Brian Chu www.brianchu.com
 - Brian Chuk http://devchuk.github.io/
 - Brijesh Patel https://about.me/brijeshpatel9
+- Brock Whittaker http://www.lavancier.com/
 - Britt Mathis http://bmuk.io
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
