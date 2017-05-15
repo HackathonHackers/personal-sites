@@ -311,6 +311,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Krish Munot http://krishmunot.github.io/
 - Krishn Ramesh http://krishn.me
 - Kristian Sooklal http://kristiansooklal.me
+- Kumar Anirudha http://anirudha.org
 - Kyle Frost http://kylefrost.me
 - Kyle Johnson http://kylejson.com
 - Larry Boateng Asante http://larryasante.xyz
