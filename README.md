@@ -388,6 +388,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nicholas Brown http://kompulsa.com
 - Nick Zuber https://nickzuber.com
 - Nico Hindering http://nicohinderling.me
+- Nikhita Raghunath https://nikhita.github.io
 - Nimit Kalra http://nimit.io
 - Niraj Pant http://niraj.io
 - Nishanth Shanmugham https://nishanths.github.io

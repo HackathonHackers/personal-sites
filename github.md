@@ -589,6 +589,7 @@ Hackathon Hackers' GitHub profiles
 - Nikhil Buduma https://github.com/darksigma
 - Nikhil Gupta https://github.com/nkgupta1
 - Nikhil Srinivasan https://github.com/nikhilsrinivasan
+- Nikhita Raghunath https://github.com/nikhita
 - Nikolay Yuriyevich Feldman https://github.com/codeniko
 - Nimit Kalra https://github.com/qw3rtman
 - Niraj Pant https://github.com/xasos
