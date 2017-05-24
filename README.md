@@ -64,6 +64,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Q Tran http://andrewqtran.com
 - Andrew Tam http://ahndrewtam.me
 - Andrew Yang http://andrewyang.xyz/
+- Andy Chen https://amazingandyyy.github.io/
 - Andy Kamath http://andykamath.com
 - Andrew Wong http://andrewwong.xyz/
 - Andy Wong http://andy-wong.ca
