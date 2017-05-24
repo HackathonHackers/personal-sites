@@ -17,6 +17,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
+- Adam Circle https://www.adamcircle.com
 - Adam Hamot http://zamn.net
 - Adam McNeilly http://adammcneilly.com
 - Adil Ansari http://ansari.io
@@ -46,6 +47,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alexander Mistakidis http://aamistak.me
 - Alston Lin http://alstonlin.io
 - Alvin Deng http://alvindeng.com/
+- Aman Roy http://amanroy.me
 - Amar Prakash Pandey http://amarpandey.me
 - Amrit Singh http://singhamrit.me
 - Anantha Natarajan S http://ananth.co.in
@@ -63,6 +65,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andrew Tam http://ahndrewtam.me
 - Andrew Yang http://andrewyang.xyz/
 - Andy Kamath http://andykamath.com
+- Andrew Wong http://andrewwong.xyz/
 - Andy Wong http://andy-wong.ca
 - Anirudh Goel http://anirudhgoel.me
 - Ankit Agrawal http://ankitmaverick.com
@@ -75,6 +78,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anurag Aryan http://anuragaryan.com
 - Anurag Banerjee http://anuragbanerjee.me
 - Anurag El Dorado http://aedorado.github.io/
+- Aparajithan Venkateswaran http://aparav.github.io/
 - Ari VanIderstine http://ariari.io
 - Arin Ray http://arinray.me
 - Arjun Bhatnagar http://arjunb.com
@@ -89,6 +93,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashpan Raskar http://ashpanraskar.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
+- Aury Bwashi http://aurybwashi.me
 - Austin L. Chang http://www.austinlchang.com
 - Avijeet Gupta http://avijeetgupta.me/
 - Avijeet Sachdev http://avijeets.com
@@ -156,6 +161,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
 - Darren Tu http://darrentu.github.io
+- Dave Scott McCarthy https://aslittledesign.com
 - Dave Fontenot http://davefont.com
 - David Awad http://davidawad.github.io
 - David BasedMathematician Coven http://davidcoven.me
@@ -164,7 +170,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David Meza http://www.davidmeza.us
 - Deepak Pathania http://deepakpathania.github.io
 - Derek Hua http://derekhua.me
-- Devin Soni http://d-soni.github.io/
+- Devin Soni http://100.github.io/
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
 - Dhruv Ramani https://dhruvramani.github.io/
@@ -198,6 +204,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Gangeshwar Krishnamurthy http://gangeshwark.com/
 - Gary-Yau Chan http://garyyauchan.com
 - Gautam Mittal http://www.gautam.cc
+- Gautham Santhosh https://gauthamzz.github.io
 - George Lee http://georgel.ee
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
@@ -229,7 +236,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Iheanyi Ekechukwu http://iheanyi.com
 - Isaac Addis https://isaacaddis.github.io/
 - Isaac Gluck http://isaacgluck.com
-- Ishak Mahamoud https://kahsi.github.io/
 - Jack Fischer http://jackfischer.me
 - Jack Korbin www.lykpic.com
 - Jack Lamberti http://jacklamberti.com
@@ -365,6 +371,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Moshe Berman http://mosheberman.com
 - Mykayla Fernandes http://mfcecilia.co
 - Nakul Pathak http://nakulpathak.com
+- Naman Maheshwari http://www.namanmaheshwari.com/
 - Namit Juneja http://namitjuneja.com
 - Naomi Pentrel http://naomi.codes/
 - Naresh R http://ghostwriternr.me/
@@ -372,7 +379,9 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nate Owen http://nateo.co
 - Natu Myers http://natumyers.com
 - Naveen Shukla http://naveenshukla.github.io
+- Navraj Narula http://navierula.github.io
 - Neal Shyam http://nealshyam.com
+- Neeraj Aggarwal http://neerajaggarwal.com
 - Neil Patel http://neilpatelportfolio.com
 - Nelson Gomez http://ngomez.me
 - Nelson Liu http://nelsonliu.me
@@ -423,11 +432,13 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Robert Olsthoorn  http://robertolsthoorn.com
 - Robert Reinold http://www.robreinold.com
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
+- Robin Wakeman http://robinwakeman.ca/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
 - Rohan Varma http://rohan-varma.github.io
 - Rohan Yelsangikar http://royels.me
+- Ron Wright http://ronwright.me
 - Ronak Shah http://ronakshah.net
 - Rootul Patel http://rootulp.com/
 - Rosy Gupta http://rosygupta.github.io
@@ -448,20 +459,24 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Sameer Khoja http://sameerkhoja.com
 - Sameer Kumar http://www.sameerkumar.website
+- Samay Shamdasani https://shamdasani.org
 - Sanil Chawla http://sanil.co/
 - Sang Han http://sanghan.me
 - Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sanyam Khurana http://www.SanyamKhurana.com
+- Saurabhkumar Marpadge https://saurabhmarpadge.github.io/
 - Savanna Baxter https://srbaxter.github.io/
+- Scott Mangiapane https://scottmangiapane.com
 - Scott Street http://spru.sr/
 - Sean Goodrich http://www.smgoodrich.com/
 - Sean Smith http://seanssmith.me
 - Sebastian Merz http://smerz.io
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
-- Seng Zhao Too http://sengzhaotoo.github.io
+- Seng Zhao Too http://sztoo.github.io
 - Sergio Puleri http://spuleri.com/
+- Shaashwat Sharma http://shaashwat.co.nf
 - Shaban Samani http://shabansamani.github.io
 - Shafqat Dulal http://sdulal.github.io
 - Shail Shetye http://www.shailshetye.com/
@@ -471,6 +486,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sharon Lin http://sharonlin.me
 - Shashank Saxena http://shashanksaxena.me/
 - Sheikh Araf http://sheikharaf.me/
+- Shibasis Patel http://shibasisp.github.io/
 - Shikib Mehri http://shikib.ca/
 - Shivam Sharma http://shivams334.noads.biz/
 - Shin Wang http://www.shinwang.us
@@ -517,6 +533,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vaidas Mykolaitis http://www.codepreneur.io/
 - Vansh Gandhi http://vanshgandhi.com
 - Vardhman Mehta http://mehtav.xyz
+- Varun Kumar https://heysadboy.github.io/
 - Varun Rajendra Rajamane http://rajamane.io
 - Varun Shenoy http://varunshenoy.github.io/
 - Vedant Rathore http://vedantrathore.github.io/

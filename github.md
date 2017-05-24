@@ -59,6 +59,7 @@ Hackathon Hackers' GitHub profiles
 - Ali Afridi https://github.com/afridi2
 - Alvin Deng https://github.com/alvin319
 - Amanda Sullivan https://github.com/amandasullivan
+- Aman Roy https://github.com/aman-roy
 - Amrit Singh https://github.com/SuperHaker
 - Amyr Haq https://github.com/amyrhaq
 - Anantha Natarajan S https://github.com/sananth12
@@ -74,6 +75,7 @@ Hackathon Hackers' GitHub profiles
 - Andrew Li https://github.com/southrop
 - Andrew Schreiber https://github.com/andrewschreiber
 - Andrew Tam https://github.com/ahndrewtam
+- Andrew Wong https://github.com/andrewwong97
 - Andrew Yang https://github.com/andrewyang96
 - Andy Fang https://github.com/AndyF
 - Andy Kamath https://github.com/andykamath
@@ -96,6 +98,7 @@ Hackathon Hackers' GitHub profiles
 - Anuraag Yachamaneni https://github.com/hackathoner
 - Anurag Aryan https://github.com/anuragaryan
 - Anurag Banerjee https://github.com/anurag-banerjee
+- Aparajithan Venkateswaran https://github.com/AparaV
 - Areeb Khan https://github.com/ask616
 - Ari VanIderstine https://github.com/arirawr
 - Arin Ray https://github.com/arin-ray
@@ -111,6 +114,7 @@ Hackathon Hackers' GitHub profiles
 - Ashish Kedia https://github.com/ashish1294
 - Ashpan Raskar https://github.com/Ashpanr
 - Ashwin Kachhara https://github.com/ashwinkachhara
+- Aury Bwashi https://github.com/aurybwa
 - Austin Feight https://github.com/Feighter09
 - Austin L. Chang https://github.com/austinlchang
 - Avijeet Gupta https://github.com/avijeet95
@@ -222,6 +226,7 @@ Hackathon Hackers' GitHub profiles
 - Derrick Duncan https://github.com/coderrick
 - Devin Finkel https://github.com/matissesProjects
 - Devin Mancuso https://github.com/devinmancuso
+- Devin Soni https://github.com/100
 - Devon Ngo https://github.com/devonngo
 - Dhiraj Bodicherla https://github.com/dhirajbodicherla
 - Dhruv Arora https://github.com/dhruvarora
@@ -328,7 +333,6 @@ Hackathon Hackers' GitHub profiles
 - IHorng Ren Huang https://github.com/horngep
 - Ilan Filondz https://github.com/ifilonenko
 - Isaiah Mann https://github.com/imann24/
-- Ishak Mahamoud https://github.com/kahsi
 - Issam Bourai https://github.com/Starkiller99
 - Ivan Uvarov https://github.com/uvarovis
 - Jack Cook https://github.com/jackcook
@@ -553,6 +557,7 @@ Hackathon Hackers' GitHub profiles
 - Mykayla Fernandes https://github.com/mfcecilia
 - Najm Sheikh https://github.com/najubhai
 - Nakul Pathak https://github.com/nakulpathak3
+- Naman Maheshwari https://github.com/namanmaheshwari97
 - Naman Patwari https://github.com/thenamanpat
 - Namit Juneja https://github.com/namitjuneja
 - Naomi Pentrel https://github.com/npentrel/
@@ -563,6 +568,7 @@ Hackathon Hackers' GitHub profiles
 - Nathaniel Lewis https://github.com/Teknoman117
 - Nathaniel Symer https://github.com/fhsjaagshs
 - Naveen Shukla https://github.com/naveenshukla
+- Navraj Narula https://github.com/navierula
 - Nazim Amin https://github.com/NazimAmin
 - Neal Shyam https://github.com/nealrs
 - Neel Mouleeswaran https://github.com/neelcm
@@ -663,6 +669,7 @@ Hackathon Hackers' GitHub profiles
 - Robert Rouhani https://github.com/Robmaister
 - Robert Xu https://github.com/robxu9
 - Robin van Wijngaarden https://github.com/robinvw1
+- Robin Wakeman https://github.com/robinwakeman
 - Rodrigo Argumedo https://github.com/rodrigoargumedo
 - Roel Castaño https://github.com/RoelCastano
 - Roger Zou https://github.com/rogergzou
@@ -674,6 +681,7 @@ Hackathon Hackers' GitHub profiles
 - Rohan Varma https://github.com/rohan-varma
 - Rohan Yelsangikar https://github.com/royels
 - Ron Bhatta https://github.com/aranibatta
+- Ron Wright https://github.com/logiconcepts819
 - Ronak Patel https://github.com/ronakp
 - Ronak Shah https://github.com/ronakdev
 - Rootul Patel https://github.com/rootulp
@@ -708,13 +716,16 @@ Hackathon Hackers' GitHub profiles
 - Sam Kantor https://github.com/S-Kantor
 - Sam Redmond https://github.com/sredmond
 - Samarth Sandeep https://github.com/gravityshouldbenaut
+- Samay Shamdasani https://github.com/samayshamdasani
 - Sameer Khoja https://github.com/samkho10/
+- Sameer Kumar http://sameerkumar.website
 - Sang Han https://github.com/jjangsangy
 - Sankarshan Vidyadhar Mudkavi https://github.com/Sankarshan-Mudkavi
 - Sarthak Munshi http://sarthakm.com/
 - Sarthi Andley https://github.com/theSarthi
 - Sashank Thupukari https://github.com/helloworld
 - Saurav Keshari Aryal https://github.com/Saurav-K-Aryal
+- Saurabhkumar Marpadge https://github.com/saurabhmarpadge
 - Savanna Baxter https://github.com/srbaxter
 - Sean Fitzgerald https://github.com/mrplants
 - Sean Smith https://github.com/sean-smith
@@ -738,6 +749,7 @@ Hackathon Hackers' GitHub profiles
 - Shashank Agarwal https://github.com/imshashank
 - Shashank Bhargava https://github.com/Shashankredemption
 - Sheikh Araf https://github.com/arafsheikh
+- Shibasis Patel https://github.com/shibasisp
 - Shikib Mehri https://github.com/shikib
 - Shiv Patel https://github.com/shivu , https://github.com/shivum
 - Shivam Sharma https://github.com/Shivams334
