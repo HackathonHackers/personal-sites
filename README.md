@@ -281,6 +281,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
 - Justin Bleuel http://justinbleuel.github.io
+- Justin Borromeo http://justinborromeo.github.io
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
 - Justin Kuang http://justinkuang.com
