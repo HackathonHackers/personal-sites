@@ -785,6 +785,7 @@ Hackathon Hackers' GitHub profiles
 - Sudarshan Muralidhar https://github.com/sudssm
 - Suhith Rajesh https://github.com/suhithr
 - Sujith Vishwajith https://github.com/sujithv28
+- Sukhmeet Singh https://github.com/sukhmeet032795
 - Sumanth Reddy Pandugula https://github.com/summyfeb12
 - Suril Shah https://github.com/Suril-Shah
 - Suyash Lakhotia https://github.com/SuyashLakhotia

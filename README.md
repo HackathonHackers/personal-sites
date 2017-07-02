@@ -508,6 +508,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Su Min Kim http://suminkim.me/
 - Sudarshan Muralidhar http://smuralidhar.com
 - Suhith Rajesh http://suhith.com
+- Sukhmeet Singh https://sukhmeet032795.github.io/
 - Sumanth Reddy Pandugula http://summyfeb12.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Suyash Lakhotia http://suyashlakhotia.com
