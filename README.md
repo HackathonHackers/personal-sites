@@ -55,6 +55,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andras Varga http://avarga.me
 - Andreas Limberopoulos http://www.limbera.com.au
 - Andrew Breckenridge http://andrewsb.me
+- Andrew Cui http://andrewcui.com
 - Andrew Dai http://www.andrewdai.co
 - Andrew Drozdov http://www.mrdrozdov.com
 - Andrew Hoang http://www.andrewhoang.me
