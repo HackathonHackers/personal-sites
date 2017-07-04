@@ -420,6 +420,7 @@ Hackathon Hackers' GitHub profiles
 - Juan Chomali https://github.com/jchomali
 - Julia Wong https://github.com/juliawong
 - Julien L https://github.com/26medias
+- Justin Austin https://github.com/justinaustin
 - Justin Bleuel http://www.columbia.edu/~jmb2372/
 - Justin Cano https://github.com/bumrush
 - Justin Chan https://github.com/justinthec
