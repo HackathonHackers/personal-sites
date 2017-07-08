@@ -259,6 +259,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jeffrey Lin http://linjeffrey.me
 - Jennifer Apacible http://apacible.us/
 - Jennifer Tran https://jennifertran.github.io/
+- Jeremiah Parrack https://jeremiahlukus.github.io
 - Jeremy Cantu https://jac21.github.io/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerica Huang http://jericahuang.com
