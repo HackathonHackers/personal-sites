@@ -263,7 +263,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jeremy Meyer http://jeremymeyer.us
 - Jerica Huang http://jericahuang.com
 - Jerrick Davis http://jerrick.us
-- Jess DeJong https://jess843.github.io
+- Jess DeJong https://jessdejong.github.io
 - Jesse Chand http://jessechand.com
 - Jesse Collins http://jtcollins.me
 - Jessica Chang http://jessmchang.com
