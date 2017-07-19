@@ -383,7 +383,7 @@ Hackathon Hackers' GitHub profiles
 - Jeroen Goossens https://github.com/penguinologist
 - Jerrick Davis https://github.com/clevrpwn
 - Jerry Reptak https://github.com/JetFault
-- Jess DeJong https://github.com/jess843
+- Jess DeJong https://github.com/jessdejong
 - Jesse Chand https://github.com/jchand
 - Jesse Collins https://github.com/Jtcollins90
 - Jesse https://github.com/jtcollins90
