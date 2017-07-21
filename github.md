@@ -772,6 +772,7 @@ Hackathon Hackers' GitHub profiles
 - Srikar Gudipati https://github.com/srikarg
 - Srinivaas Sekaran https://github.com/ssrinivaas
 - Sriranganathan Ravi https://github.com/sriranganathan
+- Stanley Lim https://github.com/Spiderpig86
 - Stanley Zheng https://github.com/stanzheng
 - Stefan Aleksić https://github.com/coldsauce
 - Stephan Boyer https://github.com/boyers
