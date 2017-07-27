@@ -95,6 +95,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Aury Bwashi http://aurybwashi.me
 - Austin L. Chang http://www.austinlchang.com
+- Avi Kejariwal http://www.avikejariwal.com
 - Avijeet Gupta http://avijeetgupta.me/
 - Avijeet Sachdev http://avijeets.com
 - Ayush Singh http://ayush1997.github.io
