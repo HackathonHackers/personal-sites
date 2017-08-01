@@ -121,6 +121,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Bryan Garza http://bryangarza.me
 - Caitlin McDonald http://www.caitlinamcdonald.com
 - Camille Considine http://www.camilleconsidine.com
+- Campion Fellin http://campionfellin.com
 - Caroline Hermans http://carolinehermans.com
 - Cary Anderson www.cary.guru
 - Cassidy Williams http://cassidoo.co
