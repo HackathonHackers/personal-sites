@@ -157,6 +157,7 @@ Hackathon Hackers' GitHub profiles
 - Burak Içel https://github.com/burakicel
 - Caitlin McDonald https://github.com/mcdonaldca
 - Camille Nibungco https://github.com/Cnibungco
+- Campion Fellin https://github.com/campionfellin
 - Canzhi Ye https://github.com/canzhiye
 - Carlos des Montagnes https://github.com/cadesalaberry
 - Caroline Hermans https://github.com/carolinehermans
