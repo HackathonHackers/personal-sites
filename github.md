@@ -162,6 +162,7 @@ Hackathon Hackers' GitHub profiles
 - Caroline Hermans https://github.com/carolinehermans
 - Cary Anderson https://github.com/CaryAndo
 - Cassidy Williams https://github.com/cassidoo
+- Chaitanya Bapat https://github.com/ChaiBapchya
 - Chaitanya Joshi https://github.com/ckjoshi9
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
