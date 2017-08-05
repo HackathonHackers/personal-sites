@@ -474,6 +474,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Seer O'Salomon www.christianvermeulen.net
 - Selynna Sun http://selynnasun.me
 - Seng Zhao Too http://sztoo.github.io
+- Sergio Mattei Díaz https://ftxrc.github.io
 - Sergio Puleri http://spuleri.com/
 - Shaashwat Sharma http://shaashwat.co.nf
 - Shaban Samani http://shabansamani.github.io
