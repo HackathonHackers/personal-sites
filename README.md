@@ -510,6 +510,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Suhith Rajesh http://suhith.com
 - Sumanth Reddy Pandugula http://summyfeb12.me/
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
+- Sushrut Shringarputale https://sushshring.me
 - Suyash Lakhotia http://suyashlakhotia.com
 - Swati Garg http://swati4star.github.io
 - Swati Maheshwari http://swatimaheshwari.github.io/
