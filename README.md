@@ -22,6 +22,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Adam McNeilly http://adammcneilly.com
 - Adil Ansari http://ansari.io
 - Adil Virani http://aspv.pw/
+- Aditi Mohanty http://aditimohanty.com
 - Adrian Gaw http://www.adriangaw.com
 - Adrienne Tran http://www.adriennetran.com
 - Afonso Praça http://afonsopraca.com.br/
