@@ -78,7 +78,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anirudh Goel http://anirudhgoel.me
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
-- Ankit Sultana http://ankitsultana.me
+- Ankit Sultana http://ankitsultana.com
 - Anthony Sistilli http://anthonysistilli.me
 - Anton Relin http://arelin.me
 - Antonio Marino http://antoniomarino.me
