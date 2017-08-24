@@ -294,6 +294,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Justice Suh http://justicesuh.com
 - Justin Austin https://justincaustin.com
 - Justin Bleuel http://justinbleuel.github.io
+- Justin Borromeo http://justinborromeo.github.io
 - Justin Cano http://jcano.me
 - Justin Chan http://justinthec.me
 - Justin Kuang http://justinkuang.com
