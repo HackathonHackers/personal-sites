@@ -515,6 +515,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
+- Simon Tang http://stang.xyz
 - Sophie Wang http://individual.utoronto.ca/channelSW/
 - Sonny Lazuardi http://sonnylab.com
 - Sourabh Shetty http://sourabh.io
