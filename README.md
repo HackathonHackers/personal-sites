@@ -576,7 +576,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Victor Zhou http://victorzhou.com
 - Vignesh M http://vigneshm.com/
 - Vikas Parashar http://vikasparashar.in/
-- Vikram Tiwari https://vikramtiwari.github.com
+- Vikram Tiwari https://vikramtiwari.com
 - Vinay Hiremath https://vinayh.com
 - Vinayak Mehta http://vortex-ape.github.io
 - Vincent Yang https://vincentyang.me
