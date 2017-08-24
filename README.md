@@ -225,7 +225,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Grant Timmerman http://grant.cm
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
-- Gurnoor Singh http://gurnoor.co
+- Gurnoor Singh https://gurnoorsingh.com
 - Gyan Lakhwani http://gyanl.github.io
 - Hamza Khan https://hamzakhan.org
 - Harris Christiansen http://harrischristiansen.com
