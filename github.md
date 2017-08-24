@@ -648,7 +648,6 @@ Hackathon Hackers' GitHub profiles
 - Rahul Chaudhary https://github.com/rahulch95
 - Rahul Ranjan https://github.com/rahulrrixe
 - Raja Sekar https://github.com/rajzshkr
-- Rajan Bhattarai https://github.com/cdrrazan
 - Rajat Bhageria https://github.com/RajatBhageria
 - Rajat Mehndiratta https://github.com/rajatmehndiratta
 - Rakesh Das https://github.com/rakeshdas1
