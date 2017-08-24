@@ -370,6 +370,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Michael Gonzales http://mkgo.co/
 - Michael Ho Chum http://michaelchum.com
 - Michael Huang http://michaelyh.com
+- Michael Hulet https://hulet.tech
 - Michael Sung-Ho Park http://devmichaelpark.com/
 - Michael Zhang http://michaelz.xyz
 - Milan Dasgupta http://www.milandasgupta.com
