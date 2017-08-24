@@ -593,6 +593,7 @@ Hackathon Hackers' GitHub profiles
 - Nicholas Kee https://github.com/nkkee
 - Nick Maxwell https://github.com/nickmaxwell10
 - Nick Poelma https://github.com/nwplayer123
+- Nick Roberts https://github.com/nickroberts404
 - Nick Sahler https://github.com/nicksahler
 - Nick Sargente https://github.com/primis
 - Nick Zuber https://github.com/nickzuber
