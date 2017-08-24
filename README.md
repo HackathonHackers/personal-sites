@@ -187,6 +187,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Diana Chang http://DChang87.github.io
 - Diana Zink http://doerhub.com/of/diana
 - Dilpreet Chana http://dschana.com/
+- Diogo Capela http://diogocapela.com
 - Dima Konev http://ezhik.me
 - Dima Vishnevetsky http://www.dimshik.com
 - Dominic Dabish http://www.dominicdabish.com/
