@@ -879,6 +879,7 @@ Hackathon Hackers' GitHub profiles
 - Wilson Ding https://github.com/dingwilson
 - Wilson Mitchell https://github.com/mitchellw
 - Wilson Zhao https://github.com/wilzh40
+- Winson Luk https://github.com/winsonluk
 - Xiao He  https://github.com/Cigarent
 - Yasmeen Roumie https://github.com/y4smeen
 - Yasyf Mohamedali https://github.com/yasyf
