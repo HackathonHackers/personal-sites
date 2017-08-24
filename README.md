@@ -569,6 +569,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Will Field-Thompson http://willft.io
 - William Cockburn http://syrexide.com
 - William Huang http://www.hellowilliam.com
+- William Liu http://williamliu.me
 - William Woodruff http://woodruffw.us
 - Wilson Ding http://wilsonding.com
 - Xiao He  http://xiaojunhe.com
