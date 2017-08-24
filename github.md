@@ -565,6 +565,7 @@ Hackathon Hackers' GitHub profiles
 - Nate Owen https://github.com/newOnahtaN
 - Nathan Handler https://github.com/nhandler
 - Nathan Moos https://github.com/moosingin3space
+- Nathaniel Baulch-Jones https://github.com/nattyxd
 - Nathaniel Lewis https://github.com/Teknoman117
 - Nathaniel Symer https://github.com/fhsjaagshs
 - Naveen Shukla https://github.com/naveenshukla

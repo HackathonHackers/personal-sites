@@ -377,6 +377,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Naresh R http://ghostwriternr.me/
 - Nate Levesque http://thenaterhood.com
 - Nate Owen http://nateo.co
+- Nathaniel Baulch-Jones http://natbj.me
 - Natu Myers http://natumyers.com
 - Naveen Shukla http://naveenshukla.github.io
 - Navraj Narula http://navierula.github.io
