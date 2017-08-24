@@ -209,7 +209,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Fisher Adelakin http://fisheradelakin.com/
 - Fletcher Richman http://fletcher.io
 - Frank Cash http://hackerqueue.herokuapp.com
-- Freddie Vargus http://fjv4.com
+- Freddie Vargus https://freddiev4.github.io
 - Gagik Movsisyan http://gagikm.com
 - Ganesh Swamypillai http://iotenthu.com
 - Gangeshwar Krishnamurthy http://gangeshwark.com/
