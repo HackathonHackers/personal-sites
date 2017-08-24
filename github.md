@@ -468,6 +468,7 @@ Hackathon Hackers' GitHub profiles
 - Krishna Parashar https://github.com/parashar
 - Kristofer Rye https://github.com/rye
 - Kumail Jaffer https://github.com/liamuk
+- Kumar Anirudha https://github.com/anistark
 - Kunal Roy https://github.com/kunal365roy
 - Kunal Sharma https://github.com/kunals1994
 - Kyle Holzinger https://github.com/KyleLH
