@@ -29,6 +29,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ai Onda http://aicecream.com
 - AJ Norton http://ajnorton.com/
 - Ajay Jain https://initajay.me
+- Ajay Singh https://about.me/ajay-s
 - Ajit Pawar http://pawar.ca/
 - Akash Patel http://akashp.co
 - Akhilesh Yarabarla http://yarabarla.com
