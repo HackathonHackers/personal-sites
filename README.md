@@ -412,6 +412,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nelson Gomez http://ngomez.me
 - Nelson Liu http://nelsonliu.me
 - Nicholas Brown http://kompulsa.com
+- Nick Roberts https://meadowlab.io
 - Nick Zuber https://nickzuber.com
 - Nico Hindering http://nicohinderling.me
 - Nikhita Raghunath https://nikhita.github.io
