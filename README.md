@@ -92,6 +92,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
 - Ashish Kedia https://ashishkedia.me
+- Ashok Koduru https://ashokkoduru.com
 - Ashpan Raskar http://ashpanraskar.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
