@@ -461,6 +461,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ryhan Hassan http://ryhan.org
 - Rõhith Varanasi http://rohithvaranasi.com
 - Sagar Garg http://sagargarg.github.io/
+- Sahib Chandnani http://sahib.ch/
 - Sahibjot Saggu http://www.sahibjot.me/
 - Sahil Dua http://sahildua.com
 - Sai Grandhi http://grandhi.me
