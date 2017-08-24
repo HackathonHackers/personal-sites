@@ -160,6 +160,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dan Schlosser http://danrs.ch
 - Dan Zhang www.danzhang.net
 - Dana Lee http://danagilliann.me/
+- Daniel Barychev http://www.danbarychev.com
 - Daniel C. Eckert http://drakontas.org
 - Daniel Hsing https://arthelon.github.io
 - Daniyar Yeralin http://yeralin.net
