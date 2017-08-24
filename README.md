@@ -225,7 +225,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - George Lee http://georgel.ee
 - Gibran Garcia http://gibrangarcia.me
 - Gordon Zheng http://gordn.org/
-- Grant Park http://www.grantpark.io
+- Grant Park http://www.grant.ai
 - Grant Timmerman http://grant.cm
 - Greyson Parrelli http://greysonparrelli.com
 - Guilherme Berger http://gberger.me
