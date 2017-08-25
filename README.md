@@ -396,7 +396,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Monica Powell http://aboutmonica.com
 - Morgante Pell http://morgante.net
 - Moshe Berman http://mosheberman.com
-- Mubaris Hassan http://mubaris.github.io
+- Mubaris NK http://mubaris.com
 - Mykayla Fernandes http://mfcecilia.co
 - Nakul Pathak http://nakulpathak.com
 - Naman Maheshwari http://www.namanmaheshwari.com/
