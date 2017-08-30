@@ -89,6 +89,7 @@ Hackathon Hackers' GitHub profiles
 - Angela Bair https://github.com/angelabair
 - Angie Wang https://github.com/angiewang
 - Anirudh Goel https://github.com/AnirudhGoel
+- Anirudh Veeraragavan https://github.com/aniveera1
 - Anish Athalye https://github.com/anishathalye
 - Ankit Agrawal https://github.com/ankit-maverick
 - Ankit Etc https://github.com/kodeman14
