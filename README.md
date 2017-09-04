@@ -434,6 +434,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Parth Mehrotra http://parthmehrotra.com
 - Pat Myron http://patmyron.com
 - Patricio Córdova http://www.cs.toronto.edu/~patricio
+- Patrick Tumbucon http://tumbucon.tech
 - Paul Krishnamurthy http://paulkr.com
 - Paweł Szczurko www.pawel.pw
 - Peter Leng http://peterleng.com/
