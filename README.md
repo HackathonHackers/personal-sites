@@ -414,7 +414,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Raghav Dua http://raghavdua.com
 - Raghav Sood http://raghavsood.com
 - Raja Sekar http://rajasekarm.com
-- Rajan Bhattarai https://www.cdrrazan.me
+- Rajan Bhattarai https://www.cdrrazan.com
 - Rajat Mehndiratta http://rajatmehndiratta.me
 - Raphael Rouvinov-Kats http://raphaelrk.com
 - Rashiq Ahmad http://rashiq.me
