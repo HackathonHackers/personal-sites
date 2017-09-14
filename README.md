@@ -300,6 +300,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joseph Pena https://josephpena.me/
 - Josh Snider https://www.joshuasnider.com/
 - Joshua Cockrell http://joshuakcockrell.com/
+- Joshua Raichur http://joshuaraichur.com/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
 - Justin Austin https://justincaustin.com
