@@ -202,6 +202,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dylan McIntyre http://dmcintyre.net
 - Elad Keyshawn http://eladkeyshawn.tk/
 - Eli White http://eli-white.com
+- Elisha Lai https://elailai94.surge.sh
 - Elissa Shevinsky http://elissashevinsky.com
 - Eric Bachmeier http://ericbachmeier5.github.io
 - Eric Lee http://thecreedo.github.io

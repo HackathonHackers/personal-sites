@@ -255,6 +255,7 @@ Hackathon Hackers' GitHub profiles
 - Edward Schembor https://github.com/edschembor
 - Edwin Zhang https://github.com/ehzhang
 - Eli White https://github.com/TheSavior
+- Elisha Lai https://github.com/elailai94
 - Elliot Anderson https://github.com/teendev
 - Elvin Yung https://github.com/elvinyung
 - Emilio Flores https://github.com/EmilioFlores
