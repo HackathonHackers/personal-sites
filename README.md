@@ -301,6 +301,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Josh Snider https://www.joshuasnider.com/
 - Josica Ganesamurthy http://www.josica.me 
 - Joshua Cockrell http://joshuakcockrell.com/
+- Joshua Li https://tildeslash.io/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
 - Justin Austin https://justincaustin.com

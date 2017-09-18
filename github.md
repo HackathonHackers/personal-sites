@@ -427,6 +427,7 @@ Hackathon Hackers' GitHub profiles
 - Josh Matthews https://github.com/jmatth
 - Josh Vega https://github.com/jsvcycling
 - Joshua Drubin https://github.com/jdrub
+- Joshua Li https://github.com/JoshuaRLi
 - Joyce Yan https://github.com/joyceyan
 - Juan Chomali https://github.com/jchomali
 - Julia Wong https://github.com/juliawong
