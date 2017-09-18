@@ -299,6 +299,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joseph Milla https://josephmilla.com/
 - Joseph Pena https://josephpena.me/
 - Josh Snider https://www.joshuasnider.com/
+- Josica Ganesamurthy http://www.josica.me 
 - Joshua Cockrell http://joshuakcockrell.com/
 - Juan Chomali http://jchomali.com
 - Justice Suh http://justicesuh.com
