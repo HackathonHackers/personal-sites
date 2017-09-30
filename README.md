@@ -301,7 +301,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joseph Milla https://josephmilla.com/
 - Joseph Pena https://josephpena.me/
 - Josh Snider https://www.joshuasnider.com/
-- Josica Ganesamurthy http://www.josica.me 
+- Josica Ganesamurthy http://www.josica.me
 - Joshua Cockrell http://joshuakcockrell.com/
 - Joshua Raichur http://joshuaraichur.com/
 - Juan Chomali http://jchomali.com
@@ -525,6 +525,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shane DeWael http://shanedewael.com/
 - Sharon Lin http://sharonlin.me
 - Shashank Saxena http://shashanksaxena.me/
+- Shashank Shekhar http://shashankshekhar.me/
 - Sheikh Araf http://sheikharaf.me/
 - Shibasis Patel http://shibasisp.github.io/
 - Shikib Mehri http://shikib.ca/
