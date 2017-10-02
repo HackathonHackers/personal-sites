@@ -121,6 +121,7 @@ Hackathon Hackers' GitHub profiles
 - Ashish Kedia https://github.com/ashish1294
 - Ashok Koduru https://github.com/ashokkoduru
 - Ashpan Raskar https://github.com/Ashpanr
+- Ashutosh Kumar https://github.com/ashutoshpw
 - Ashwin Kachhara https://github.com/ashwinkachhara
 - Aury Bwashi https://github.com/aurybwa
 - Austin Feight https://github.com/Feighter09
