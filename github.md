@@ -301,6 +301,7 @@ Hackathon Hackers' GitHub profiles
 - George Sivulka https://github.com/sivulka
 - Georgi D. Georgiev https://github.com/gessha
 - Gibran Garcia https://github.com/owlsketch
+- Gourav Suri https://github.com/thegenuinegourav
 - Grant Mulitz https://github.com/gmulz
 - Grant Park https://github.com/sungjp
 - Grant Timmerman https://github.com/grant
