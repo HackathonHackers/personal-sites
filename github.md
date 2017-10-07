@@ -784,6 +784,7 @@ Hackathon Hackers' GitHub profiles
 - Shriyash Jalukar https://github.com/infinitebattery7
 - Shruti Appiah https://github.com/shrutiappiah
 - Shubham Sawant https://github.com/moghya
+- Shubhangi Misra https://github.com/ShubhangiMisra
 - Shy Ruparel https://github.com/shy
 - Sid Dange https://github.com/siddhantdange
 - Simeon Videnov https://github.com/simeon
