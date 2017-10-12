@@ -680,6 +680,7 @@ Hackathon Hackers' GitHub profiles
 - Richard Yang https://github.com/elyrly
 - Rigved Tummala https://github.com/Rigabyte
 - Rikin Katyal https://github.com/rikinkatyal
+- Rishav Pandey http://www.github.com/rishav-pandey
 - Rishi Dhanaraj https://github.com/rdhanaraj
 - Rishi Dua https://github.com/rishirdua
 - Ritvik Choudhary https://github.com/Ritvik1512
