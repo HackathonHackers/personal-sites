@@ -10,12 +10,11 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aashni Shah http://aashni.me
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
-- Aayush Ranaut http://aayush.net
 - Abhinav Kurada http://akurada.tech
 - Abhinav Rajaseshan http://abhiseshan.me
 - Abhinav Sharma http://excode.me
 - Abhishek Sharma http://abhisheksharma.design
-- Abinav Seelan [http://abinavseelan.com](http://abinavseelan.com?utm_source=hackathonHackersGithub)
+- Abinav Seelan http://abinavseelan.com
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
@@ -34,7 +33,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ajay Singh https://about.me/ajay-s
 - Ajit Pawar http://pawar.ca/
 - Akash Patel http://akashp.co
-- [Akash Tandon](http://github.com/analyticalmonk) http://akashtandon.com
+- Akash Tandon http://github.com/analyticalmonk
 - Akhilesh Yarabarla http://yarabarla.com
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akul.me/
@@ -48,7 +47,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alex Johnson https://www.alex-johnson.net/
 - Alex Koshy http://koshy.co/
 - Alex Strong http://alexfortis.github.io/
-- Alex Wang http://alw231.github.io
 - Alexander Maru http://alexandermaru.com
 - Alexander Mistakidis http://aamistak.me
 - Alston Lin http://alstonlin.io
@@ -100,9 +98,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Arush Shankar http://arush.me
 - Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
-- Ashish Kedia https://ashishkedia.me
 - Ashok Koduru https://ashokkoduru.com
-- Ashpan Raskar http://ashpanraskar.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Aury Bwashi http://aurybwashi.me
@@ -618,6 +614,5 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
 - Zachary Espiritu http://zacharyespiritu.com
-- Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
 - Zeeshan Mughal http://www.zeeshanmughal.com
