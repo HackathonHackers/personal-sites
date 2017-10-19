@@ -180,6 +180,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Darion Cassel http://darioncassel.me
 - Darren Gilbert http://darrengilbert.rocks
 - Darren Tu http://darrentu.github.io
+- Darshan Sharma https://www.darshansharma.me
 - Dave Scott McCarthy https://aslittledesign.com
 - Dave Fontenot http://davefont.com
 - David Awad http://davidawad.github.io
