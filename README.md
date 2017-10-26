@@ -300,6 +300,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joseph Khawly http://josephkhawly.com/
 - Joseph Milla https://josephmilla.com/
 - Joseph Pena https://josephpena.me/
+- Josh Li https://tildeslash.io/
 - Josh Snider https://www.joshuasnider.com/
 - Josica Ganesamurthy http://www.josica.me 
 - Joshua Cockrell http://joshuakcockrell.com/
