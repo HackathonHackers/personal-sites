@@ -426,6 +426,7 @@ Hackathon Hackers' GitHub profiles
 - Joseph Khawly https://github.com/josephkhawly
 - Joseph Pecoraro https://github.com/jpecoraro342
 - Josh Curl https://github.com/joshuacurl
+- Josh Li https://github.com/JoshuaRLi
 - Josh Matthews https://github.com/jmatth
 - Josh Vega https://github.com/jsvcycling
 - Joshua Drubin https://github.com/jdrub
