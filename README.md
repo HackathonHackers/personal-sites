@@ -485,6 +485,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Rushy Panchal https://panchr.me
 - Ryan Choi http://ryanjchoi.com
 - Ryan D'souza http://dsouzarc.github.io
+- Ryan Fitzgerald https://ryanfitzgerald.ca
 - Ryan Lin http://ryanlin.com
 - Ryan Senanayake http://www.RSenApps.com
 - Ryhan Hassan http://ryhan.org
