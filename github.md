@@ -85,6 +85,7 @@ Hackathon Hackers' GitHub profiles
 - Andrew Yang https://github.com/andrewyang96
 - Andy Fang https://github.com/AndyF
 - Andy Kamath https://github.com/andykamath
+- Aneesh Ashutosh https://github.com/aneeshashutosh
 - Angel Say https://github.com/sayangel
 - Angela Bair https://github.com/angelabair
 - Angie Wang https://github.com/angiewang
