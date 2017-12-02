@@ -243,6 +243,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Harshay Shah http://harshay.me
 - Harshit Budhraja http://harshitbudhraja.snustudents.in
 - Harvey Chan http://harveychan.net/
+- Hassan Nadeem http://HassanNadeem.com
 - Hayden Lee http://haydenlee.io/
 - Henry Millison http://henrymillison.com
 - Hiten Sharma http://htadg.github.io/
