@@ -141,6 +141,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Cassidy Williams http://cassidoo.co
 - Chaitanya Bapat https://chaibapchya.github.io
 - Chaitanya Joshi http://chaitanyajoshi.xyz
+- Chandramowli J https://chamow97.github.io/
 - Chaoyi Zha http://cydrobolt.com
 - Charlie Kingston http://charliekingston.co.uk
 - Charmaine Lee https://github.com/CharmaineLee
