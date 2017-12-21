@@ -291,6 +291,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jesse Collins http://jtcollins.me
 - Jessica Chang http://jessmchang.com
 - Jevin Sidhu http://jevinsidhu.com
+- Jia Wei http://jiaw.me
 - Jian Wei Chuah http://jianweichuah.com
 - Jing Xiao http://www.notajingoist.com/index.html
 - Joe Duncko http://joeduncko.com/
