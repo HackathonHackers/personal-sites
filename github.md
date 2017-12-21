@@ -403,6 +403,7 @@ Hackathon Hackers' GitHub profiles
 - Jessica Chang https://github.com/jessmchang
 - Jessica Ouyang https://github.com/ouyangatang
 - Jhonathan Wyterlin https://github.com/jwyterlin
+- Jia Wei https://github.com/jiaw22
 - Jian Wei Chuah https://github.com/jianweichuah
 - Jing Xiao https://github.com/notajingoist
 - Joe Doyle https://github.com/Ginto8
