@@ -549,6 +549,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Stephen Greco https://sgre.co/
 - Steve Dean http://about.me/stevenmdean
 - Steven Bock http://stevenbock.me
+- Steven Kneiser http://kneiser.space
 - Su Min Kim http://suminkim.me/
 - Sudarshan Muralidhar http://smuralidhar.com
 - Suhith Rajesh http://suhith.com

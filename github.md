@@ -808,6 +808,7 @@ Hackathon Hackers' GitHub profiles
 - Steve Dean https://github.com/stevenmdean
 - Steve Noonan https://github.com/airmanopus
 - Steven Bock https://github.com/dabockster
+- Steven Kneiser https://github.com/theshteves
 - Sudarshan Muralidhar https://github.com/sudssm
 - Suhith Rajesh https://github.com/suhithr
 - Sujith Vishwajith https://github.com/sujithv28
