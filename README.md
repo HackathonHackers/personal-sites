@@ -504,6 +504,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sanjeev S Nair http://www.sanjeevs.net/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sanyam Khurana http://www.SanyamKhurana.com
+- Saransh Kataria https://www.wisdomgeek.com
 - Saurabhkumar Marpadge https://saurabhmarpadge.github.io/
 - Savanna Baxter https://srbaxter.github.io/
 - Scott Mangiapane https://scottmangiapane.com
