@@ -557,6 +557,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Sushrut Shringarputale https://sushshring.me
 - Suyash Lakhotia http://suyashlakhotia.com
+- Suzen Fylke http://suzenfylke.com/
 - Swati Garg http://swati4star.github.io
 - Swati Maheshwari http://swatimaheshwari.github.io/
 - Taher Dhilawala http://taher.me
