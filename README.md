@@ -220,6 +220,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Fletcher Richman http://fletcher.io
 - Frank Cash http://hackerqueue.herokuapp.com
 - Freddie Vargus https://freddiev4.github.io
+- Gagan Deep http://www.gagandeep.me/
 - Gagik Movsisyan http://gagikm.com
 - Ganesh Swamypillai http://iotenthu.com
 - Gangeshwar Krishnamurthy http://gangeshwark.com/
