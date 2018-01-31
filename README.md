@@ -445,6 +445,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Phil Efstathiou http://phil.ws/
 - Prabhakar Gupta http://www.prabhakargupta.com
 - Pradyuman Vig http://www.pradyumanvig.com
+- Pranit Bauva http://www.bauva.com
 - Preston Mueller http://prestonmueller.com
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
