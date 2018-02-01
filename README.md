@@ -382,6 +382,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Max Shavrick http://mxms.pw
 - Meet Shah http://meetshah1995.github.io/
 - Megan Ruthven http://maruthven.com/
+- Mehul Prajapati https://mehul-m-prajapati.github.io/
 - Michael Borohovski http://shanewilton.com
 - Michael Gonzales http://mkgo.co/
 - Michael Ho Chum http://michaelchum.com
