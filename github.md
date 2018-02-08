@@ -551,6 +551,7 @@ Hackathon Hackers' GitHub profiles
 - Megan Chen https://github.com/gauss1181
 - Megan Ruthven https://github.com/maruthven
 - Mehak Vohra https://github.com/watthemehak
+- Mehul Prajapati https://github.com/mehul-m-prajapati 
 - Melanie Hsu https://github.com/bluemelodia
 - Micah Weitzman https://github.com/mikachoow21
 - Michael Cai https://github.com/caimichael
