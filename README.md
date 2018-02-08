@@ -56,6 +56,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alvin Deng http://alvindeng.com/
 - Aman Roy http://amanroy.me
 - Amar Prakash Pandey http://amarpandey.me
+- Amber Jain http://amberja.in/
 - Amine Afia https://amineafia.github.io/
 - Amit Chaudhary https://amitness.com
 - Amrit Singh http://singhamrit.me
