@@ -103,6 +103,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
 - Ashish Kedia https://ashishkedia.me
+- Ashris Choudhury http://iashris.com
 - Ashok Koduru https://ashokkoduru.com
 - Ashpan Raskar http://ashpanraskar.com
 - Ashutosh Kumar https://ashutoshanand.com
