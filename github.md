@@ -177,6 +177,7 @@ Hackathon Hackers' GitHub profiles
 - Chaitanya Joshi https://github.com/ckjoshi9
 - Chandler Creech https://github.com/chanman
 - Chaoyi Zha https://github.com/cydrobolt
+- Charles Ma https://github.com/charlesma4
 - Charlie Kingston https://github.com/crkingston
 - Charlie Li https://github.com/vishwin
 - Chashmeet Singh https://github.com/chashmeetsingh
@@ -716,6 +717,7 @@ Hackathon Hackers' GitHub profiles
 - Ronak Shah https://github.com/ronakdev
 - Rootul Patel https://github.com/rootulp
 - Ross Semenov https://github.com/rossem
+- Rudhra Raveendran https://github.com/ROODAY
 - Ruiqi Mao https://github.com/ruiqimao
 - Rushi Shah https://github.com/2016rshah
 - Rushy Panchal https://github.com/panchr

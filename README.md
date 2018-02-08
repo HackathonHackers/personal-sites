@@ -147,6 +147,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Chaitanya Bapat https://chaibapchya.github.io
 - Chaitanya Joshi http://chaitanyajoshi.xyz
 - Chaoyi Zha http://cydrobolt.com
+- Charles Ma https://charlesma4.github.io/
 - Charlie Kingston http://charliekingston.co.uk
 - Charmaine Lee http://www.charmaineklee.com/
 - Cheng Peng http://www.chengpeng.ca
@@ -494,6 +495,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ronak Shah http://ronakshah.net
 - Rootul Patel http://rootulp.com/
 - Rosy Gupta http://rosygupta.github.io
+- Rudhra Raveendran https://rooday.com/
 - Ruiqi Mao http://www.ruiqimao.com/
 - Rushi Shah http://www.rshah.io/
 - Rushy Panchal https://panchr.me
