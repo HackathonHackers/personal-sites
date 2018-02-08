@@ -143,7 +143,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Chaitanya Joshi http://chaitanyajoshi.xyz
 - Chaoyi Zha http://cydrobolt.com
 - Charlie Kingston http://charliekingston.co.uk
-- Charmaine Lee https://github.com/CharmaineLee
+- Charmaine Lee http://www.charmaineklee.com/
 - Cheng Peng http://www.chengpeng.ca
 - Chetanya Kandhari http://availchet.github.io/
 - Chinmaya Kr. Patanaik https://pattu777.github.io
