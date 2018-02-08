@@ -237,7 +237,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Guilherme Berger http://gberger.me
 - Gur Raunaq Singh http://raunaq.me
 - Gurnoor Singh https://gurnoorsingh.com
-- Gyan Lakhwani http://gyanl.github.io
+- Gyan Lakhwani http://gyanl.com
 - Hamza Khan https://hamzakhan.org
 - Harris Christiansen http://harrischristiansen.com
 - Harry Gogonis http://hgogonis.me
