@@ -345,6 +345,7 @@ Hackathon Hackers' GitHub profiles
 - IHorng Ren Huang https://github.com/horngep
 - Ilan Filondz https://github.com/ifilonenko
 - Isaiah Mann https://github.com/imann24/
+- Ismael Rodriguez https://github.com/ismaro3
 - Issam Bourai https://github.com/Starkiller99
 - Ivan Uvarov https://github.com/uvarovis
 - Jack Cook https://github.com/jackcook
