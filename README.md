@@ -437,6 +437,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Oindril Dutta http://odutta.com
 - Ore Aleb http://oreoluwa.me/
 - Ou Ye http://ouye.ca
+- Omkar Konaraddi https://konaraddio.github.io
 - Palash Chatterjee https://pecey.github.io
 - Panashe Mahachi http://pkm.me
 - Pandelis Zembashis http://pandelis.me
