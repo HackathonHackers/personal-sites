@@ -51,6 +51,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Alex Wang http://alw231.github.io
 - Alexander Maru http://alexandermaru.com
 - Alexander Mistakidis http://aamistak.me
+- Ali Karpuzoglu https://alikarpuzoglu.com
 - Alston Lin http://alstonlin.io
 - Alvin Deng http://alvindeng.com/
 - Aman Roy http://amanroy.me
