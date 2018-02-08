@@ -118,6 +118,7 @@ Hackathon Hackers' GitHub profiles
 - Arya Boudaie https://github.com/Misingnoglic
 - Asaph Yuan https://github.com/asaphy
 - Asheer Tanveer https://github.com/Asheer
+- Ashish Gulati https://github.com/ashishgulati71
 - Ashish Kedia https://github.com/ashish1294
 - Ashok Koduru https://github.com/ashokkoduru
 - Ashpan Raskar https://github.com/Ashpanr

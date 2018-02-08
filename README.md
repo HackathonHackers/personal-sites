@@ -100,9 +100,10 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Arush Shankar http://arush.me
 - Asaph Yuan http://asaphyuan.com
 - Asheer Tanveer http://asheertanveer.com
+- Ashish Gulati http://ashishgulati.xyz/
 - Ashish Kedia https://ashishkedia.me
 - Ashok Koduru https://ashokkoduru.com
-- Ashpan Raskar http://ashpanraskar.com
+- Ashpan Raskar http://ashpanraskar.com 
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Aury Bwashi http://aurybwashi.me
