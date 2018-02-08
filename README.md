@@ -78,6 +78,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Andy Kamath http://andykamath.com
 - Andrew Wong http://andrewwong.xyz/
 - Andy Wong http://andy-wong.ca
+- Aneesh Ashutosh http://aneeshashutosh.com/
 - Anirudh Goel http://anirudhgoel.me
 - Anirudh Veeraragavan https://aniveera.com/
 - Ankit Agrawal http://ankitmaverick.com
