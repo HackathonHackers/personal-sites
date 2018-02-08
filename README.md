@@ -550,6 +550,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sophie Wang http://individual.utoronto.ca/channelSW/
 - Sonny Lazuardi http://sonnylab.com
 - Sourabh Shetty http://sourabh.io
+- Sourav Biswas https://sravb.github.io/
 - Sreetam Das http://sreetamdas.github.io
 - Sricharan Chiruvolu http://sricharan.xyz
 - Srijay Kasturi http://techfilmer.com
