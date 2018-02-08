@@ -534,6 +534,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shivam Sharma http://shivams334.github.io/
 - Shin Wang http://www.shinwang.us
 - Shruti Appiah http://shrutiappiah.github.io/
+- Shubham Sawant http://moghya.me
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
 - Simon Tang http://stang.xyz
