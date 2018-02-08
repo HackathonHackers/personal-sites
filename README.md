@@ -456,6 +456,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Quim Llimona http://lemonzi.me
 - Raghav Dua http://raghavdua.com
 - Raghav Sood http://raghavsood.com
+- Rahul Tuteja http://tutejarahul.co
 - Raja Sekar http://rajasekarm.com
 - Rajan Bhattarai https://www.cdrrazan.me
 - Rajat Mehndiratta http://rajatmehndiratta.me
