@@ -104,6 +104,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashish Kedia https://ashishkedia.me
 - Ashok Koduru https://ashokkoduru.com
 - Ashpan Raskar http://ashpanraskar.com
+- Ashutosh Kumar https://ashutoshanand.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
 - Aury Bwashi http://aurybwashi.me
