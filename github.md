@@ -833,6 +833,7 @@ Hackathon Hackers' GitHub profiles
 - Suril Shah https://github.com/Suril-Shah
 - Suyash Lakhotia https://github.com/SuyashLakhotia
 - Suyash Srijan https://github.com/theblixguy
+- Suzen Fylke https://github.com/codesue
 - Swati Garg https://github.com/Swati4star
 - Syed Raziq Mohideen https://github.com/sandybisaria
 - Taher Dhilawala https://github.com/taher435
