@@ -84,6 +84,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anirudh Veeraragavan https://aniveera.com/
 - Ankit Agrawal http://ankitmaverick.com
 - Ankit Sardesai http://ankitsardesai.ca/
+- Ankit Shah https://ankitshah009.github.io/
 - Ankit Sultana http://ankitsultana.com
 - Anthony Sistilli http://anthonysistilli.me
 - Anton Relin http://arelin.me
