@@ -322,6 +322,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Joshua Cockrell http://joshuakcockrell.com/
 - Joshua Raichur http://joshuaraichur.com/
 - Juan Chomali http://jchomali.com
+- Junhson Jean-Baptiste http://junhsonjb.com/
 - Justice Suh http://justicesuh.com
 - Justin Austin https://justincaustin.com
 - Justin Bleuel http://justinbleuel.github.io
