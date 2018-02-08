@@ -763,7 +763,7 @@ Hackathon Hackers' GitHub profiles
 - Sehmon Burnam https://github.com/yawkity
 - Selina Wang https://github.com/enigmacat
 - Selynna Sun https://github.com/ssun098
-- Seng Zhao Too https://github.com/sengzhaotoo
+- Seng Zhao Too https://github.com/sztoo
 - Sergio Mattei Díaz https://github.com/ftxrc
 - Seth Feibus https://github.com/sethfork
 - Shaan Chawla https://github.com/shaantamchawla
