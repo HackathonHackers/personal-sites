@@ -468,6 +468,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Phil Efstathiou http://phil.ws/
 - Prabhakar Gupta http://www.prabhakargupta.com
 - Pradyuman Vig http://www.pradyumanvig.com
+- Prateek Chanda https://prateekiiest.github.io
 - Pranit Bauva http://www.bauva.com
 - Pramesh Bajracharya http://bajracharya.me
 - Preston Mueller http://prestonmueller.com
