@@ -886,7 +886,6 @@ Hackathon Hackers' GitHub profiles
 - Vikas Parashar https://github.com/vikas-parashar
 - Vikrem https://github.com/vikrem
 - Vinay Hiremath https://github.com/vinayh
-- Vinayak Mehta https://github.com/vortex-ape
 - Vincent Yang https://github.com/YangVincent
 - Viraj Bhalara https://github.com/virajbhalala
 - Vishnu Ks https://github.com/hackerkid
@@ -916,7 +915,6 @@ Hackathon Hackers' GitHub profiles
 - Zachary Espiritu https://github.com/ZacharyEspiritu
 - Zachary Shakked https://github.com/shakked
 - Zack Maldonado https://github.com/Danubian
-- Zakaria Ridouh https://github.com/ZakariaRidouh
 - Zakariyya Mughal https://github.com/zmughal
 - Zane Blackwell Sterling https://github.com/Shriken
 - Zhou Yi https://github.com/ZhouYii

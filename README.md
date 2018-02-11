@@ -172,7 +172,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Christopher Su http://christopher.su
 - Cindy Yu http://cindyyu.com
 - Clayton Brand http://claytonbrand.com
-- Colin Mcillece http://cmacca.github.io
 - Connor Smith http://www.connor-a-smith.com
 - Cosi Leone http://cosileone.com/
 - Cyrus Roshan http://cyrusroshan.me
@@ -448,7 +447,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nikhita Raghunath https://nikhita.github.io
 - Nimit Kalra http://nimit.io
 - Niraj Pant http://niraj.io
-- Nishanth Shanmugham https://nishanths.github.io
 - Noah Hradek   http://noahhradek.me/
 - Noam Hacker http://noamhacker.com/
 - Noga Raviv http://nogaraviv.com
@@ -629,7 +627,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vikas Parashar http://vikasparashar.in/
 - Vikram Tiwari https://vikramtiwari.com
 - Vinay Hiremath https://vinayh.com
-- Vinayak Mehta http://vortex-ape.github.io
 - Vincent Yang https://vincentyang.me
 - Vipin Sharma  http://vipinsharma.me
 - Vishnu Ks http://vishnuks.com
@@ -654,6 +651,5 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
 - Zachary Espiritu http://zacharyespiritu.com
-- Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
 - Zeeshan Mughal http://www.zeeshanmughal.com
