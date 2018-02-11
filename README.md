@@ -283,6 +283,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jack Wearden https://www.jackwearden.co.uk
 - Jacob Jenkins http://jacobejenkins.com
 - Jairam Patel http://jairampatel.com/
+- Jake Lawrence https://lawja.io
 - James Billingham http://jamesbillingham.com
 - James Kao http://jameskao.me
 - James Liu https://jamesliu.ca
