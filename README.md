@@ -490,6 +490,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Richard Chu http://churichard.me/
 - Richard Kraaijenhagen http://riichard.com/
 - Rikin Katyal http://sirvar.com
+- Rishav Pandey http://www,rishavpandey.me
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
 - Ritvik Choudhary http://ritvik1512.xyz
