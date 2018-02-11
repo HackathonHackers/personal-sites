@@ -15,7 +15,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Abhinav Rajaseshan http://abhiseshan.me
 - Abhinav Sharma http://excode.me
 - Abhishek Sharma http://abhisheksharma.design
-- Abinav Seelan [http://abinavseelan.com](http://abinavseelan.com?utm_source=hackathonHackersGithub)
+- Abinav Seelan http://abinavseelan.com
 - Abody Aljoudi https://chrismatic.io/
 - Achal Varma http://acha.lv/
 - Acho Arnold http://acho.arnold.cf/
@@ -34,7 +34,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ajay Singh https://about.me/ajay-s
 - Ajit Pawar http://pawar.ca/
 - Akash Patel http://akashp.co
-- [Akash Tandon](http://github.com/analyticalmonk) http://akashtandon.com
+- Akash Tandon http://akashtandon.com
 - Akhilesh Yarabarla http://yarabarla.com
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akul.me/
@@ -172,7 +172,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Christopher Su http://christopher.su
 - Cindy Yu http://cindyyu.com
 - Clayton Brand http://claytonbrand.com
-- Colin Mcillece http://cmacca.github.io
 - Connor Smith http://www.connor-a-smith.com
 - Cosi Leone http://cosileone.com/
 - Cyrus Roshan http://cyrusroshan.me
@@ -448,7 +447,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nikhita Raghunath https://nikhita.github.io
 - Nimit Kalra http://nimit.io
 - Niraj Pant http://niraj.io
-- Nishanth Shanmugham https://nishanths.github.io
 - Noah Hradek   http://noahhradek.me/
 - Noam Hacker http://noamhacker.com/
 - Noga Raviv http://nogaraviv.com
@@ -490,6 +488,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Richard Chu http://churichard.me/
 - Richard Kraaijenhagen http://riichard.com/
 - Rikin Katyal http://sirvar.com
+- Rishav Pandey http://www,rishavpandey.me
 - Rishi Dhanaraj http://rishi.io
 - Rishi Dua http://www.rishidua.com
 - Ritvik Choudhary http://ritvik1512.xyz
@@ -628,7 +627,6 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vikas Parashar http://vikasparashar.in/
 - Vikram Tiwari https://vikramtiwari.com
 - Vinay Hiremath https://vinayh.com
-- Vinayak Mehta http://vortex-ape.github.io
 - Vincent Yang https://vincentyang.me
 - Vipin Sharma  http://vipinsharma.me
 - Vishnu Ks http://vishnuks.com
@@ -653,6 +651,5 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Zach Fogg http://zfo.gg/
 - Zach Jaffee http://zjaffee.com
 - Zachary Espiritu http://zacharyespiritu.com
-- Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
 - Zeeshan Mughal http://www.zeeshanmughal.com

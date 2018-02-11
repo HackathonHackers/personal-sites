@@ -551,7 +551,7 @@ Hackathon Hackers' GitHub profiles
 - Megan Chen https://github.com/gauss1181
 - Megan Ruthven https://github.com/maruthven
 - Mehak Vohra https://github.com/watthemehak
-- Mehul Prajapati https://github.com/mehul-m-prajapati 
+- Mehul Prajapati https://github.com/mehul-m-prajapati
 - Melanie Hsu https://github.com/bluemelodia
 - Micah Weitzman https://github.com/mikachoow21
 - Michael Cai https://github.com/caimichael
@@ -694,6 +694,7 @@ Hackathon Hackers' GitHub profiles
 - Richard Yang https://github.com/elyrly
 - Rigved Tummala https://github.com/Rigabyte
 - Rikin Katyal https://github.com/rikinkatyal
+- Rishav Pandey https://github.com/rishav-pandey
 - Rishi Dhanaraj https://github.com/rdhanaraj
 - Rishi Dua https://github.com/rishirdua
 - Ritvik Choudhary https://github.com/Ritvik1512
@@ -885,7 +886,6 @@ Hackathon Hackers' GitHub profiles
 - Vikas Parashar https://github.com/vikas-parashar
 - Vikrem https://github.com/vikrem
 - Vinay Hiremath https://github.com/vinayh
-- Vinayak Mehta https://github.com/vortex-ape
 - Vincent Yang https://github.com/YangVincent
 - Viraj Bhalara https://github.com/virajbhalala
 - Vishnu Ks https://github.com/hackerkid
@@ -915,7 +915,6 @@ Hackathon Hackers' GitHub profiles
 - Zachary Espiritu https://github.com/ZacharyEspiritu
 - Zachary Shakked https://github.com/shakked
 - Zack Maldonado https://github.com/Danubian
-- Zakaria Ridouh https://github.com/ZakariaRidouh
 - Zakariyya Mughal https://github.com/zmughal
 - Zane Blackwell Sterling https://github.com/Shriken
 - Zhou Yi https://github.com/ZhouYii
