@@ -433,6 +433,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nate Levesque http://thenaterhood.com
 - Nate Owen http://nateo.co
 - Nathaniel Baulch-Jones http://natbj.me
+- Nathaniel Johnson http://nathanieljohnson.me
 - Natu Myers http://natumyers.com
 - Naveen Shukla http://naveenshukla.github.io
 - Navraj Narula http://navierula.github.io
