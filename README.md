@@ -593,6 +593,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sushrut Shringarputale https://sushshring.me
 - Suyash Lakhotia http://suyashlakhotia.com
 - Suzen Fylke http://suzenfylke.com/
+- Swapnil Agarwal https://swapnil.net/
 - Swati Garg http://swati4star.github.io
 - Swati Maheshwari http://swatimaheshwari.github.io/
 - Taher Dhilawala http://taher.me
