@@ -527,6 +527,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
 - Samay Shamdasani https://shamdasani.org
+- Sambhav Jain https://sambhav2612.github.io
 - Sameer Khoja http://sameerkhoja.com
 - Sameer Kumar http://www.sameerkumar.website
 - Sanil Chawla http://sanil.co/
