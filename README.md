@@ -176,6 +176,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Connor Smith http://www.connor-a-smith.com
 - Cosi Leone http://cosileone.com/
 - Cyrus Roshan http://cyrusroshan.me
+- Dailton Rabelo http://dailtonrabelo.com
 - Dakota St. Laurent http://stdako.com
 - Dan Appel https://dvappel.me
 - Dan Fujita http://danfujita.com
