@@ -8,6 +8,7 @@ Hackathon Hackers' GitHub profiles
 - Aaron Dancer https://github.com/aaron7pm
 - Aaron Gunderson https://github.com/agundy
 - Aaron Landy https://github.com/aaln
+- Aaron Osher https://github.com/aaronosher
 - Aashni Shah https://github.com/aashnisshah
 - Aasiruddin Walajahi https://github.com/Aasir
 - Aayush Ranaut https://github.com/aayushranaut

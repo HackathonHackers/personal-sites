@@ -10,6 +10,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Aashni Shah http://aashni.me
 - Aaron Dancer http://aarondancer.com
 - Aaron Gunderson http://www.agundy.com
+- Aaron Osher https://aaronosher.io
 - Aayush Ranaut http://aayush.net
 - Abhinav Kurada http://akurada.tech
 - Abhinav Rajaseshan http://abhiseshan.me
