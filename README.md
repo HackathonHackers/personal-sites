@@ -170,6 +170,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Christopher Scott http://scottdchris.com
 - Christopher Smith http://cvsmith.me
 - Christopher Su http://christopher.su
+- Cindy Le http://en.tcxx.info
 - Cindy Yu http://cindyyu.com
 - Clayton Brand http://claytonbrand.com
 - Colin Mcillece http://cmacca.github.io
