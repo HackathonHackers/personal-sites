@@ -166,7 +166,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Chris Lee http://collegefill.com
 - Christian Barcenas http://www.cbarcenas.com/
 - Christina Platt http://christinaplatt.weebly.com
-- Christopher Ngo http://ingochris.tech
+- Christopher Ngo https://ingochris.tech
 - Christopher Scott http://scottdchris.com
 - Christopher Smith http://cvsmith.me
 - Christopher Su http://christopher.su
