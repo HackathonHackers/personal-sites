@@ -400,6 +400,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Matthew Kaufer http://kaufer.org
 - Max Maybury http://maxjmay.co.uk
 - Max Shavrick http://mxms.pw
+- Mayank Sharma http://mayanksharma.herokuapp.com/
 - Meet Shah http://meetshah1995.github.io/
 - Megan Ruthven http://maruthven.com/
 - Mehul Prajapati https://mehul-m-prajapati.github.io/
