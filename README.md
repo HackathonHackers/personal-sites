@@ -252,6 +252,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Gurnoor Singh https://gurnoorsingh.com
 - Gyan Lakhwani http://gyanl.com
 - Hamza Khan https://hamzakhan.org
+- Harikesh Pallantla https://www.harikesh.me
 - Harris Christiansen http://harrischristiansen.com
 - Harry Gogonis http://hgogonis.me
 - Harsh Vardhan http://royalharsh.github.io

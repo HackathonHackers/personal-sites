@@ -321,6 +321,7 @@ Hackathon Hackers' GitHub profiles
 - Haider Khan https://github.com/ZkHaider
 - Hamza Khan https://github.com/hamza765
 - Hansen Chang https://github.com/byteair
+- Harikesh Pallantla https://github.com/harikesh409
 - Haris Iqbal https://github.com/hiqbal01
 - Harrison Freni https://github.com/HFreni
 - Harry Gogonis https://github.com/HarryGogonis
