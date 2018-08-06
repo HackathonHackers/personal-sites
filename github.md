@@ -612,6 +612,7 @@ Hackathon Hackers' GitHub profiles
 - Nick Roberts https://github.com/nickroberts404
 - Nick Sahler https://github.com/nicksahler
 - Nick Sargente https://github.com/primis
+- Nick Wu https://github.com/nickwu241
 - Nick Zuber https://github.com/nickzuber
 - Nicky Semenza https://github.com/nickysemenza
 - Nico Hinderling https://github.com/nicohinderling
