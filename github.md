@@ -125,7 +125,7 @@ Hackathon Hackers' GitHub profiles
 - Ashpan Raskar https://github.com/Ashpanr
 - Ashutosh Kumar https://github.com/ashutoshpw
 - Ashwin Kachhara https://github.com/ashwinkachhara
-- Aury Bwashi https://github.com/aurybwa
+- Aury Bwashi https://github.com/uwarwaga
 - Austin Feight https://github.com/Feighter09
 - Austin L. Chang https://github.com/austinlchang
 - Avijeet Gupta https://github.com/avijeet95
@@ -551,7 +551,7 @@ Hackathon Hackers' GitHub profiles
 - Megan Chen https://github.com/gauss1181
 - Megan Ruthven https://github.com/maruthven
 - Mehak Vohra https://github.com/watthemehak
-- Mehul Prajapati https://github.com/mehul-m-prajapati 
+- Mehul Prajapati https://github.com/mehul-m-prajapati
 - Melanie Hsu https://github.com/bluemelodia
 - Micah Weitzman https://github.com/mikachoow21
 - Michael Cai https://github.com/caimichael
