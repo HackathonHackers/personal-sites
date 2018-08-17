@@ -113,7 +113,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ashutosh Kumar https://ashutoshanand.com
 - Ashwin Kachhara http://ashwinkachhara.com
 - Athul Atom Vayalinkal http://vayalinkal.com
-- Aury Bwashi http://aurybwashi.me
+- Aury Bwashi https://www.aurybwashi.com/
 - Austin L. Chang http://www.austinlchang.com
 - Austin Liu http://aliu139.github.io/
 - Avi Kejariwal http://www.avikejariwal.com
