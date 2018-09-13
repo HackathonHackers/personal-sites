@@ -64,6 +64,7 @@ Hackathon Hackers' GitHub profiles
 - Alvin Deng https://github.com/alvin319
 - Amanda Sullivan https://github.com/amandasullivan
 - Aman Roy https://github.com/aman-roy
+- Amey Ambade https://github.com/ameyxd
 - Amine Afia https://github.com/AmineAfia
 - Amit Chaudhary https://github.com/amitness
 - Amrit Singh https://github.com/SuperHaker
