@@ -667,6 +667,7 @@ Hackathon Hackers' GitHub profiles
 - Rafayel Mkrtchyan https://github.com/MicBrain
 - Raghav Dua https://github.com/duaraghav8
 - Raghav Sood https://github.com/RaghavSood
+- Rahul Bagad https://github.com/rahulbagad
 - Rahul Chaudhary https://github.com/rahulch95
 - Rahul Ranjan https://github.com/rahulrrixe
 - Rahul Tuteja https://github.com/doomers
