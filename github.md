@@ -249,6 +249,7 @@ Hackathon Hackers' GitHub profiles
 - Dhruv Arora https://github.com/dhruvarora
 - Dhruv Ramani https://dhruvramani.github.io/
 - Diana Zink https://github.com/deftworker
+- Dick Wyn Yong https://www.github.com/dickwyn
 - Dilpreet Chana https://github.com/DSchana
 - Dima Konev https://github.com/silverezhik
 - Dima Vishnevetsky https://github.com/dimshik100

@@ -208,6 +208,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dhruv Ramani https://dhruvramani.github.io/
 - Diana Chang http://DChang87.github.io
 - Diana Zink http://doerhub.com/of/diana
+- Dick Wyn Yong https://www.dickwyn.xyz/
 - Dilpreet Chana http://dschana.com/
 - Diogo Capela http://diogocapela.com
 - Dima Konev http://ezhik.me
