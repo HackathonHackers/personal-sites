@@ -336,6 +336,7 @@ Hackathon Hackers' GitHub profiles
 - Hima Tammineedi https://github.com/himat
 - Hiten Sharma https://github.com/htadg
 - Hugh Rawlinson http://hraw.me
+- Humayun Khan https://github.com/humayunkakar7
 - Humdaan Mustafa https://github.com/humishum
 - Hunter Larco https://github.com/hunterlarco
 - Hussain Abbas https://github.com/superhussain
