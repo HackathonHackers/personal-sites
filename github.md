@@ -201,6 +201,7 @@ Hackathon Hackers' GitHub profiles
 - Colin Mcillece https://github.com/Cmacca
 - Collin Hartigan https://github.com/cissovereign
 - Colton Anglin https://github.com/colton
+- Connor Mulqueen https://github.com/connormulqueen
 - Conrad Kramer https://github.com/conradev
 - Courtney Gray Tambling https://github.com/tamblc
 - Cristian Valentini https://github.com/crivato
