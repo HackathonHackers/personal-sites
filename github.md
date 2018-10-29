@@ -274,6 +274,7 @@ Hackathon Hackers' GitHub profiles
 - Eric Zinnikas https://github.com/ericzinnikas
 - Erica Douglass https://github.com/ericabiz
 - Ethan Arnold https://github.com/masonsbro
+- Ethan Chiu https://github.com/ethanchewy
 - Ethan Richardson http://github.com/ethanx94
 - Eugene Cheung https://github.com/arkon
 - Ezekiel Kigbo https://github.com/theatlasroom
