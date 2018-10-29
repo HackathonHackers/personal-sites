@@ -222,6 +222,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Eric Lee http://thecreedo.github.io
 - Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
+- Ethan Chiu https://ethanchiu.xyz/
 - Ethan Richardson http://richardsonethan.me
 - Eugene Cheung www.echeung.me
 - Ezekiel Kigbo http://eakigbo.me
