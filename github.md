@@ -270,6 +270,7 @@ Hackathon Hackers' GitHub profiles
 - Eric Bachmeier https://github.com/ericbachmeier5
 - Eric Kamen https://github.com/wchill
 - Eric Lee https://github.com/theCreedo
+- Eric Patrick https://github.com/epatr
 - Eric Song https://github.com/ericsong
 - Eric Zinnikas https://github.com/ericzinnikas
 - Erica Douglass https://github.com/ericabiz
