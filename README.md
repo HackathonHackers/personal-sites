@@ -220,6 +220,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Elissa Shevinsky http://elissashevinsky.com
 - Eric Bachmeier http://ericbachmeier5.github.io
 - Eric Lee http://thecreedo.github.io
+- Eric Patrick https://epatr.com
 - Eric Song http://ericsong.io
 - Eric Zinnikas https://ericz.com
 - Ethan Richardson http://richardsonethan.me
