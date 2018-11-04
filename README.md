@@ -128,6 +128,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ben Williams http://719Ben.com
 - Bernice Go http://bernicewygo.github.io
 - Berwin Xie http://berwin.io
+- Bharath Kumar Ravichandran http://bharathkumarr.me/
 - Bilal Majeed http://bilalmajeed.com
 - Bill Guo http://billguocheng.com
 - Bo Pace http://bopace.com
