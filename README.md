@@ -335,6 +335,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Justin Paulin http://justinpaulin.com
 - Justin Yang http://y4ng.com
 - Kamesh Vedula http://kameshvedula.com
+- Kanisk Chakraborty http://knsk.me
 - Karan Goel http://www.goel.im
 - Karan Shah www.karanprime.com
 - Karan Sharma http://karansh.me/
