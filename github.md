@@ -454,6 +454,7 @@ Hackathon Hackers' GitHub profiles
 - Justine De Caires https://github.com/jdecked
 - Juvoni Beckford https://github.com/juvoni
 - Kamesh Vedula https://github.com/kvedula
+- Kanisk Chakraborty https://github.com/k-n-sk
 - Karan Goel https://github.com/karan
 - Karan Sharma https://github.com/mr-karan
 - Karl Coelho https://github.com/karlcoelho
