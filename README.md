@@ -213,6 +213,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Dima Konev http://ezhik.me
 - Dima Vishnevetsky http://www.dimshik.com
 - Dominic Dabish http://www.dominicdabish.com/
+- Doug Royer https://DougRoyer.US
 - Dylan McIntyre http://dmcintyre.net
 - Elad Keyshawn http://eladkeyshawn.tk/
 - Eli White http://eli-white.com
