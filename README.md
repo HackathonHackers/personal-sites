@@ -636,6 +636,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vishnu Ravi http://vishnu.io/
 - Vivek Vaidya https://vivekvaidya.me/
 - Wasim Thabraze http://thabraze.me
+- Waun Broderick https://waunbroderick.me
 - Will Field-Thompson http://willft.io
 - William Cockburn http://syrexide.com
 - William Huang http://www.hellowilliam.com
