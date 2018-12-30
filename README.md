@@ -597,6 +597,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Swati Maheshwari http://swatimaheshwari.github.io/
 - Taher Dhilawala http://taher.me
 - Tanaka Chingonzo http://tanaka.co.zw/
+- Tao Ling http://taoling.me/
 - Tejas Manohar http://tejas.io
 - Tejas Nikumbh http://tejasnikumbh.github.io
 - Terry Piercson http://taehongmin.com/
