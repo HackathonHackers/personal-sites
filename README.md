@@ -5,6 +5,7 @@ Sorted alphabetically by first name. To add yours, please see [the contributing 
 
 If you'd like to see GitHub profiles, [click here](github.md).
 
+- Azhar Mithani https://themithani.github.io/
 - Aakash Japi http://aakashjapi.com/
 - Aamir Ahmad http://aamirahmad.me/
 - Aashni Shah http://aashni.me
