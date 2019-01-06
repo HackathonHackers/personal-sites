@@ -1,6 +1,7 @@
 Hackathon Hackers' GitHub profiles
 ====================================
 
+- Azhar Mithani https://github.com/AzharMithani
 - Aakash Japi https://github.com/logicx24
 - Aamir Ahmad https://github.com/aamirsahmad
 - Aashni Shah https://github.com/aashnisshah
