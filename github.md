@@ -132,6 +132,7 @@ Hackathon Hackers' GitHub profiles
 - Avijeet Sachdev https://github.com/avijeets
 - Ayush Singh https://github.com/ayush1997
 - Azam Abdulkadir https://github.com/AzamAbdul
+- Azhar Mithani https://github.com/AzharMithani
 - Basil Siddiqui https://github.com/bsiddiqui
 - Batu Aytemiz https://github.com/batu
 - Ben Alderfer https://github.com/balderfer

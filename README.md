@@ -120,6 +120,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Avijeet Gupta http://avijeetgupta.me/
 - Avijeet Sachdev http://avijeets.com
 - Ayush Singh http://ayush1997.github.io
+- Azhar Mithani https://themithani.github.io/
 - Banghua Zhao http://banghuazhao.com/
 - Ben Congdon http://benjamincongdon.me/
 - Ben Johnston https://benjdj6.github.io
