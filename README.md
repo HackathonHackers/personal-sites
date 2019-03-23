@@ -643,6 +643,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - William Woodruff http://woodruffw.us
 - Wilson Ding http://wilsonding.com
 - Winson Luk http://www.winsonluk.com
+- Wyatt Phillips https://wphillips.me/
 - Xiao He  http://xiaojunhe.com
 - Yask Srivastava http://iyask.me
 - Yasha Mostofi http://www.yashamostofi.com/
