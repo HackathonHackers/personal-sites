@@ -526,6 +526,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
+- Samantha Floyd https://samanthafloyd.me
 - Samay Shamdasani https://shamdasani.org
 - Sameer Khoja http://sameerkhoja.com
 - Sameer Kumar http://www.sameerkumar.website
