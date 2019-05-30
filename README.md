@@ -464,6 +464,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Patrick Tumbucon http://tumbucon.tech
 - Paul Krishnamurthy http://paulkr.com
+- Paul Razvan Berg https://paulrberg.com
 - Paweł Szczurko www.pawel.pw
 - Peter Leng http://peterleng.com/
 - Phil Efstathiou http://phil.ws/
