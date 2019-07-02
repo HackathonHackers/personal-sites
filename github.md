@@ -41,6 +41,7 @@ Hackathon Hackers' GitHub profiles
 - Akshay Dixit https://github.com/akshaydixi
 - Akul Mehra https://github.com/akul08
 - Al Johri https://github.com/AlJohri
+- Alan Bi https://github.com/alankbi
 - Alan Plotko https://github.com/alanplotko
 - Albert Guo https://github.com/guozhaonan
 - Albert Untung https://github.com/aulb
