@@ -39,6 +39,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Akshay Dixit http://akshaydixi.me
 - Akul Mehra http://akul.me/
 - Alaina Kafkes http://alainakafk.es
+- Alan Bi https://www.alanbi.com
 - Alan Chen http://alanchen.co
 - Albert Untung http://albert.wtf
 - Alberto Villalobos http://albertovillalobos.me/
