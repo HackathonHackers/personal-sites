@@ -201,6 +201,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David Mattia http://www.david-mattia.com
 - David Meza http://www.davidmeza.us
 - Deepak Pathania http://deepakpathania.github.io
+- Deeptanshu Malik https://deeptanshumalik.com
 - Derek Hua http://derekhua.me
 - Devin Soni http://100.github.io/
 - Dhiraj Bodicherla http://dhiraj.me
