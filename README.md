@@ -566,7 +566,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shubham Sawant http://moghya.me
 - Shy Ruparel http://ruparel.co
 - Simeon Videnov http://simeon.io
-- Simon Tang http://stang.xyz
+- Simon Tang http://simontang.dev
 - Sophie Wang http://individual.utoronto.ca/channelSW/
 - Sonny Lazuardi http://sonnylab.com
 - Sourabh Shetty http://sourabh.io
