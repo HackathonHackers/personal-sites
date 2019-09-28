@@ -202,6 +202,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - David Meza http://www.davidmeza.us
 - Deepak Pathania http://deepakpathania.github.io
 - Derek Hua http://derekhua.me
+- ***Devansh Sharma*** http://devansh-sharma.me
 - Devin Soni http://100.github.io/
 - Dhiraj Bodicherla http://dhiraj.me
 - Dhruv Arora http://arora.io
