@@ -604,6 +604,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Timotius Sitorus http://timsitorus.com
 - TJ Horner http://horner.tj/hello
 - Tom Koker http://tomkoker.com
+- Tony Sim http://y2s.ca
 - Tristan Wiley http://tristanwiley.com/
 - Tu Tran http://www.tuvtran.com
 - Tushar Chopra http://chopratushar.com
