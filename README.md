@@ -532,6 +532,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sanil Chawla http://sanil.co/
 - Sang Han http://sanghan.me
 - Sanjeev S Nair http://www.sanjeevs.net/
+- Sanjay Pokkali https://sanjaypokkali.github.io/
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sanyam Khurana http://www.SanyamKhurana.com
 - Saransh Kataria https://www.wisdomgeek.com
