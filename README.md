@@ -428,6 +428,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Nakul Pathak http://nakulpathak.com
 - Naman Maheshwari http://www.namanmaheshwari.com/
 - Namit Juneja http://namitjuneja.com
+- Nancy Chauhan http://nancychauhan.in/
 - Naomi Pentrel http://naomi.codes/
 - Naresh R http://ghostwriternr.me/
 - Nate Levesque http://thenaterhood.com
