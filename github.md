@@ -839,6 +839,7 @@ Hackathon Hackers' GitHub profiles
 - Swati Garg https://github.com/Swati4star
 - Syed Raziq Mohideen https://github.com/sandybisaria
 - Taher Dhilawala https://github.com/taher435
+- Tailai Wang https://github.com/tailaiwang
 - Tarik Onalan https://github.com/QuantumPhi
 - Taylor Blau https://github.com/ttaylorr
 - Tejas Manohar https://github.com/tejasmanohar
