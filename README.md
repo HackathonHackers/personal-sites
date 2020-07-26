@@ -499,6 +499,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Robert Reinold http://www.robreinold.com
 - Robin van Wijngaarden http://www.robinvanwijngaarden.com/
 - Robin Wakeman http://robinwakeman.ca/
+- Roderick Bishop https://roderick-bishop11.github.io/codingProjects/
 - Rodrigo Argumedo http://rodrigoargumedo.github.io
 - Roger Zou http://rogergzou.com
 - Rohan Likhite http://rohanlikhite.com
