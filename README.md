@@ -595,6 +595,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Suzen Fylke http://suzenfylke.com/
 - Swati Garg http://swati4star.github.io
 - Swati Maheshwari http://swatimaheshwari.github.io/
+- Swopnil N. Shrestha https://swopnilnep.com
 - Taher Dhilawala http://taher.me
 - Tanaka Chingonzo http://tanaka.co.zw/
 - Tejas Manohar http://tejas.io
