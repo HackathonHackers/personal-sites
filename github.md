@@ -167,6 +167,7 @@ Hackathon Hackers' GitHub profiles
 - Bryan Garza https://github.com/bryangarza
 - Burak Içel https://github.com/burakicel
 - Caitlin McDonald https://github.com/mcdonaldca
+- Caitlin Stanton https://codercaitlin.io
 - Camille Nibungco https://github.com/Cnibungco
 - Campion Fellin https://github.com/campionfellin
 - Canzhi Ye https://github.com/canzhiye

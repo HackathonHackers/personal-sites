@@ -143,6 +143,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Bruno B. Ferrari Faviero http://brunofaviero.com
 - Bryan Garza http://bryangarza.me
 - Caitlin McDonald http://www.caitlinamcdonald.com
+- Caitlin Stanton https://codercaitlin.io
 - Camille Considine http://www.camilleconsidine.com
 - Campion Fellin http://campionfellin.com
 - Caroline Hermans http://carolinehermans.com
