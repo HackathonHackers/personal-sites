@@ -342,7 +342,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Karthikeyan NG http://www.intrepidkarthi.com
 - Kaustav Haldar http://kaustavha.github.com
 - Keaton Okkonen http://keatco.de
-- Kenneth Schnall https://kensch.com
+- Kenneth Schnall https://kennethaschnall.com
 - Keon Kim http://keon.io
 - Kevin Beaulieu http://www.kevinmbeaulieu.com
 - Kevin Frans http://www.kevinfrans.com
