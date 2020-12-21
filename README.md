@@ -473,6 +473,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Pranit Bauva http://www.bauva.com
 - Pramesh Bajracharya http://bajracharya.me
 - Preston Mueller http://prestonmueller.com
+- Preston Rakovsky http://prestonr.xyz
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
 - Raghav Dua http://raghavdua.com
