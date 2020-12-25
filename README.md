@@ -131,6 +131,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Bilal Majeed http://bilalmajeed.com
 - Bill Guo http://billguocheng.com
 - Bo Pace http://bopace.com
+- Bonnie Peng http://bonniepeng.com
 - Brandon Amos http://bamos.github.io
 - Brandon Davis http://subdavis.com
 - Brandon Truong http://hello.brandontruong.com
