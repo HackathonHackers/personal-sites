@@ -529,6 +529,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Samay Shamdasani https://shamdasani.org
 - Sameer Khoja http://sameerkhoja.com
 - Sameer Kumar http://www.sameerkumar.website
+- Sandeep Singh https://sandeep-blackhat.github.io/
 - Sanil Chawla http://sanil.co/
 - Sang Han http://sanghan.me
 - Sanjeev S Nair http://www.sanjeevs.net/
