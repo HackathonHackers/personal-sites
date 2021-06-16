@@ -657,6 +657,7 @@ Hackathon Hackers' GitHub profiles
 - Pramesh Bajracharya https://github.com/Suzal3579
 - Pranav Chaudhari https://github.com/hahjoker
 - Pranay Pareek https://github.com/pranaypareek
+- Prathap Rathod https://www.prathaprathod.in
 - Preston Mueller https://github.com/mathcolo
 - Prithvi Narasimhan https://github.com/prithvin
 - Purag Moumdjian https://github.com/purmou
