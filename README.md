@@ -275,6 +275,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Iheanyi Ekechukwu http://iheanyi.com
 - Isaac Addis https://isaacaddis.github.io/
 - Isaac Gluck http://isaacgluck.com
+- Isha Mehta https://isha614.github.io/Personal-Portfolio/
 - Ismael Rodriguez http://ismaelrh.com
 - Jack Fischer http://jackfischer.me
 - Jack Korbin www.lykpic.com
