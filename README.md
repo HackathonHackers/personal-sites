@@ -479,6 +479,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Raghav Sood http://raghavsood.com
 - Rahul Tuteja http://tutejarahul.co
 - Raja Sekar http://rajasekarm.com
+- Rajan Agarwal https://heyrajan.com
 - Rajan Bhattarai https://www.cdrrazan.me
 - Rajat Mehndiratta http://rajatmehndiratta.me
 - Raphael Rouvinov-Kats http://raphaelrk.com
