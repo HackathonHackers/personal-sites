@@ -59,6 +59,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Amber Jain http://amberja.in/
 - Amine Afia https://amineafia.github.io/
 - Amit Chaudhary https://amitness.com
+- Amit Singh http://amitsingh.ml/
 - Amrit Singh http://singhamrit.me
 - Anantha Natarajan S http://ananth.co.in
 - Anat Gilboa http://anat.me
