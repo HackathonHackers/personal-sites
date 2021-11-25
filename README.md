@@ -238,6 +238,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Ganesh Swamypillai http://iotenthu.com
 - Gangeshwar Krishnamurthy http://gangeshwark.com/
 - Gary-Yau Chan http://garyyauchan.com
+- Gaurav Pandey https://gauravpandey.tech
 - Gautam Mittal http://www.gautam.cc
 - Gautham Santhosh https://gauthamzz.github.io
 - George Lee http://georgel.ee
