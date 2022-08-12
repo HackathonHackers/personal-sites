@@ -460,6 +460,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Panashe Mahachi http://pkm.me
 - Pandelis Zembashis http://pandelis.me
 - Parth Mehrotra http://parthmehrotra.com
+- Partho Das https://daspartho.github.io/
 - Pat Myron http://patmyron.com
 - Patricio Córdova http://www.cs.toronto.edu/~patricio
 - Patrick Tumbucon http://tumbucon.tech
