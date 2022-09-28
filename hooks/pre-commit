@@ -1,30 +1,32 @@
 #!/usr/bin/env python
 
 from __future__ import print_function
-
-import os
 import sys
+import os
 
-def extract_names(f_name):
-    with open(f_name, 'r') as f:
+
+def extract_names(file_name):
+    with open(file_name, 'r') as f:
         for line in f:
             # Probably should look for -\S+[A-Za-z\S]+ <url> instead
             if line.startswith('- '):
                 yield line.split(' ', 1)[1]
 
+
 def strip_url(s):
     return " ".join(s.strip().split(' ')[:-1])
 
+
 def validate_ordering():
     ret_val = 0
-    for f_name in ['README.md', 'github.md']:
-        if not os.path.exists(f_name):
-            print(' [-] Aborting commit: expecting %s to exist'%f_name)
+    for file_name in ['README.md', 'github.md']:
+        if not os.path.exists(file_name):
+            print(' [-] Aborting commit: expecting %s to exist'%file_name)
             ret_val = 1
         else:
-            print(' [+] Checking %s'%f_name)
+            print(' [+] Checking %s'%file_name)
             prev_line = None
-            for line in extract_names(f_name):
+            for line in extract_names(file_name):
                 if prev_line is not None and line.lower() < prev_line.lower():
                     print(" [-] Aborting commit: %s and %s are out of order!"%(
                         strip_url(line),
@@ -32,6 +34,7 @@ def validate_ordering():
                     ret_val = 1
                 prev_line = line
     return ret_val
+
 
 if __name__ == '__main__':
     sys.exit(validate_ordering())
