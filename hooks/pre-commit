@@ -1,11 +1,8 @@
 #!/usr/bin/env python
 
 from __future__ import print_function
-
-import os
 import sys
-import re
-import requests
+import os
 
 
 def extract_names(file_name):
@@ -18,42 +15,6 @@ def extract_names(file_name):
 
 def strip_url(s):
     return " ".join(s.strip().split(' ')[:-1])
-
-
-def return_url(s):
-    url = s.strip().split(' ')[-1]
-    if url.startswith('http'):
-        return url
-    elif url.startswith('['):
-        url = re.search('\[(.+?)\]', url)
-        if url:
-            return url.group(1)
-    else:
-        return 'http://' + url
-
-
-def check_line_for_reachable_url(line, file):
-    if line.startswith('- '):
-        url = return_url(line)
-        try:
-            get = requests.get(url, timeout=5)
-            if get.status_code == 200:
-                print(line)
-                file.write(line)
-        except Exception as e: 
-            print(e)
-    else:
-        file.write(line)
-        print(line)
-
-
-def drop_dead_urls():
-    with open('README.md', "r") as f:
-        lines = f.readlines()
-    with open('README.md', "w") as f:
-        # multiprocessing?
-        for line in lines:
-            check_line_for_reachable_url(line, f)
 
 
 def validate_ordering():
@@ -72,7 +33,6 @@ def validate_ordering():
                         strip_url(prev_line)))
                     ret_val = 1
                 prev_line = line
-    drop_dead_urls()
     return ret_val
 
 
