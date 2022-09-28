@@ -4,6 +4,7 @@ from __future__ import print_function
 
 import os
 import sys
+import re
 import requests
 
 
@@ -20,28 +21,40 @@ def strip_url(s):
 
 
 def return_url(s):
-    return s.strip().split(' ')[-1]
+    url = s.strip().split(' ')[-1]
+    if url.startswith('http'):
+        return url
+    elif url.startswith('['):
+        url = re.search('\[(.+?)\]', url)
+        if url:
+            return url.group(1)
+    else:
+        return 'http://' + url
 
 
 def check_line_for_reachable_url(line, file):
     if line.startswith('- '):
         url = return_url(line)
-        get = requests.get(url)
-        # if the request succeeds
-        if get.status_code == 200:
-            file.write(line)
+        try:
+            get = requests.get(url, timeout=5)
+            if get.status_code == 200:
+                print(line)
+                file.write(line)
+        except Exception as e: 
+            print(e)
     else:
         file.write(line)
-             
+        print(line)
+
 
 def drop_dead_urls():
-    for file_name in ['README.md', 'github.md']:
-        with open(file_name, "r") as f:
-            lines = f.readlines()
-        with open(file_name, "w") as f:
-            for line in lines:
-                check_line_for_reachable_url(line, f)
-                
+    with open('README.md', "r") as f:
+        lines = f.readlines()
+    with open('README.md', "w") as f:
+        # multiprocessing?
+        for line in lines:
+            check_line_for_reachable_url(line, f)
+
 
 def validate_ordering():
     ret_val = 0
