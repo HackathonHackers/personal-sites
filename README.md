@@ -289,6 +289,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - James Vyas http://jimivyas.me
 - Jamone Kelly http://jamonek.com/
 - Jason Du http://dujason.com/
+- Jason Israilov [https://jasonisrailov.com](https://jasonisrailov.com?utm_source=github+hackathon+hackers "Jason Israilov's Personal Website")
 - Jason Liu http://jxnl.co
 - Jason Park http://jasonpark.me
 - Javier Taylor http://javiertaylor.com

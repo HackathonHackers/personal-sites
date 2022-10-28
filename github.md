@@ -382,6 +382,7 @@ Hackathon Hackers' GitHub profiles
 - Jared Wright https://github.com/jawerty
 - Jared Zoneraich https://github.com/jzone3
 - Jaskamal Kainth https://github.com/Jaskamalkainth
+- Jason Israilov [https://github.com/jasonisrailov](https://github.com/jasonisrailov "Jason Israilov's GitHub Profile")
 - Jason Liu https://github.com/jxnl
 - Jason Marmon https://github.com/jtmarmon
 - Jason Park https://github.com/parkjs814
