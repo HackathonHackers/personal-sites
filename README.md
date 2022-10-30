@@ -472,6 +472,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Prateek Chanda https://prateekiiest.github.io
 - Pranit Bauva http://www.bauva.com
 - Pramesh Bajracharya http://bajracharya.me
+- Prathap Rathod https://www.prathaprathod.in
 - Preston Mueller http://prestonmueller.com
 - Qile Wang http://aroundthelines.com/
 - Quim Llimona http://lemonzi.me
