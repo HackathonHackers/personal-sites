@@ -69,6 +69,7 @@ Hackathon Hackers' GitHub profiles
 - Amrit Singh https://github.com/SuperHaker
 - Amit Kumar Jaiswal https://amitkumarj441.github.io
 - Amyr Haq https://github.com/amyrhaq
+- Anandhu Sajan https://github.com/AnandhuSajan
 - Anantha Natarajan S https://github.com/sananth12
 - Ananya Cleetus https://github.com/ananyacleetus
 - Anat Gilboa https://github.com/anatg
