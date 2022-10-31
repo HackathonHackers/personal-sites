@@ -60,6 +60,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Amine Afia https://amineafia.github.io/
 - Amit Chaudhary https://amitness.com
 - Amrit Singh http://singhamrit.me
+- Anandhu Sajan https://anandhusajan.com
 - Anantha Natarajan S http://ananth.co.in
 - Anat Gilboa http://anat.me
 - Andras Varga http://avarga.me
