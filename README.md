@@ -614,6 +614,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Usmann Khan http://usmann.me
 - Vaibhav Maheshwari http://www.vaibhavgeek.me/
 - Vaidas Mykolaitis http://www.codepreneur.io/
+- Vaishnavi Kale https://github.com/vaishnavi-3969
 - Vansh Gandhi http://vanshgandhi.com
 - Vardhman Mehta http://mehtav.xyz
 - Varun Kumar https://heysadboy.github.io/
